@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/durbinlabs/Desktop/Github Projects/WebRTC-Testing/FloatingWindowDemo-master_AS/app/build/intermediates/res/merged/debug/anim/activity_slide_up.xml",
+        "source": "/home/durbinlabs/Desktop/Github Projects/WebRTC-Testing/FloatingWindowDemo-master_AS/app/src/main/res/anim/activity_slide_up.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Github Projects/WebRTC-Testing/FloatingWindowDemo-master_AS/app/build/intermediates/res/merged/debug/anim/activity_slide_down.xml",
+        "source": "/home/durbinlabs/Desktop/Github Projects/WebRTC-Testing/FloatingWindowDemo-master_AS/app/src/main/res/anim/activity_slide_down.xml"
+    }
+]

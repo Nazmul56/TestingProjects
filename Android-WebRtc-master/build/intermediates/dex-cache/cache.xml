@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.5/4f1ac7ec0215e8f87ac80269baadc82878b87ed8/rxjava-2.0.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4f1ac7ec0215e8f87ac80269baadc82878b87ed8">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/rxjava-2.0.5_ff536e53423f15b03bb7d74661ea743767201d7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/5a8bdfe7fd1407bf27a96fd2072cb3211f25d617/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/classes_772fd26a230596b2eb54d94131ec6791b88dbd38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/92887f405d99e0d2ba8f89510b50909d5a8f426b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/classes_2d4690de7eb70adcd06d876be238dec0c446b4c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/libs/libjingle_peerconnection.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="187a888b7cfb6f9678d8cca0aeb56a94a031733a">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/2/libjingle_peerconnection_eb1081a2021c3bb7de449933f052b8f8456541e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/android-studio/gradle/m2repository/com/android/databinding/baseLibrary/2.3.3/baseLibrary-2.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eb3399988a52099b0127e27fb5bed666eca86ace">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/baseLibrary-2.3.3_92f124d0326cc4b8d97fddfbc3d6302e77f8fb7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/221c44ca9847a21e736b37eaa3bdb46f3a623f1e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/classes_60898c1112f567f8d6e82253d06bdf8c8404b102/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/d9a1a151d003822dff7b23b49a06e2021f90609f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/classes_c7e3d08820a1bf2a40b28b3b3eba3f3dcc6f73b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/reactive-streams-1.0.0_52e0d88c002e17f13167620130b38dbc48be504d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/libs/base_java.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a07ea55a0c903b722b31d05feb833fd88c4c37d0">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/2/base_java_b1aa941e703597aece841753b4774e778803605f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/support-annotations-25.2.0_c33c76f987c916ded04fe8f096c6cafa04e0f4a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/3e321504eeb5affb627d32b081d9a1573e63571a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/classes_8af282aa1f99e4f4df144044351cb77272b0348e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/bde3fe480debc14a9cfcb2888882407958ef593f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/classes_c38c3a19d98e6dd4881f2c03cf35077f52f28062/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/incremental-runtime-classes/legacy/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10000/instant-run_6a16e9b1e1666502928686fd0f4217d751a9948f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/f5c6181cb53d17a18d52a0c1faa49ab282a01424/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="93b7d6ba3bb340e935bf7a36408eb3455264b759">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/classes_844b05dbb441fc43128dba48ac6327d7a6fcef66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/libs/autobanh.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9b51fb848b29a3e41b8474ce2d4360f4d7d144c5">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/2/autobanh_a925c9a11bcd92c5d4f801a175be4e43a367530d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/incremental-classes/legacy/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5611dcee270ce014337f5e9b147080fcd41c2109">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10000/instant-run-bootstrap_93cd997bb98deab1fb7a2584dab74113075a055e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-runtime/1.0.6/3562c66f648480d3bd4f76cff722488ced13445b/kotlin-runtime-1.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3562c66f648480d3bd4f76cff722488ced13445b">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/kotlin-runtime-1.0.6_0be9e390bd6a11247b7f340a4b6afd0cc6b29739/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/46d6ff9d60b5c73c31405ea014380f2ddc1d19d6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/classes_327294d6f53b027e7448554b95dfbdcd8c64e29b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/libs/libjingle_peerconnection.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="187a888b7cfb6f9678d8cca0aeb56a94a031733a">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/2/libjingle_peerconnection_eb1081a2021c3bb7de449933f052b8f8456541e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/053c5b3b07767f31fc07da8b89c9956b353ae26a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/classes_b31474cc5e0a37603db96444b55c161fc3d81613/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/android-studio/gradle/m2repository/com/android/databinding/baseLibrary/2.3.3/baseLibrary-2.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb3399988a52099b0127e27fb5bed666eca86ace">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/baseLibrary-2.3.3_92f124d0326cc4b8d97fddfbc3d6302e77f8fb7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.0.6/d19acb6ed49b9c48228c0e5dff8071fce23be4b8/kotlin-stdlib-1.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d19acb6ed49b9c48228c0e5dff8071fce23be4b8">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/kotlin-stdlib-1.0.6_42e0ef2c637da3456d665fd8429e771aee7325f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/incremental-runtime-classes/legacy/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10000/instant-run_6a16e9b1e1666502928686fd0f4217d751a9948f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/a03c01a8d11e6e83b31850cc9287a308fb16ccba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/classes_d7dd1fa944fd1d8d52fe0b04f6fb335ea412c1fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/3a99087b42b04e485ea7c2a5c919446bf2c7eb81/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/classes_070f668548c7baa7ca1aee5fa135ea19bcb74804/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/libs/base_java.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a07ea55a0c903b722b31d05feb833fd88c4c37d0">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/2/base_java_b1aa941e703597aece841753b4774e778803605f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/0b79cee2873f6c96ad5ecae37a8dde70dac7b7cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/classes_e8edd1ff6e0df60463498f0d97ff47077671244b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/0b6e2973a48002bcb87bd24f2f94138f69e5b597/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/classes_1f52283b09f0ff62d79dc577981432562c9a170d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/incremental-classes/legacy/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5611dcee270ce014337f5e9b147080fcd41c2109">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10000/instant-run-bootstrap_93cd997bb98deab1fb7a2584dab74113075a055e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/libs/autobanh.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9b51fb848b29a3e41b8474ce2d4360f4d7d144c5">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/2/autobanh_a925c9a11bcd92c5d4f801a175be4e43a367530d/classes.dex" />
+    </item>
+
+</items>

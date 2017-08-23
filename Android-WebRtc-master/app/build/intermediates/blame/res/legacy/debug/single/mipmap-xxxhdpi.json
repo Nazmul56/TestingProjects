@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/res/merged/legacy/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Office Project/Android-WebRtc-master/app/build/intermediates/res/merged/legacy/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/durbinlabs/Desktop/Office Project/Android-WebRtc-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

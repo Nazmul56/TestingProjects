@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/durbinlabs/Desktop/Office Project/Android Login/app/src/main/jniLibs"><file name="armeabi/libjingle_peerconnection_so.so" path="/home/durbinlabs/Desktop/Office Project/Android Login/app/src/main/jniLibs/armeabi/libjingle_peerconnection_so.so"/></source></dataSet><dataSet config="debug"><source path="/home/durbinlabs/Desktop/Office Project/Android Login/app/src/debug/jniLibs"/></dataSet></merger>

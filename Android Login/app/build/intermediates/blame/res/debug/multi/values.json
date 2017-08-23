@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/home/durbinlabs/Desktop/Office Project/Android Login/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Office Project/Android Login/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 103,
+                    "endColumn": 44,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Office Project/Android Login/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endColumn": 44,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 148,
+                    "endColumn": 37,
+                    "endOffset": 181
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Office Project/Android Login/app/src/main/res/values/strings.xml"
+                }
+            }
+        ]
+    }
+]

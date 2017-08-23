@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/home/durbinlabs/Desktop/Office Project/Android-WebRtc-master/app/build/intermediates/incremental/mergeLegacyDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/64fd350b087cc1be87f6f7ed1ef784514d14020a/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/incremental/mergeLegacyDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/e34029bce576934c99753aa38b7550899d3b8c81/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]
