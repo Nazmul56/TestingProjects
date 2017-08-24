@@ -48,9 +48,9 @@ public class EmoticonsFragment extends Fragment implements OnEmoticonClickListen
         super.onCreate(savedInstanceState);
         activity = getActivity();
         this.urls = (ArrayList<Emojicon>) getArguments().getSerializable(EMOJICONS);
-
         this.onEmoticonClickListener = (OnEmoticonClickListener) getArguments().getSerializable(LISTENER);
-        getArguments().remove(LISTENER);
+
+        //getArguments().remove(LISTENER);
     }
 
     @Nullable
@@ -60,8 +60,8 @@ public class EmoticonsFragment extends Fragment implements OnEmoticonClickListen
         emoticonsAdapter = new EmoticonsAdapter(activity);
 
         emoticonsAdapter.setOnEmoticonClickListener(this);
-        
-        this.onEmoticonClickListener = (OnEmoticonClickListener) getArguments().getSerializable(LISTENER);
+
+       // onEmoticonClickListener = (OnEmoticonClickListener) getArguments().getSerializable(LISTENER);
 
         recyclerView.setLayoutParams(new RecyclerView.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT));
         recyclerView.setLayoutManager(new StaggeredGridLayoutManager(8, StaggeredGridLayoutManager.VERTICAL));
@@ -92,5 +92,13 @@ public class EmoticonsFragment extends Fragment implements OnEmoticonClickListen
             Log.d("OnclickListener: ", "Null");
            // onEmoticonClickListener.onEmoticonsClicked(urls.get(position).getKey(), position);
         }
+    }
+    
+    /**Nazmul Haqe*/
+    @Override
+    public void onDestroy() {
+        super.onDestroy();
+
+        getArguments().remove(LISTENER);
     }
 }
