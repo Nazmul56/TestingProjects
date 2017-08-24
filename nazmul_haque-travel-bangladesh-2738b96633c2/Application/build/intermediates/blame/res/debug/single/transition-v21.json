@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/build/intermediates/res/merged/debug/transition-v21/window_enter.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/res/transition-v21/window_enter.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/build/intermediates/res/merged/debug/transition-v21/fade.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/res/transition-v21/fade.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/build/intermediates/res/merged/debug/transition-v21/shared_move.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/res/transition-v21/shared_move.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/build/intermediates/res/merged/debug/transition-v21/window_return.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/res/transition-v21/window_return.xml"
+    }
+]

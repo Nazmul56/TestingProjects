@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/nazmul/Desktop/Back%20UP%20Recent%20Project/android-XYZTouristAttractions-master/Shared/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="colorAccent">#ff7043</color>
+    <color name="colorFabRipple">#D84315</color>
+    <color name="colorPrimary">#4e6cef</color>
+    <color name="colorPrimaryDark">#2a36b1</color>
+    <!-- From: file:/home/nazmul/Desktop/Back%20UP%20Recent%20Project/android-XYZTouristAttractions-master/Shared/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="show_detail_capability_name">show_details</string>
+</resources>

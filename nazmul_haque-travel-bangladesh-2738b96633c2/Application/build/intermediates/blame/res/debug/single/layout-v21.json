@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/build/intermediates/res/merged/debug/layout-v21/intro_layout2.xml",
+        "source": "/home/durbinlabs/.android/build-cache/baed83f535dc9b8a7fc8782c36500155dedf840e/output/res/layout-v21/intro_layout2.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/build/intermediates/res/merged/debug/layout-v21/intro_layout.xml",
+        "source": "/home/durbinlabs/.android/build-cache/baed83f535dc9b8a7fc8782c36500155dedf840e/output/res/layout-v21/intro_layout.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/durbinlabs/.android/build-cache/96c5f43da083c4fcd4093e54c0f47fa946858a75/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/durbinlabs/.android/build-cache/96c5f43da083c4fcd4093e54c0f47fa946858a75/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/durbinlabs/.android/build-cache/96c5f43da083c4fcd4093e54c0f47fa946858a75/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/durbinlabs/.android/build-cache/96c5f43da083c4fcd4093e54c0f47fa946858a75/output/res/layout-v21/notification_action.xml"
+    }
+]

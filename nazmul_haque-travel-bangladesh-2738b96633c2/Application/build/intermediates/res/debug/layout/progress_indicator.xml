@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProgressBar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    style="?android:attr/progressBarStyleHorizontal"/><!-- From: file:/home/nazmul/Desktop/My%20Project/Travel%20Bangladesh/Travel%20Bangladesh2/Application/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.4.0/res/layout/progress_indicator.xml -->

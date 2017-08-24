@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/04720fb2fb56a2157a6ac34fdc56ff0a7e353667/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="724ce977487ab3a215d4d2eb47d8dccd9f30013f">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/android_php_gcm_realtime_chat_app/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1009751140f5d720ac3643e71d234ea9b38d88ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/Desktop/Testing Project/android_php_gcm_realtime_chat_app/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/android_php_gcm_realtime_chat_app/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_96b259cb4757b6723c0c271522a030a2f44033cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/09f96c151b87cd10d49ad54fc5e353dc3bb4201d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="744c49c02a27569cc4cc049685d3649e4ef439f2">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/android_php_gcm_realtime_chat_app/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4a2d40bae1d83a43f743a120870973d47b9b7f05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/78a9b13097e4a3f2a325619d3362287f240e236c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9aedc597d74c6d77258ce5236e9abff0c3cc65e3">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/android_php_gcm_realtime_chat_app/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f705e165a77a093f13eb97cb35a09dfc9bc0239/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/54ea911a38985ee175cb6f67943ed2511a71defe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0a1897426566e408a5c20a3d931f77d89771d07f">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/android_php_gcm_realtime_chat_app/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_535d5de3f2066fc207426b98faffa8377ec9f91d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/cbdd8b2d9053291501421a360f0908e5b844139b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/android_php_gcm_realtime_chat_app/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_65d96b7ed5593ebcfc65528afcc8f186587df64d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/9fe3f5e8671b92b9c36c77ac809676dc7d441c9f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b000ecceb9877fefcdc7ab1959ff03df91551656">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/android_php_gcm_realtime_chat_app/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_87b82553c7f5831c05e10dccd61434c1d66257a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/47add840131ab1431b0b73a4695bddecc93f0445/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6d9ed9a288364688e7fcf6704776284dac1eb42e">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/android_php_gcm_realtime_chat_app/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7aeb0817c22e5da668d31dd4837bd8b845e0fcf4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/358cf37c85773048d9bf0f67d2b1c0eccb3dfc22/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/android_php_gcm_realtime_chat_app/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_84969a378f3283ab81d1a690085117c743b7e483/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/0d2bae7d1398ed131a55ef923271d3d306580d95/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/android_php_gcm_realtime_chat_app/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_837c3586ad7df20d49040af4570a2936b7077afc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/141d5fe9c3508a2a6190e5d4b27b5a79630f2843/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fd76d95678a6b2b8a49bb8a9fb5bcef7aedb70e7">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/android_php_gcm_realtime_chat_app/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e6a09e242fd1fbaa1e35b7a8e07197c0b6a7ccd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/e245ed0788accef63ee7e2fc84c7f56d7319dc61/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="697679619b00837e3d09e9988a2e1e2a9009d502">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/android_php_gcm_realtime_chat_app/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3c4b6aa46470ddfd832d8305c1619b47160a47e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/120ebc4c5221e0a0ecf371380fec73776106bcb3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0af4f577b4a21eb9be2a7f52e33b077b67e6d9f8">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/android_php_gcm_realtime_chat_app/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d03b38e10331bf4f4dbe1b5723d9265867622ecd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/8968fb8f5be16a5ee2ba8834633c2a8f0b1c580c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9c9bdb4b2497465a6cf7d5e8f57c5298f828a380">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/android_php_gcm_realtime_chat_app/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3e7116f7f354d871013d903e3e0a49252aeaa4f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/1a46dbb69f20da51872102d45dbf639d8e40a526/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c6fcd6267cbac6509a2e72a61127534a1d616cf">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/android_php_gcm_realtime_chat_app/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_821997f0e677a876053d6d395fed98a6c2dfe4ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/648ce537bb0cdba915f95b4f27b2e181d5dcb0a7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ea34579b1be157cd792376362157e9c54ebb4cd7">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/android_php_gcm_realtime_chat_app/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_40617ec5f4b0f35ccdf75d0ed8e97156c66aaffc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/a8ad5f16bf11bf610d9f98116611197b09dccb07/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="77f9593d979f4347344be233bd0d888315f79517">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/android_php_gcm_realtime_chat_app/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cc93216e873ccd26f8837b1a8530b61bf111caac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/7cd0ed569068316e8dd6c010cae852caee2eca27/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af6ee25641df3142059c0828517aa7ee6eba08d6">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/android_php_gcm_realtime_chat_app/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f4200b97b1d1d0f80224956e9eb9277d743ce6ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/2d10407a188e69d078cab9864d057388fb3790a2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0c3e81d3eb86b86d194b5cdb6a4de78203f6f7fd">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/android_php_gcm_realtime_chat_app/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ce5f1daf60a66d8c16de3903b978e26513465f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/137a4237e92715de2fc9b77a548941514525a7af/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cb4af597d079ffdc0984a3ec2c03cbf6a1b9f869">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/android_php_gcm_realtime_chat_app/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e075ec87104016ca6f934db854ca41a36a9b4f15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/fe8a117f15a5d1b5bb51a46949c4db6409e0e4c0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eb576427887e497cd958a475475f9206e38dc314">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/android_php_gcm_realtime_chat_app/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cc14c43be2aa04d494bb3f87706632cb15b59652/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/Desktop/Testing Project/android_php_gcm_realtime_chat_app/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="11c624753dc53864d0b9f7e92760c82b976b67b4">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/android_php_gcm_realtime_chat_app/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a727ca901ef93c76f75be8a109ff34dc25150c69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/a3bcb69974fc61a1d8330c99c8b9f0c780f15a3b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="71eda10e33212e44245524b5087366ff8d805825">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/android_php_gcm_realtime_chat_app/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e121681c2f4387804ef12a4cab04038c77955ef4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/efb1785783b37842ff55f21af0476e3ebbf35e85/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/android_php_gcm_realtime_chat_app/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2511c0b789929d647beddfaf9a61bef689417c13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/cbdd8b2d9053291501421a360f0908e5b844139b/output/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/android_php_gcm_realtime_chat_app/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_156f1e3d22d49635a289defec7f7bca6d58d0c54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/2115d22478c08eda2582af3bd31f6b73a4c80e77/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b8df1b1e51fe14b0e89b3845dc2e215a024a09f">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/android_php_gcm_realtime_chat_app/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b088ced65be479d3923a0204aa606d27d852e07c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/eab0a6baafc0172cff9699d92f2b6e5df67cb823/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="58adcfbe2c8393765e84c5489d01bba6a5159eb2">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/android_php_gcm_realtime_chat_app/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c7fcdfa4a2d3b27cb9effe316024278ad4be8790/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/d84ce89f4f225a9f8a0b2fb4a7d499c3cdfc1134/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="27775d59b16610ac76f1b83693fedd9520396332">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/android_php_gcm_realtime_chat_app/android_php_gcm_realtime_chat_app/GCM3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f773cbeac92a067be78d54cf6701b000eb0e1286/classes.dex" />
+    </item>
+
+</items>

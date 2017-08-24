@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "/home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw400dp-v13/values-sw400dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 40,
+                    "endOffset": 91
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/res/values-sw400dp/dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 799,
+                        "endColumn": 40,
+                        "endOffset": 835
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 96,
+                    "endColumn": 42,
+                    "endOffset": 134
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/res/values-sw400dp/dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 756,
+                        "endColumn": 42,
+                        "endOffset": 794
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 139,
+                    "endColumn": 43,
+                    "endOffset": 178
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/res/values-sw400dp/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 670,
+                        "endColumn": 43,
+                        "endOffset": 709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 183,
+                    "endColumn": 46,
+                    "endOffset": 225
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/res/values-sw400dp/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 623,
+                        "endColumn": 46,
+                        "endOffset": 665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 230,
+                    "endColumn": 41,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/res/values-sw400dp/dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 714,
+                        "endColumn": 41,
+                        "endOffset": 751
+                    }
+                }
+            }
+        ]
+    }
+]

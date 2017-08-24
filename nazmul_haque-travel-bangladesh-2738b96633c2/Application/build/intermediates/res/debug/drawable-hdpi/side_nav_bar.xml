@@ -1,0 +1,9 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <gradient
+        android:angle="135"
+        android:centerColor="#4CAF50"
+        android:endColor="#2E7D32"
+        android:startColor="#81C784"
+        android:type="linear" />
+</shape><!-- From: file:/home/nazmul/Desktop/My%20Project/Travel%20Bangladesh/Travel%20Bangladesh2/Application/src/main/res/drawable-hdpi/side_nav_bar.xml -->

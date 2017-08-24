@@ -1,0 +1,200 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:18:1-89:12
+	package
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:20:5-56
+	android:versionName
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:19:5-51
+	xmlns:android
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:18:11-69
+	android:versionCode
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:22:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:24:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:25:5-100
+	tools:node
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:25:78-97
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:25:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:26:5-101
+	tools:node
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:26:79-98
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:26:22-78
+application
+ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:28:5-87:19
+MERGED from [com.android.support:design:25.3.1] /home/durbinlabs/.android/build-cache/b2b883cb33fa8dc0207c5b3f00060ad306050fda/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/durbinlabs/.android/build-cache/e79b63d5bb79265b72ac340b123a480564879d82/output/AndroidManifest.xml:26:5-20
+MERGED from [nazmul_haque-travel-bangladesh-2738b96633c2:Shared:unspecified] /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Shared/build/intermediates/bundles/default/AndroidManifest.xml:24:5-47
+MERGED from [com.android.support:support-v13:25.3.1] /home/durbinlabs/.android/build-cache/9af9c623a587349ae6acdca214f79384b43f84e4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] /home/durbinlabs/.android/build-cache/4b8b93cc929d98e9a966ecc34dcc4fa78646a7e5/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /home/durbinlabs/.android/build-cache/834e8fb605b97ecef05ad47e5724f70fb1506496/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/durbinlabs/.android/build-cache/2f175e15ac7342681a058f17fa6294f563c682f5/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/durbinlabs/.android/build-cache/f2049bbcc7965de5c68c3874a60fbfcfff6c7bfb/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/durbinlabs/.android/build-cache/59fc2349a6f10857da575e11ef86a8a54e31abf7/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.maps.android:android-maps-utils:0.3.4] /home/durbinlabs/.android/build-cache/619073a74ff58a0d0167687ef6a6706bfad6d7b3/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/durbinlabs/.android/build-cache/96c5f43da083c4fcd4093e54c0f47fa946858a75/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/durbinlabs/.android/build-cache/762eab3154a11b7c17a0347db0440cad59f2524c/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/durbinlabs/.android/build-cache/f0c0b5d4aaec09483b2797b4fb9f256485c1bf78/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/durbinlabs/.android/build-cache/54f5c321f468e78bb8296cf89be1d97337fef6be/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/durbinlabs/.android/build-cache/68da45da17000b877b9cf1843c869a0b132eb5ec/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/durbinlabs/.android/build-cache/97c2abdb624e205d1b4a7986a31b29427ee5b3a0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/durbinlabs/.android/build-cache/84c61627518428737c9574d70afc960671871d1f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/durbinlabs/.android/build-cache/103c1295d67fb8721319349ee1d0a1a1edb410d8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/durbinlabs/.android/build-cache/6cb2ea506f38174ec28f045e1df10c0c56cd694f/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:31:9-41
+	android:fullBackupContent
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:33:9-41
+	android:allowBackup
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:29:9-35
+	android:icon
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:30:9-45
+	android:theme
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:32:9-43
+activity#com.example.android.xyztouristattractions.ui.AttractionListActivity
+ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:35:9-42:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:37:13-45
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:36:13-54
+activity#com.example.android.xyztouristattractions.ui.DetailActivity
+ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:44:9-48:71
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:46:13-45
+	android:parentActivityName
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:48:13-68
+	android:theme
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:47:13-54
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:45:13-46
+receiver#com.example.android.xyztouristattractions.service.UtilityReceiver
+ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:50:9-61
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:50:19-58
+service#com.example.android.xyztouristattractions.service.UtilityService
+ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:52:9-59
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:52:18-56
+service#com.example.android.xyztouristattractions.service.ListenerService
+ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:54:9-58:19
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:54:18-57
+intent-filter#com.google.android.gms.wearable.BIND_LISTENER
+ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:55:13-57:29
+action#com.google.android.gms.wearable.BIND_LISTENER
+ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:56:17-88
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:56:25-85
+meta-data#com.google.android.gms.version
+ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:60:9-61:69
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/durbinlabs/.android/build-cache/59fc2349a6f10857da575e11ef86a8a54e31abf7/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:61:13-66
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:60:20-65
+meta-data#com.example.android.xyztouristattractions.config.GlideConfiguration
+ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:63:9-65:42
+	android:value
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:65:13-40
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:64:13-95
+activity#com.example.android.xyztouristattractions.MainActivity
+ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:67:9-73:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:69:13-45
+	android:theme
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:70:13-56
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:68:13-41
+activity#com.example.android.xyztouristattractions.SecondLayoutIntro
+ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:74:9-85:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:76:13-45
+	android:theme
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:77:13-51
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:75:13-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:78:13-81:29
+action#android.intent.action.MAIN
+ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:79:17-69
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:79:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:80:17-77
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml:80:27-74
+uses-sdk
+INJECTED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] /home/durbinlabs/.android/build-cache/b2b883cb33fa8dc0207c5b3f00060ad306050fda/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/durbinlabs/.android/build-cache/30ffd4a12b16b304304b9949dbadb421614a32a7/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /home/durbinlabs/.android/build-cache/e79b63d5bb79265b72ac340b123a480564879d82/output/AndroidManifest.xml:20:5-44
+MERGED from [nazmul_haque-travel-bangladesh-2738b96633c2:Shared:unspecified] /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Shared/build/intermediates/bundles/default/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-v13:25.3.1] /home/durbinlabs/.android/build-cache/9af9c623a587349ae6acdca214f79384b43f84e4/output/AndroidManifest.xml:21:5-23:55
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] /home/durbinlabs/.android/build-cache/4b8b93cc929d98e9a966ecc34dcc4fa78646a7e5/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /home/durbinlabs/.android/build-cache/834e8fb605b97ecef05ad47e5724f70fb1506496/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/durbinlabs/.android/build-cache/2f175e15ac7342681a058f17fa6294f563c682f5/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/durbinlabs/.android/build-cache/f2049bbcc7965de5c68c3874a60fbfcfff6c7bfb/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/durbinlabs/.android/build-cache/59fc2349a6f10857da575e11ef86a8a54e31abf7/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.3.4] /home/durbinlabs/.android/build-cache/619073a74ff58a0d0167687ef6a6706bfad6d7b3/output/AndroidManifest.xml:5:5-43
+MERGED from [com.github.paolorotolo:appintro:3.4.0] /home/durbinlabs/.android/build-cache/baed83f535dc9b8a7fc8782c36500155dedf840e/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/durbinlabs/.android/build-cache/96c5f43da083c4fcd4093e54c0f47fa946858a75/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/durbinlabs/.android/build-cache/762eab3154a11b7c17a0347db0440cad59f2524c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/durbinlabs/.android/build-cache/f0c0b5d4aaec09483b2797b4fb9f256485c1bf78/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /home/durbinlabs/.android/build-cache/54f5c321f468e78bb8296cf89be1d97337fef6be/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/durbinlabs/.android/build-cache/68da45da17000b877b9cf1843c869a0b132eb5ec/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/durbinlabs/.android/build-cache/97c2abdb624e205d1b4a7986a31b29427ee5b3a0/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/durbinlabs/.android/build-cache/84c61627518428737c9574d70afc960671871d1f/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/durbinlabs/.android/build-cache/103c1295d67fb8721319349ee1d0a1a1edb410d8/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/durbinlabs/.android/build-cache/6cb2ea506f38174ec28f045e1df10c0c56cd694f/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /home/durbinlabs/.android/build-cache/b2b883cb33fa8dc0207c5b3f00060ad306050fda/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /home/durbinlabs/.android/build-cache/b2b883cb33fa8dc0207c5b3f00060ad306050fda/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/durbinlabs/.android/build-cache/30ffd4a12b16b304304b9949dbadb421614a32a7/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/durbinlabs/.android/build-cache/e79b63d5bb79265b72ac340b123a480564879d82/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v13:25.3.1] /home/durbinlabs/.android/build-cache/9af9c623a587349ae6acdca214f79384b43f84e4/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/durbinlabs/.android/build-cache/96c5f43da083c4fcd4093e54c0f47fa946858a75/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/durbinlabs/.android/build-cache/762eab3154a11b7c17a0347db0440cad59f2524c/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/durbinlabs/.android/build-cache/f0c0b5d4aaec09483b2797b4fb9f256485c1bf78/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/durbinlabs/.android/build-cache/54f5c321f468e78bb8296cf89be1d97337fef6be/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/durbinlabs/.android/build-cache/68da45da17000b877b9cf1843c869a0b132eb5ec/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/durbinlabs/.android/build-cache/97c2abdb624e205d1b4a7986a31b29427ee5b3a0/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/durbinlabs/.android/build-cache/84c61627518428737c9574d70afc960671871d1f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/durbinlabs/.android/build-cache/103c1295d67fb8721319349ee1d0a1a1edb410d8/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/durbinlabs/.android/build-cache/6cb2ea506f38174ec28f045e1df10c0c56cd694f/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /home/durbinlabs/.android/build-cache/b2b883cb33fa8dc0207c5b3f00060ad306050fda/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /home/durbinlabs/.android/build-cache/b2b883cb33fa8dc0207c5b3f00060ad306050fda/output/AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/durbinlabs/.android/build-cache/2f175e15ac7342681a058f17fa6294f563c682f5/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/durbinlabs/.android/build-cache/2f175e15ac7342681a058f17fa6294f563c682f5/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/durbinlabs/.android/build-cache/2f175e15ac7342681a058f17fa6294f563c682f5/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/durbinlabs/.android/build-cache/2f175e15ac7342681a058f17fa6294f563c682f5/output/AndroidManifest.xml:19:19-85

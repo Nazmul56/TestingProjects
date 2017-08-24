@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/durbinlabs/Desktop/Testing Project/nazmul_haque-travel-bangladesh-2738b96633c2/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h320dp-v13/values-h320dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/99b244608a512e79ab9443405d8e49f615732a4a/output/res/values-h320dp/values-h320dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 231,
+                        "endColumn": 57,
+                        "endOffset": 284
+                    }
+                }
+            }
+        ]
+    }
+]
