@@ -6,7 +6,6 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
-import android.util.Log;
 import android.view.KeyEvent;
 import android.view.MotionEvent;
 import android.view.View;
@@ -177,8 +176,6 @@ public class MainActivity extends BaseActivity implements OnKeyDownListener, OnI
     @Override
     public void onKeyDownCLicked() {
         Toast.makeText(this, "onKeyDownCLicked", Toast.LENGTH_LONG).show();
-      //  keyboard.hideAllKeyboard();
-        //keyboard.showKeyboard(AwesomeKeyboardType.NOMAL.getValue());
     }
 
     @Override
