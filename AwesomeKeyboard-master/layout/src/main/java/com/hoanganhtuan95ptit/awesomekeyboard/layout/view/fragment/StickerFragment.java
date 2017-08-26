@@ -47,7 +47,7 @@ public class StickerFragment extends Fragment implements OnStickerClickListener 
         this.onStickerClickListener = (OnStickerClickListener) getArguments().getSerializable(LISTENER);
         this.stickers = (ArrayList<String>) getArguments().getSerializable(STICKER);
 
-        //getArguments().remove(LISTENER); // Nazmul Haque
+        getArguments().remove(LISTENER); // Nazmul Haque
     }
 
     @Nullable
@@ -81,7 +81,7 @@ public class StickerFragment extends Fragment implements OnStickerClickListener 
     public void onDestroy() {
         super.onDestroy();
 
-        getArguments().remove(LISTENER);
+       // getArguments().remove(LISTENER);
     }
 
     @Override

@@ -27,15 +27,19 @@ public class EmoticonsFragment extends Fragment implements OnEmoticonClickListen
     private static final String LISTENER = "ON_EMOTICON_CLICK_LISTENER";
     private static final String EMOJICONS = "EMOJICONS";
 
-    private OnEmoticonClickListener onEmoticonClickListener;
-
+    public OnEmoticonClickListener onEmoticonClickListener;
+    public OnEmoticonClickListener onEmoticonClickListenerStore;
     private Activity activity;
     private ArrayList<Emojicon> urls;
     private EmoticonsAdapter emoticonsAdapter;
+   public static EmoticonsFragment emoticonsFragment = new EmoticonsFragment();
+   public static Bundle bundle = new Bundle();
 
     public static EmoticonsFragment initialize(ArrayList<Emojicon> urls, OnEmoticonClickListener onEmoticonClickListener) {
+
         EmoticonsFragment emoticonsFragment = new EmoticonsFragment();
         Bundle bundle = new Bundle();
+
         bundle.putSerializable(EMOJICONS, urls);
         bundle.putSerializable(LISTENER, onEmoticonClickListener);
         emoticonsFragment.setArguments(bundle);
@@ -47,10 +51,19 @@ public class EmoticonsFragment extends Fragment implements OnEmoticonClickListen
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         activity = getActivity();
-        this.urls = (ArrayList<Emojicon>) getArguments().getSerializable(EMOJICONS);
-        this.onEmoticonClickListener = (OnEmoticonClickListener) getArguments().getSerializable(LISTENER);
 
-        //getArguments().remove(LISTENER);
+        this.urls = (ArrayList<Emojicon>) getArguments().getSerializable(EMOJICONS);
+
+        onEmoticonClickListener = (OnEmoticonClickListener) getArguments().getSerializable(LISTENER);
+        if(onEmoticonClickListener != null)
+        {
+            onEmoticonClickListenerStore = onEmoticonClickListener;
+        }else
+        {
+            onEmoticonClickListener = onEmoticonClickListenerStore;
+        }
+        getArguments().remove(LISTENER);
+
     }
 
     @Nullable
@@ -60,8 +73,6 @@ public class EmoticonsFragment extends Fragment implements OnEmoticonClickListen
         emoticonsAdapter = new EmoticonsAdapter(activity);
 
         emoticonsAdapter.setOnEmoticonClickListener(this);
-
-       // onEmoticonClickListener = (OnEmoticonClickListener) getArguments().getSerializable(LISTENER);
 
         recyclerView.setLayoutParams(new RecyclerView.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT));
         recyclerView.setLayoutManager(new StaggeredGridLayoutManager(8, StaggeredGridLayoutManager.VERTICAL));
@@ -87,18 +98,34 @@ public class EmoticonsFragment extends Fragment implements OnEmoticonClickListen
 
         if (onEmoticonClickListener != null) {
             onEmoticonClickListener.onEmoticonsClicked(urls.get(position).getKey(), position);
+
             Log.d("OnclickListener: ","Clicked");
         }else{
             Log.d("OnclickListener: ", "Null");
+            //onEmoticonClickListener.onEmoticonsClicked( emoticonsAdapter.URL, emoticonsAdapter.INT);
+           // emoticonsAdapter.URL;
+
            // onEmoticonClickListener.onEmoticonsClicked(urls.get(position).getKey(), position);
         }
     }
-    
+
+    @Override
+    public void onPause() {
+        super.onPause();
+        //getArguments().remove(LISTENER);
+    }
+
+    @Override
+    public void onResume() {
+        super.onResume();
+
+    }
+
     /**Nazmul Haqe*/
     @Override
     public void onDestroy() {
         super.onDestroy();
 
-        getArguments().remove(LISTENER);
+      // getArguments().remove(LISTENER);
     }
 }

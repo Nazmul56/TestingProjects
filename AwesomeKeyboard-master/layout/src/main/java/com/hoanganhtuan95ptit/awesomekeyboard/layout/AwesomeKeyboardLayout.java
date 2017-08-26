@@ -17,7 +17,7 @@ import com.hoanganhtuan95ptit.awesomekeyboard.layout.view.StickerLayout;
 import com.hoanganhtuan95ptit.awesomekeyboard.layout.view.model.EmojiconCategory;
 import com.hoanganhtuan95ptit.awesomekeyboard.layout.view.model.StickerCategory;
 
-/**
+/**emojiconLayout
  * Created by HOANG ANH TUAN on 7/17/2017.
  */
 

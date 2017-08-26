@@ -177,6 +177,8 @@ public class MainActivity extends BaseActivity implements OnKeyDownListener, OnI
     @Override
     public void onKeyDownCLicked() {
         Toast.makeText(this, "onKeyDownCLicked", Toast.LENGTH_LONG).show();
+      //  keyboard.hideAllKeyboard();
+        //keyboard.showKeyboard(AwesomeKeyboardType.NOMAL.getValue());
     }
 
     @Override

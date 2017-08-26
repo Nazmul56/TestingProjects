@@ -11,6 +11,7 @@ import com.facebook.drawee.drawable.ScalingUtils;
 import com.facebook.drawee.view.SimpleDraweeView;
 import com.hoanganhtuan95ptit.awesomekeyboard.layout.R;
 import com.hoanganhtuan95ptit.awesomekeyboard.layout.view.callback.OnEmoticonClickListener;
+import com.hoanganhtuan95ptit.awesomekeyboard.layout.view.callback.KeyboardDataPassing;
 
 /**
  * Created by HOANG ANH TUAN on 6/29/2017.
@@ -18,7 +19,10 @@ import com.hoanganhtuan95ptit.awesomekeyboard.layout.view.callback.OnEmoticonCli
 
 public class EmoticonsAdapter extends BaseAdapter<String> {
 
-    private OnEmoticonClickListener onEmoticonClickListener;
+    public String URL ="";
+    public int INT =0;
+
+    public OnEmoticonClickListener onEmoticonClickListener;
 
     public EmoticonsAdapter(Activity activity) {
         super(activity);
@@ -46,6 +50,9 @@ public class EmoticonsAdapter extends BaseAdapter<String> {
 
                 if (onEmoticonClickListener != null) {
                     onEmoticonClickListener.onEmoticonsClicked(url, position);
+                    URL = url;
+                    INT = position ;
+
                     Log.d("OnclickListener:", "Emoj Adapter Argument Passsed"+url+position);
                 }
             }
