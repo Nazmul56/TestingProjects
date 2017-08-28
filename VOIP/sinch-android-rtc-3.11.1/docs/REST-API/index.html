@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<title>Sinch SDK REST API</title>
+	<meta name="revision" content="1.0"/>
+	<meta name="copyright" content="Copyright (c) 2012 Sinch Networks AB. All rights reserved."/>
+	<meta name="web" content="http://www.sinch.com/sdk"/>
+	<link type="text/css" rel="stylesheet" href="css/Sinch.css"/>
+</head>
+<body>
+
+<h1 id="sinchrestapireference">Sinch REST API Reference</h1>
+
+<p>The Sinch REST API serves the main purpose of making it possible to perform certain actions that are either not possible, or not recommended, to perform directly from a client application that has the Sinch SDK embedded.</p>
+
+<p>The Sinch REST API is RESTful in the sense that it exposes a way to interact with resources for a certain instance of a Sinch SDK Application over the HTTPS protocol. Resources are identified as URLs, that map to endpoints. HTTP methods (GET, POST, PUT, DELETE) are used to perform different operations on the resources. Request and response bodies should be encoded as JSON.</p>
+
+<h2 id="apiversionandbaseurl">API Version and Base URL</h2>
+
+<p>Current version is V1.</p>
+
+<p>All URLs for API endpoints referenced in the documentation have the following base URL:</p>
+
+<table>
+<colgroup>
+<col style="text-align:left;"/>
+<col style="text-align:left;"/>
+</colgroup>
+
+<thead>
+<tr>
+	<th style="text-align:left;">Environment</th>
+	<th style="text-align:left;">Base URL</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+	<td style="text-align:left;">Live</td>
+	<td style="text-align:left;">https://clientapi.sinch.com/V1/</td>
+</tr>
+<tr>
+	<td style="text-align:left;">Sandbox</td>
+	<td style="text-align:left;">https://sandbox.sinch.com/V1/</td>
+</tr>
+</tbody>
+</table>
+
+<h1 id="usingtherestapitohandlefeedbackfromapplepushnotificationserviceorgooglecloudmessaging">Using the REST API to handle feedback from Apple Push Notification Service or Google Cloud Messaging</h1>
+
+<p>If <em>Push Notifications</em> are enabled via either <em>Apple Push Notification Service (APNS)</em> or <em>Google Cloud Messaging (GCM)</em>, these services will provide feedback if the application backend service is attempting to send a notification to a device that is no longer registered with APNS or GCM. This section describes how the application backend service should interact with the Sinch REST API upon receiving such feedback.</p>
+
+<p>For background for this section, please refer to the section on <em>Push Notifications</em> in the platform-specific section of the user guide on iOS and Android respectively. Also see <a href="http://developer.apple.com/library/ios/#documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/CommunicatingWIthAPS/CommunicatingWIthAPS.html">Apple Push Notification Programming Guide - The Feedback Service</a> and <a href="http://developer.android.com/google/gcm/adv.html#unreg">Google Cloud Messaging - How Unregistration Works</a>.</p>
+
+<p>A typical scenario is that a client <em>A</em> has registered for <em>Apple Push Notifications</em>, another client <em>B</em> is attempting to call <em>A</em>, and client <em>B</em> will then request to send a push notification to <em>A</em>&#8217;s device via the application backend service (which in turn interacts with APNS). If <em>A</em> has uninstalled the application at the point in time when <em>B</em> is requesting to send a push notification to <em>A</em>&#8217;s device, the APNS will respond to the application backend service that the device token for client <em>A</em> is no longer valid. If this occurs, further actions must be taken to avoid that additional requests that target the invalid device token are made.</p>
+
+<p>A key consideration is that the <em>push notification data</em>, which is used to identify <em>A</em>&#8217;s device and thus contains the invalid device token, is still present in the Sinch system. When any client is attempting to call <em>A</em>, that is the information the clients are given. It will in turn be used by the application backend service to target <em>A</em>&#8217;s device via either APNS or GCM (see the section on <em>Push Notifications</em> for details on <em>push notification data</em>). The Sinch REST API provides a way to clean out these invalid tokens, so that no following requests are made to target the invalid device identifier.</p>
+
+<p>When receiving feedback from APNS or GCM about an invalid device identifier, after an attempt to reach a user, the application backend service should make a <strong>DELETE</strong> request to the endpoint <a href="#deletepartnerpushdata">V1/Partner/PushData</a>. If the parameter <em>PushData</em> is omitted in the request, all push notification data entries for all the devices of that user will be deleted. The preferred way is to only delete the <em>push notification data</em> entry which corresponds to the invalid <em>device token</em> (APNS) / <em>RegistrationID</em> (GCM) that was reported from the feedback service, by specifying it as a parameter in the request.</p>
+
+<h1 id="restapiendpoints">REST API Endpoints</h1>
+
+<h2 id="deletepartnerpushdata"><strong>DELETE</strong> Partner/PushData</h2>
+
+<h3 id="requestparameters">Request Parameters</h3>
+
+<table>
+<colgroup>
+<col style="text-align:left;"/>
+<col style="text-align:left;"/>
+<col style="text-align:left;"/>
+<col style="text-align:left;"/>
+</colgroup>
+
+<thead>
+<tr>
+	<th style="text-align:left;">Name</th>
+	<th style="text-align:left;">Type</th>
+	<th style="text-align:left;">Required</th>
+	<th style="text-align:left;">Description</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+	<td style="text-align:left;">ApplicationKey</td>
+	<td style="text-align:left;">String</td>
+	<td style="text-align:left;">Yes</td>
+	<td style="text-align:left;">Application Key</td>
+</tr>
+<tr>
+	<td style="text-align:left;">UserId</td>
+	<td style="text-align:left;">String</td>
+	<td style="text-align:left;">Yes</td>
+	<td style="text-align:left;">User Identify within you application domain</td>
+</tr>
+<tr>
+	<td style="text-align:left;">PushData</td>
+	<td style="text-align:left;">String</td>
+	<td style="text-align:left;">No</td>
+	<td style="text-align:left;">When <em>push notification data</em> is registered via the client SDKs, it is typed as an array of bytes. But when specifying to delete a specific entry via the REST API, the parameter in the request must be the Base64-encoded equivalent of the original push notification data that was registered in the client. Must be &lt; 1024 characters if specified. If the parameter is omitted, all push notification data entries for all the devices of the user will be deleted.</td>
+</tr>
+<tr>
+	<td style="text-align:left;">Signature</td>
+	<td style="text-align:left;">String</td>
+	<td style="text-align:left;">Yes</td>
+	<td style="text-align:left;">Signature for the request. See <a href="#calculatingsignature">Calculating Signature</a> below.</td>
+</tr>
+</tbody>
+</table>
+
+<p><em>Example Request Body:</em></p>
+
+<pre><code>{
+    &quot;ApplicationKey&quot;:&quot;19608731-e815-4bd4-8984-60d8d8a43f1f&quot;,
+    &quot;UserId&quot;:&quot;John&quot;,
+    &quot;PushData&quot;:&quot;QThDNUNBMjZFMzJBQ0I0MzgzNjQzNDBFM0ZDRkFDRUM0Njk5MjI2NzUzQkFGMUM3NjcwOTA0QjVGQUI3M0U1DQo=&quot;,
+    &quot;Signature&quot;:&quot;1jOsVY+atyJmOJQZJP9HxZKfdO8=&quot;
+}
+</code></pre>
+
+<h3 id="response">Response</h3>
+
+<p><em>Example</em></p>
+
+<pre><code>{
+    &quot;Result&quot;: 200,
+    &quot;Message&quot;:&quot;PushDataDeleted&quot;
+}
+</code></pre>
+
+<h3 id="errorcodes">Error codes</h3>
+
+<pre><code>0x530003    ApplicationKeyParameterEmpty
+0x530004    SignatureParameterEmpty
+0x530005    SignatureParameterInvalid
+0x530007    ApplicationNotFound
+0x530009    RequestEmpty
+0x530012    ApplicationKeyParameterInvalid
+0x530021    UserIdParameterEmpty
+0x530024    UserIdParameterTooLong
+0x530027    PushDataParameterInvalid
+0x530033    UserNotFound
+</code></pre>
+
+<h3 id="calculatingsignature">Calculating Signature</h3>
+
+<pre><code>string buffer = userId + pushData + applicationKey + secret;
+
+byte[] signatureData = Encoding.UTF8.GetBytes(buffer);
+byte[] signature = SHA1.Create().ComputeHash(signatureData);
+
+string signature = Convert.ToBase64String(signature);
+</code></pre>
+
+</body>
+</html>

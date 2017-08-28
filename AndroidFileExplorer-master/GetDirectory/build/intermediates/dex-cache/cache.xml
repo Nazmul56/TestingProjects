@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/Desktop/Testing Project/AndroidFileExplorer-master/GetDirectory/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e39e16cca46ca43ea9aaf866da19ef1acce0478">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/AndroidFileExplorer-master/GetDirectory/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4a833d6f3ba97fb1695e43e3df7a63fee91ca96f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/Desktop/Testing Project/AndroidFileExplorer-master/GetDirectory/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/AndroidFileExplorer-master/GetDirectory/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_108bf031de22e6b4f0a51c7cd6f6c98015f1e39c/classes.dex" />
+    </item>
+
+</items>

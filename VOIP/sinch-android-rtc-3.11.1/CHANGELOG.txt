@@ -1,0 +1,282 @@
+3.11.1
+  - General improvement.
+
+3.11.0
+  - Video Calling General Availability Release:
+    Add support for pausing and resuming video stream.
+    
+  - Known issue:
+    Compatibility problem on a few specific 64 bits devices.
+
+3.10.0
+  - Add listener for remote video stream frames.
+
+3.9.14
+  - Video calling bug fixes.
+
+3.9.13
+  - Fix a possible race condition when stopping the camera right after starting it.
+  - Fix an unhandled exception in a thread checker routine.
+
+3.9.12
+  - Fix negative calls duration if device time is rolled back.
+  - Fix a video call crash when camera is taken by a higher priority user in Android 6 and above.
+
+3.9.11
+  - Made hangup timeout optional.
+
+3.9.10
+  - Fixed local DTMF feedback playout.
+
+3.9.9
+  - Video calling bug fixes.
+
+3.9.8
+  - Improve robustness of native library loading for Android < 4.3 (Jellybean MR2).
+    This should improve on the situation described in
+    https://code.google.com/p/android/issues/detail?id=35962
+
+  - Fixed Message.timestamp() to return server-side timestamp for a
+    Message passed to MessageClientListener.onMessageSent(...).
+
+3.9.7
+  - Fixed an issue affecting incoming call ringtone on some devices.
+  - Fixed a possible crash occurring while logging certain HttpRequest errors.
+
+3.9.6
+  - Address BoringSSL version compatibility with regards to Google Play Store.
+
+3.9.5
+  - Upgrade BoringSSL to revision c880e42ba1c8032d4cdde2aba0541d8a9d9fa2e9.
+    This revision includes fixes for described in
+    https://www.openssl.org/news/secadv/20160503.txt
+
+  - Ensure OpenSSL/BoringSSL version string is preserved in library binary
+    to satisfy Google Play Store checks.
+
+3.9.4
+  - Fixed a possible crash for video calling when navigating away from the
+     video call screen and back.
+  - Fixed a possible crash on devices with custom OEM Android when the app
+     is missing BLUETOOTH permission.
+
+3.9.3
+  - Updated the SDK to use HttpURLConnection instead of Apache HTTP client
+      which is obsolete in Android 6.
+
+3.9.2
+  - Support for 64 bit architectures.
+  - Support for dual webrtc.
+  - Fixed a regression since 3.8.0 which affected setting proper AudioManager
+	mode during a call.
+
+3.9.1
+  - SIP errors reporting.
+
+3.9.0
+  - Introduced Sinch SIP calling.
+
+3.8.0
+  - Introduced Sinch video calling.
+
+  - Exposed information about whether the call offers a video track in the push
+    notification details.
+
+3.7.2
+  - CallClient.call* and Call.answer() will now throw MissingPermissionException
+     if the application does not have the RECORD_AUDIO permission. This change is made in order
+     to align with the permission system in Android 6.
+
+  - Calling sample has been updated with an example of how to handle MissingPermissionException
+
+3.7.1
+  - Introduced Sinch conference calling.
+
+3.6.2
+  - Adaptive bitrate support for OPUS codec in app-to-app calls.
+
+3.6.1
+  - x86 support
+
+  - Exposed getter for push display name on NotificationResult
+
+  - Minor internal improvements
+
+3.6.0
+  - Support for managed push, where the Sinch backend will handle sending
+     of push messages. See the reference documentation for setSupportManagedPush,
+     unregisterManagedPush, the new sample app and the user-guide for more information.
+
+  - relayRemotePushNotificationPayload will now correctly start the client when
+     relaying payload for an IM.
+
+  - Additional exception catching for undocumented exceptions thrown by Android
+     audio related APIs.
+
+3.5.0
+  - Support for web-to-app calling with the Sinch Javascript SDK.
+
+  - OPUS codec support in app-to-app calls.
+
+  - Decreased amount of messages exchanged during call setup, resulting in
+      shorter set up time.
+
+  - SinchClientListener.onClientFailed() will now be called if the audio
+      device fails to initialize.
+
+  - Samples updated to be compatible with Android Studio 1.0.
+
+3.4.3
+  - Updated OpenSSL version to comply with Play Store requirements.
+
+3.4.2
+  - Decreased amount of network requests during startup.
+
+  - IllegalArgumentException is now correctly thrown when headers
+      for a call exceed 1024 bytes.
+
+3.4.1
+  - Improved internal call reporting.
+
+3.4.0
+  - SinchClient.registerPushNotificationData() will now throw if support
+      for push notifications has not been enabled before the method is called.
+
+  - Added getCall(String) to CallClient, which returns the Call object
+      for the given callId, if that call exists.
+
+  - Added getHeaders() to Call, which returns the custom headers for the
+      call.
+
+  - Sample apps have been updated to include a more robust implementation
+      where the SinchClient is contained inside a Service.
+
+3.3.9
+  - Improvements to scenario where caller hangs up a call before certain
+      internal REST API requests has completed, but the requests completes
+      later during the graceful termination period.
+
+3.3.8
+  - Added new method SinchClient.terminateGracefully()
+
+3.3.7
+  - Fixed issue causing long call setup time when using certain codecs.
+
+3.3.6
+  - Additional improvements for scenarios in which the caller cancels a
+      call before the call is answered.
+
+3.3.5
+  - Fixed an issue where if the caller hung up the call quickly,
+      the callee would sometimes not receive the event that the call ended.
+
+3.3.4
+  - Improved thread handling while fetching history in certain cases.
+
+3.3.3
+  - Improved logging of session events to enable debugging in cases
+      where calls might fail to establish.
+
+  - Enabled automatic provisioning of device specific settings to increase
+      call quality.
+
+3.3.2
+  - Improvements in handling unstable network connection when initiating
+      a call.
+
+3.3.1
+  - Fix for Xperia Z devices not picking up any input from the microphone.
+
+3.3.0
+  - Added peristence. Messages are now persisted internally in the SDK and
+      retried automatically for 12 hours before failing.
+
+3.2.6
+  - Internal improvements for Call headers.
+
+3.2.5
+  - Increased logging for rare instances where AudioTrack/AudioRecord would
+      not initialize correctly.
+
+  - Fixed crash when attempting to send DTMF during call setup.
+
+  - Incoming calls will from now on never have state PROGRESSING.
+      Previously, incoming calls could either be in INITIATING or PROGRESSING
+      just after CallClientListener.onIncomingCall.
+      Now, the call will initially be in INITIATING, until
+      transitioning to ESTABLISHED or ENDED.
+
+3.2.4
+  - Fixed bug that prevented creating SinchClient via the Builder without
+    specifying an application secret up front.
+
+3.2.3
+  - Minor internal improvements.
+
+  - Significantly reduced size of native binary.
+
+3.2.2
+  - Minor internal improvements.
+
+3.2.1
+  - Minor internal improvements.
+
+3.2.0
+  - Minor internal improvements.
+
+3.1.0
+  - stop() deprecated in favor of the new terminate().
+      As part of this change, the SinchClient is now invalidated
+      after terminate() (or stop()) is called and may not be started
+      again.
+
+  - SecurityExceptions thrown on network requests are caught
+      internally in the SDK now, workaround for a potential
+      Android bug that sometimes throws SecurityException when
+      it should throw an exception related to unknown host.
+
+  - CallDetails.getError() now correctly returns null
+      if no error occurred.
+
+3.0.1
+  - Removed internal call to AudioManager.setMode() when
+      establishing/tearing down a call.
+
+3.0.0
+  - App-to-Phone (PSTN) calling functionality
+      New method CallClient.callPhoneNumber()
+
+  - Support for sending Instant Messages to multiple recipients.
+      See WritableMessage.addRecipient()
+
+  - Top package is now com.sinch.android.rtc
+
+  - Instantiating a SinchClient is done via a SinchClientBuilder.
+      See Sinch.getSinchClientBuilder().
+
+  - Calling functionality moved to interface CallClient.
+
+  - Calling is now disabled by default (to be consistent with
+      Instant Messaging).
+      Enable it with SinchClient.setSupportCalling(true)
+
+  - Renamed CallListener.onCallReceivedOnRemoteEnd(Call) to
+      CallListener.onCallProgressing(Call)
+
+  - All methods to used to manage listeners (SinchClientListnener,
+      CallClientListener, MessageClientListener) now conforms
+      to the method naming convention addXXXListener,
+      removeXXXListener.
+
+  - MessageClientListener.onMessageFailed no longer takes a list
+      of List<MessageFailureInfo>, but a single entry.
+      The method may be invoked multiple times instead.
+
+  - MessageClientListener.onMessageSent is now passed the
+      recipientId as a third argument.
+
+  - Removed method CallListener.onCallAnswered(Call).
+      Any logic that was performed in relation to this method
+      should be moved to where Call.answer() is invoked.
+
+

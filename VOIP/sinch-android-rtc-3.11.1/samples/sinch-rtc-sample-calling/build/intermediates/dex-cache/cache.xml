@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.0.0-alpha1_3dc6686059ec70a28eb224e1f348b64b0044eec1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.0.0-alpha1_77ea32cf69f87252966ed174216289ccb75a2f52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.0.0-alpha1_ea81e99849e6ce8e42b20fadea8feb8e54c61883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.0.0-alpha1_b63dd69048af9c874de871cd88ab2cac0d26b096.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.0.0-alpha1_82173e42a9472618407b428bc8902fc4010378a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.0.0-alpha1_deb229cab3f7c0659109902d62423b5a43d3ff88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_83516b7c9f780741dff965452b7530344573a661.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/exploded-aar/sinch-android-rtc/3.11.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2d335cc337e32f5483347c848644d4bc4dab1b30">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/pre-dexed/debug/exploded-aar-sinch-android-rtc-3.11.1_ead6582b724ff96d2600c7895e1ff4a17b095609.jar" />
+    </item>
+
+</items>

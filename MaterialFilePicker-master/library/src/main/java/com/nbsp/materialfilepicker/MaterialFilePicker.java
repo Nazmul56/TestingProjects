@@ -3,6 +3,7 @@ package com.nbsp.materialfilepicker;
 import android.app.Activity;
 import android.app.Fragment;
 import android.content.Intent;
+import android.support.v7.app.AppCompatActivity;
 
 import com.nbsp.materialfilepicker.filter.CompositeFilter;
 import com.nbsp.materialfilepicker.filter.HiddenFilter;
@@ -18,7 +19,7 @@ import java.util.regex.Pattern;
  * Material File Picker builder
  */
 public class MaterialFilePicker {
-    private Activity mActivity;
+    private AppCompatActivity mActivity;
     private Fragment mFragment;
     private android.support.v4.app.Fragment mSupportFragment;
 
@@ -41,7 +42,7 @@ public class MaterialFilePicker {
      * Specifies activity, which will be used to
      * start file picker
      */
-    public MaterialFilePicker withActivity(Activity activity) {
+    public MaterialFilePicker withActivity(AppCompatActivity activity) {
         if (mSupportFragment != null || mFragment != null) {
             throw new RuntimeException("You must pass either Activity, Fragment or SupportFragment");
         }

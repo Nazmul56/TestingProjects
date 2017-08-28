@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/AndroidFileExplorer-master/GetDirectory/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/durbinlabs/.android/build-cache/71d8f7f382349d19e19d7d1fe2a37e0c17daa84c/output/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/AndroidFileExplorer-master/GetDirectory/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/durbinlabs/.android/build-cache/71d8f7f382349d19e19d7d1fe2a37e0c17daa84c/output/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/AndroidFileExplorer-master/GetDirectory/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/durbinlabs/.android/build-cache/71d8f7f382349d19e19d7d1fe2a37e0c17daa84c/output/res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    }
+]

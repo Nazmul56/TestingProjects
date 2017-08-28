@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/AndroidFileExplorer-master/GetDirectory/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_storage.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/AndroidFileExplorer-master/GetDirectory/app/src/main/res/drawable-hdpi/ic_storage.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/AndroidFileExplorer-master/GetDirectory/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_directory.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/AndroidFileExplorer-master/GetDirectory/app/src/main/res/drawable-hdpi/ic_directory.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/AndroidFileExplorer-master/GetDirectory/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/AndroidFileExplorer-master/GetDirectory/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/AndroidFileExplorer-master/GetDirectory/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_external_storage.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/AndroidFileExplorer-master/GetDirectory/app/src/main/res/drawable-hdpi/ic_external_storage.png"
+    }
+]

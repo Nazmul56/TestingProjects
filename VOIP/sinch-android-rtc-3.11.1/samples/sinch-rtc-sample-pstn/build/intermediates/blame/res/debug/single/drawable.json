@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-pstn/build/intermediates/res/merged/debug/drawable/button_decline.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-pstn/res/drawable/button_decline.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-pstn/build/intermediates/res/merged/debug/drawable/button_login.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-pstn/res/drawable/button_login.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-pstn/build/intermediates/res/merged/debug/drawable/button_end.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-pstn/res/drawable/button_end.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-pstn/build/intermediates/res/merged/debug/drawable/button_call.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-pstn/res/drawable/button_call.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-pstn/build/intermediates/res/merged/debug/drawable/inputbox.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-pstn/res/drawable/inputbox.xml"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/drawable-hdpi/small_red_normal.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/drawable-hdpi/small_red_normal.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/drawable-hdpi/call_normal.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/drawable-hdpi/call_normal.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/drawable-hdpi/small_green_pressed.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/drawable-hdpi/small_green_pressed.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/drawable-hdpi/call_pressed.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/drawable-hdpi/call_pressed.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/drawable-hdpi/login_pressed.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/drawable-hdpi/login_pressed.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/drawable-hdpi/small_red_pressed.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/drawable-hdpi/small_red_pressed.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/drawable-hdpi/big_red_normal.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/drawable-hdpi/big_red_normal.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/drawable-hdpi/big_red_pressed.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/drawable-hdpi/big_red_pressed.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/drawable-hdpi/login_normal.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/drawable-hdpi/login_normal.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/drawable-hdpi/icon.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/drawable-hdpi/small_green_normal.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/drawable-hdpi/small_green_normal.png"
+    }
+]

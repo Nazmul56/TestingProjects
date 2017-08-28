@@ -1,0 +1,905 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<title>Sinch Android User Guide</title>
+	<meta name="copyright" content="Copyright (c) 2016 Sinch Networks AB. All rights reserved."/>
+	<link type="text/css" rel="stylesheet" href="css/Sinch.css"/>
+</head>
+<body>
+
+<h1 id="introduction">Introduction</h1>
+
+<p>The Sinch SDK is a product that makes adding voice calling and/or instant messaging to mobile apps easy. It handles all the complexity of signaling and audio management while providing you the freedom to create a stunning user interface.</p>
+
+<p>This document provides an overview for developers integrating with Sinch SDK for the first time. It outlines the prerequisites and guides you through the process of setting up and answering calls as well as sending and receiving instant messages. </p>
+
+<p>Please see the <a href="http://www.sinch.com/docs/android/reference/">Reference Documentation</a> for a comprehensive description of all the classes.</p>
+
+<h1 id="firsttimesetup">First time setup</h1>
+
+<p>Below is a step-by-step guide on setting up the Sinch SDK for the first time.</p>
+
+<h2 id="registeranapplication">Register an Application</h2>
+
+<ol>
+<li>Register a Sinch Developer account at <a href="http://www.sinch.com/signup">http://www.sinch.com/signup</a>.</li>
+<li>Setup a new Application using the Dashboard where you can then obtain an <em>Application Key</em> and an <em>Application Secret</em>.</li>
+</ol>
+
+<h2 id="download">Download</h2>
+
+<p>The Sinch SDK can be downloaded at <a href="http://www.sinch.com/download/">www.sinch.com/download/</a>. It contains: the library <em>aar</em>, this user guide, reference documentation, and sample apps for calling and instant messaging.</p>
+
+<h2 id="addthesinchlibrary">Add the Sinch library</h2>
+
+<p>The Sinch SDK library is distributed in <a href="http://tools.android.com/tech-docs/new-build-system/aar-format">AAR</a> format. To use it in your project either:</p>
+
+<ul>
+<li><p>Copy the <strong>.aar</strong> file to the <code>libs</code> folder and edit the build.gradle file to include</p>
+
+<pre><code>repositories {
+    flatDir {
+        dirs 'libs'
+    }
+}
+
+dependencies {
+    compile(name:'sinch-android-rtc', version:'+', ext:'aar')
+}
+</code></pre></li>
+<li><p>Or using Android Studio choose <code>File -&gt; New -&gt; New Module -&gt; Import .JAR/.AAR Package</code> option</p></li>
+</ul>
+
+<h2 id="runningproguard">Running ProGuard</h2>
+
+<p>If you are using ProGuard, we bundle an example proguard-project.txt file that makes sure that the Sinch SDK will work as expected.</p>
+
+<h2 id="permissions">Permissions</h2>
+
+<p>A minimum set of permissions are needed for the app to use the Sinch SDK. These are specified in the <code>AndroidManifest.xml</code> file. If the calling functionality will be used, all five permissions listed here are needed. However, if the calling functionality isn&#8217;t used, the last three (RECORD_AUDIO, MODIFY_AUDIO_SETTINGS and READ_PHONE_STATE) can be omitted.</p>
+
+<pre><code>&lt;uses-permission android:name=&quot;android.permission.INTERNET&quot; /&gt;
+&lt;uses-permission android:name=&quot;android.permission.ACCESS_NETWORK_STATE&quot; /&gt;
+&lt;uses-permission android:name=&quot;android.permission.RECORD_AUDIO&quot; /&gt;
+&lt;uses-permission android:name=&quot;android.permission.MODIFY_AUDIO_SETTINGS&quot; /&gt;
+&lt;uses-permission android:name=&quot;android.permission.READ_PHONE_STATE&quot; /&gt;
+</code></pre>
+
+<p><em>Note:</em> By default, the Sinch SDK hangs up any Sinch call if the regular phone app has an active call. This functionality requires the permission READ_PHONE_STATE. However, if this default functionality isn&#8217;t wanted, turn it off by calling <code>sinchClient.getCallClient().setRespectNativeCalls(false);</code> and the permission READ_PHONE_STATE is not needed. </p>
+
+<h3 id="verifymanifestinruntimeduringdevelopment">Verify manifest in runtime during development</h3>
+
+<p>To verify that the manifest has the necessary permissions the <code>sinchClient.checkManifest()</code> method can be used. This method should be called before starting the client and will throw an exception if the manifest isn&#8217;t setup correctly. <code>sinchClient.checkManifest()</code> should only be called during development. When the application is ready for release the method call can safely be removed.</p>
+
+<p><em>Note:</em> This method takes into consideration which features the app supports (for example, calling, instant messaging, respecting native calls, and so on). Call <code>sinchClient.checkManifest()</code> after the setup but before the start of the SinchClient.</p>
+
+<h1 id="sinchclient">Sinch client</h1>
+
+<p>The <em>SinchClient</em> is the Sinch SDK entry point. It is used to configure the user&#8217;s and device&#8217;s capabilities, as well as to provide access to feature classes such as the <em>CallClient</em>, <em>MessageClient</em> and <em>AudioController</em>.</p>
+
+<h2 id="createasinchclient">Create a <em>SinchClient</em></h2>
+
+<pre><code>// Instantiate a SinchClient using the SinchClientBuilder.
+android.content.Context context = this.getApplicationContext();
+SinchClient sinchClient = Sinch.getSinchClientBuilder().context(context)
+                                                  .applicationKey(&quot;&lt;application key&gt;&quot;)
+                                                  .applicationSecret(&quot;&lt;application secret&gt;&quot;)
+                                                  .environmentHost(&quot;sandbox.sinch.com&quot;)
+                                                  .userId(&quot;&lt;user id&gt;&quot;)
+                                                  .build();
+</code></pre>
+
+<p>The <em>Application Key</em> and <em>Application Secret</em> are obtained from the Sinch Developer Dashboard. See <a href="#productionandsandboxenvironments">Production and Sandbox Environments</a> for valid values for <em>environmentHost</em>. The User ID should uniquely identify the user on the particular device.</p>
+
+<p><em>Note:</em> All listener callbacks emitted from the Sinch SDK are invoked on the same thread that the call to <code>SinchClientBuilder.build</code> is made on. If the invoking thread is <em>not</em> the main-thread, it needs to have an associated <code>Looper</code>.</p>
+
+<h2 id="specifycapabilities">Specify capabilities</h2>
+
+<p>The SinchClient can be configured to enable or disable certain functionality. Please see the <a href="../reference/index.html?com/sinch/android/rtc/SinchClient.html">Reference</a> for a comprehensive description of each capability.</p>
+
+<p>The following example shows how to setup the client with both voice calling and instant messaging enabled.</p>
+
+<pre><code>// Specify the client capabilities. 
+// At least one of the messaging or calling capabilities should be enabled.
+sinchClient.setSupportMessaging(true);
+sinchClient.setSupportCalling(true);
+sinchClient.setSupportManagedPush(true);
+// or
+sinchClient.setSupportActiveConnectionInBackground(true);
+sinchClient.startListeningOnActiveConnection()
+</code></pre>
+
+<p>Calling <code>startListeningOnActiveConnection</code> allows your application to receive incoming calls and messages without using push notifications.</p>
+
+<p><em>Note:</em> If the application is meant to only make outgoing calls but not receive incoming calls, don&#8217;t call <code>startListeningOnActiveConnection</code> or <code>setSupportManagedPush</code>. Outgoing calls can be made after calling the start method.</p>
+
+<h2 id="startthesinchclient">Start the Sinch client</h2>
+
+<p>Before starting the client, add a client listener (see <a href="../reference/index.html?com/sinch/android/rtc/SinchClientListener.html">Reference</a> documentation):</p>
+
+<pre><code>sinchClient.addSinchClientListener(new SinchClientListener() {
+
+    public void onClientStarted(SinchClient client) { }
+
+    public void onClientStopped(SinchClient client) { }
+
+    public void onClientFailed(SinchClient client, SinchError error) { }
+
+    public void onRegistrationCredentialsRequired(SinchClient client, ClientRegistration registrationCallback) { }
+
+    public void onLogMessage(int level, String area, String message) { }
+});
+
+sinchClient.start();
+</code></pre>
+
+<h3 id="terminatethesinchclient">Terminate the Sinch client</h3>
+
+<p>When the app is done using the SinchClient, it should be stopped. If the client is currently listening for incoming events, it needs to stop listening as well. After <code>terminate</code> is called, any object retrieved directly from the client object (that is, <code>CallClient</code>, <code>MessageClient</code>, and <code>AudioController</code>) is considered invalid. </p>
+
+<p>Terminating the client:</p>
+
+<pre><code>sinchClient.stopListeningOnActiveConnection();
+sinchClient.terminate();
+</code></pre>
+
+<h1 id="calling">Calling</h1>
+
+<p>The Sinch SDK supports four types of calls: <em>app-to-app (audio or video)</em>, <em>app-to-phone</em>, <em>app-to-sip</em> and <em>conference</em> calls. The CallClient is the entry point for the calling functionality of the Sinch SDK.</p>
+
+<p>Calls are placed through the <code>CallClient</code> and events are received using the <code>CallClientListener</code>. The call client is owned by the SinchClient and accessed using <code>sinchClient.getCallClient()</code>. Calling is not enabled by default. </p>
+
+<p>Enable calling with the following method before starting the <code>SinchClient</code>:</p>
+
+<pre><code>sinchClient.setSupportCalling(true);
+</code></pre>
+
+<h2 id="setupanapp-to-appcall">Set up an <em>app-to-app</em> call</h2>
+
+<p>Use the CallClient to start the call (the <code>callUser</code> method). Pass the user identifier of the callee (the user receiving the call) to the call method, so that Sinch services can connect the call to the callee.</p>
+
+<pre><code>CallClient callClient = sinchClient.getCallClient();
+Call call = callClient.callUser(&quot;&lt;remote user id&gt;&quot;);
+// Or for video call: Call call = callClient.callUserVideo(&quot;&lt;remote user id&gt;&quot;);
+call.addCallListener(...);
+</code></pre>
+
+<p>A call object is returned, containing details about the participants in the call, call details such as start time, call state, possible errors, and so on.</p>
+
+<p>Assuming the callee&#8217;s device is available, the method <code>onCallProgressing</code> is called on the <code>CallListener</code>. It notifies the application that the outgoing call is progressing. If a progress tone should be played, this is where it should be started.</p>
+
+<p>When the other party answers, the <code>onCallEstablished</code> method is called. Now, the users can start talking. If a progress tone was previously played, it should be stopped now.</p>
+
+<h2 id="setupanapp-to-phonecall">Set up an <em>app-to-phone</em> call</h2>
+
+<p>An <em>app-to-phone</em> call is a call that is made to a phone on the regular telephone network. Setting up an <em>app-to-phone</em> call is not much different than setting up an <em>app-to-app</em> call. Instead of invoking the <code>callUser</code> method, invoke the <code>callPhoneNumber</code> method on the <code>CallClient</code> object. Sufficient funds must be available on the Sinch account and a valid phone number specified for the call to connect successfully. The phone number should be specified according to the E.164 number formatting (<a href="http://en.wikipedia.org/wiki/E.164">http://en.wikipedia.org/wiki/E.164</a>) recommendation and should be prefixed with a &#8216;+&#8217;. E.g. to call the US phone number 415 555 0101, the phone number should be specified as &#8220;+14155550101&#8221;. The &#8216;+&#8217; is the required prefix and the US country code &#8216;1&#8217; prepended to the local subscriber number.</p>
+
+<p>Placing an <em>app-to-phone</em> call requires a developer account with credits. Topping up credits can be done on the Account page. Credits are used each time an <em>app-to-phone</em> call is placed and the balance history is updated after each call.</p>
+
+<p><em>App-to-phone</em> calls can be tested by calling the following test number: <em>+46000000000</em>. When placing a call to this number, you will hear a voice prompt stating that the call has been connected, and shortly after that the call will automatically be ended. </p>
+
+<h2 id="setupanapp-to-sipcall">Set up an <em>app-to-sip</em> call</h2>
+
+<p>An <em>app-to-sip</em> call is a call that is made to a SIP server. Setting up an <em>app-to-sip</em> call is not much different from setting up an <em>app-to-app</em> call.
+Instead of invoking the <code>callUser</code> method, invoke the <code>callSip</code> method on the <code>CallClient</code> object. The SIP identity should be in the form &#8220;user@server&#8221;. By convention, when passing custom headers in the SIP call, the headers should be prefixed with &#8220;x-&#8221;.
+If the SIP server reported any errors, the <code>CallDetails</code> object will provide an error with the <code>SIP</code> error type.</p>
+
+<h2 id="setupaconferencecall">Set up a <em>conference</em> call</h2>
+
+<p>A <em>conference</em> call can be made to connect a user to a conference room where multiple users can be connected at the same time. The identifier for a conference room may not be longer than 64 characters.</p>
+
+<pre><code>CallClient callClient = sinchClient.getCallClient();
+Call call = callClient.callConference(&quot;&lt;conferenceId&gt;&quot;);
+call.addCallListener(...);
+</code></pre>
+
+<p>It is also possible to connect users to a conference call via the <a href="https://www.sinch.com/docs/voice/rest/#Callouts" title="Sinch Callout REST API">Sinch REST API</a>.</p>
+
+<h2 id="handleincomingcalls">Handle incoming calls</h2>
+
+<p>To answer calls, the application must be notified when the user receives an incoming call.</p>
+
+<p>Add a <code>CallClientListener</code> to the <code>CallClient</code> to act on the incoming calls. The <code>CallClientListener</code> is notified using <code>onIncomingCall</code> as calls come in to the device.</p>
+
+<pre><code>CallClient callClient = sinchClient.getCallClient();
+callClient.addCallClientListener(...);
+</code></pre>
+
+<p>When the incoming call method is executed, the call can either be connected automatically without any user action, or it can wait for the user to press the answer or the hangup button. If the call is set up to wait for a user response, we recommended that a ringtone is played to notify the user that there is an incoming call.</p>
+
+<pre><code>@Override
+public void onIncomingCall(CallClient callClient, Call call) {
+    // Start playing ringing tone
+    ... 
+
+    // Add call listener
+    call.addCallListener(...);          
+}       
+</code></pre>
+
+<p>To get events related to the call, add a call listener.
+The call object contains details about participants, start time, potential error codes, and error messages.</p>
+
+<h3 id="incomingvideocall">Incoming video call</h3>
+
+<p>When incoming call is a video call, the <code>onIncomingCall</code> callback will be executed, just like for the incoming audio call. The <code>CallDetails</code> object provides a <code>isVideoOffered()</code> method to check whether the call offers a video track. See the <a href="#videocalling">Video calling</a> section for details on how to add video views.</p>
+
+<h3 id="answerincomingcall">Answer incoming call</h3>
+
+<p>To answer the call, use the <code>answer</code> method on the call to accept it. If a ringtone was previously played, it should be stopped now.</p>
+
+<p>User presses the answer button:</p>
+
+<pre><code>// User answers the call
+call.answer();
+
+// Stop playing ringing tone
+...     
+</code></pre>
+
+<p>Now, the clients on both ends establish the connection. When the call is established and the voice streams are running in both directions, the <code>onCallEstablished</code> listener method is called. </p>
+
+<h3 id="declineincomingcall">Decline incoming call</h3>
+
+<p>If the call should not be answered, use the <code>hangup</code> method on the call to decline. The caller is notified that the incoming call was denied. If a ringtone was previously played, it should be stopped now.</p>
+
+<p>User presses the hangup button: </p>
+
+<pre><code>// User does not want to answer
+call.hangup();
+
+// Stop playing ringing tone
+...     
+</code></pre>
+
+<h2 id="disconnectingacall">Disconnecting a Call</h2>
+
+<p>When the user wants to disconnect an ongoing call, use the <code>hangup</code> method. Either user taking part in a call can disconnect it.</p>
+
+<p>Hanging up a call:</p>
+
+<pre><code>call.hangup();
+</code></pre>
+
+<p>When either party disconnects a call, the application is notified using the call listener method <code>onCallEnded</code>. This allows the user interface to be updated, an alert tone to be played, or similar actions to occur.</p>
+
+<p>A call can be disconnected before it has been completely established.</p>
+
+<p>Hanging up a connecting call:</p>
+
+<pre><code>// Starting a call
+Call call = callClient.callUser(&quot;&lt;remote user id&gt;&quot;);
+
+// User changed his/her mind, let’s hangup
+call.hangup();
+</code></pre>
+
+<h2 id="volumecontrol">Volume control</h2>
+
+<p>To make sure that the volume of the call can be modified by the hardware volume controls, <code>setVolumeControlStream(AudioManager.STREAM_VOICE_CALL)</code> must be called on the <code>Activity</code> where the call is handled. Make sure that <code>volumeControlStream</code> is reset to a suitable value when the call has ended.</p>
+
+<p>For example, after creating a call (using <code>CallClient.callUser</code>) or when answering a call (using <code>Call.answer()</code>) you should call <code>setVolumeControlStream(AudioManager.STREAM_VOICE_CALL);</code>.</p>
+
+<p>When the call ends, set the volume control stream back to it&#8217;s previous value. For example in your implementation of <code>CallListener</code>:</p>
+
+<pre><code>    @Override
+    public void onCallEnded(Call call) {
+        setVolumeControlStream(AudioManager.USE_DEFAULT_STREAM_TYPE);
+    }
+</code></pre>
+
+<h1 id="videocalling">Video calling</h1>
+
+<h2 id="settingupavideocall">Setting up a video call</h2>
+
+<p>Just like audio calls, video calls are placed through the <code>CallClient</code> and events are received using the <code>CallClientListener</code>. The call client is owned by the SinchClient and accessed using <code>sinchClient.getCallClient()</code>. Calling is not enabled by default. For a more general introduction to calling with the SinchClient, see <a href="#calling">Calling</a>.</p>
+
+<h2 id="showingthevideostreams">Showing the video streams</h2>
+
+<p>Once you have created a <code>VideoCallListener</code> and added it to a call, the <code>onVideoTrackAdded()</code> method will be called.</p>
+
+<pre><code>    @Override
+    public void onVideoTrackAdded(Call call) {
+        // Get a reference to your SinchClient, in the samples this is done through the service interface:
+        VideoController vc = getSinchServiceInterface().getVideoController();
+        View myPreview = vc.getLocalView();
+        View remoteView = vc.getRemoteView();
+
+        // Add the views to your view hierarchy
+        ...
+    }
+</code></pre>
+
+<p>After the call has ended, don&#8217;t forget to remove the views from your view hierarchy again.</p>
+
+<pre><code>    @Override
+    public void onCallEnded(Call call) {
+        // Remove Sinch video views from your view hierarchy
+    }
+</code></pre>
+
+<h3 id="pausingvideostream">Pausing video stream</h3>
+
+<p>To pause the local video stream, use the <code>pauseVideo()</code> method on the call.</p>
+
+<pre><code class="java">    // User pause the video stream 
+    call.pauseVideo();
+</code></pre>
+
+<h3 id="resumingvideostream">Resuming video stream</h3>
+
+<p>To resume the local video stream, use the <code>resumeVideo()</code> method on the call.</p>
+
+<pre><code class="java">   // User resumes the video stream 
+   call.resumeVideo();
+</code></pre>
+
+<h3 id="pausingvideostreamdelegates">Pausing video stream delegates</h3>
+
+<p>Once you have created a <code>VideoCallListener</code> and added it to a call, the <code>onVideoTrackPaused()</code> method will be called when the remote user pause the video stream.</p>
+
+<pre><code class="java">   @Override
+   public void onVideoTrackPaused(Call call) {
+        // Implement what to be done when remote user pause video stream.
+   }
+</code></pre>
+
+<h3 id="resumingvideostreamdelegates">Resuming video stream delegates</h3>
+
+<p>Once you have created a <code>VideoCallListener</code> and added it to a call, the <code>onVideoTrackResumed()</code> method will be called when the remote user resumes the video stream..</p>
+
+<pre><code class="java">   @Override
+   public void onVideoTrackResumed(Call call) {
+        // Implement what to be done when remote user resumes video stream.
+   }
+</code></pre>
+
+<h3 id="videocontentfittingandaspectratio">Video content fitting and aspect ratio</h3>
+
+<p>How the remote video stream is fitted into a view can be controller by the <code>setResizeBehaviour()</code> method with possible arguments <code>VideoScalingType.ASPECT_FIT</code>, <code>VideoScalingType.ASPECT_FILL</code> and <code>VideoScalingType.ASPECT_BALANCED</code>. The local preview will always use <code>VideoScalingType.ASPECT_FIT</code>.</p>
+
+<h3 id="switchingcapturingdevice">Switching capturing device</h3>
+
+<p>The capturing device can be switched using <code>videoController.setCaptureDevicePosition(int facing)</code> with possible values <code>Camera.CameraInfo.CAMERA_FACING_FRONT</code> and <code>Camera.CameraInfo.CAMERA_FACING_BACK</code>. Use <code>videoController.toggleCaptureDevicePosition()</code> to alternate the two.</p>
+
+<h3 id="accessingvideoframesoftheremotestreams">Accessing video frames of the remote streams</h3>
+
+<p>The Sinch SDK can provide access to raw video frames via a callback function. This callback can be used to achieve rich functionality such as applying filters, adding stickers to the video frames, or saving the video frame as an image.</p>
+
+<p>Your video frame handler needs to implement <code>VideoFrameListener</code> interface by implementing the <code>onFrame()</code> callback. Note that it is important to explicitly release the video frame by calling <code>release()</code>.</p>
+
+<p>Example:</p>
+
+<pre><code class="java">    import com.sinch.android.rtc.video.VideoFrame;
+    import com.sinch.android.rtc.video.VideoFrameListener;
+
+    public class YourVideoFrameHandler implements VideoFrameListener {
+        public synchronized void onFrame(String callId, VideoFrame videoFrame) {
+        ... // Process videoFrame
+        videoFrame.release(); // Release videoFrame
+        }
+    }
+</code></pre>
+
+<p>Use <code>setVideoFrameListener()</code> to register your video frame handler as the callback to receive video frames.</p>
+
+<p>Example:</p>
+
+<pre><code class="java">    YourVideoFrameHandler videoFrameHandler = new YourVideoFrameHandler();
+    VideoController vc = getSinchServiceInterface().getVideoController();
+    vc.setVideoFrameListener(videoFrameHandler);
+</code></pre>
+
+<h3 id="convertingvideoframefromi420tonv21">Converting video frame from I420 to NV21</h3>
+
+<p>The Sinch SDK provides a helper function to convert the default I420 frame to NV21 Frame, which is handy to work with when you need to save it as an image on Android. Use <code>VideoUtils.I420toNV21Frame(VideoFrame)</code> for the conversion. Note that this helper does <em>NOT</em> release the original I420 video frame.</p>
+
+<p>Example:</p>
+
+<pre><code class="java">    import com.sinch.android.rtc.video.VideoUtils; // To use I420toNV21Frame
+
+    VideoFrame videoFrame = ... // Get the video frame from onFrame() callback
+    VideoFrame nv21Frame = VideoUtils.I420toNV21Frame(videoFrame);
+
+    YuvImage image = new YuvImage(nv21Frame.yuvPlanes()[0].array(),
+                                  ImageFormat.NV21,
+                                  nv21Frame.width(),
+                                  nv21Frame.height(),
+                                  nv21Frame.yuvStrides());
+
+</code></pre>
+
+<h1 id="instantmessaging">Instant messaging</h1>
+
+<p>The <code>MessageClient</code> is the entry point to Instant Messaging functionality in the Sinch SDK. </p>
+
+<p>Messages are sent through the <code>MessageClient</code> and events are received using the <code>MessageClientListener</code>. The message client is owned by the <code>SinchClient</code> and accessed using <code>SinchClient.getMessageClient()</code>. Instant messaging is not enabled by default. To enable instant messaging, <code>SinchClient.setSupportMessaging(true)</code> must be set.</p>
+
+<pre><code>sinchClient.setSupportMessaging(true);
+sinchClient.start();
+
+...
+
+MessageClient messageClient = sinchClient.getMessageClient();
+messageClient.addMessageListener(...);
+</code></pre>
+
+<h2 id="sendamessage">Send a message</h2>
+
+<p>Sending a message with the Sinch SDK is easy. Get hold of a <code>MessageClient</code> as described earlier and pass it a <code>WritableMessage</code>.</p>
+
+<pre><code>// Create a WritableMessage
+WritableMessage message = new WritableMessage(
+        &quot;someRecipientUserId&quot;,
+        &quot;Hello someRecipientUserId! How are you?&quot;); 
+
+// Send it
+messageClient.send(message);
+</code></pre>
+
+<h3 id="messagedeliverysuccess">Message delivery success</h3>
+
+<p>When a message to a recipient is successfully sent, there is an event on the <code>MessageClientListener</code>, <code>onMessageSent</code>.</p>
+
+<pre><code>@Override
+public void onMessageSent(MessageClient client, Message message) {
+    // Persist message
+    // Update UI
+}
+</code></pre>
+
+<p>Updating the UI from the <code>onMessageSent</code> callback is especially convenient when a user is logged in into more than one device simultaneously. The <code>onMessageSent</code> callback is fired on each device. This aids in keeping the UI consistent across devices.</p>
+
+<p>When the system has confirmed the messages were delivered the listener is notified using the <code>onMessageDelivered</code>method. Inspecting the <code>MessageDeliveryInfo</code> parameter passed to the callback reveals more details on the specific event.</p>
+
+<pre><code>@Override
+public void onMessageDelivered(MessageClient client, MessageDeliveryInfo deliveryInfo) {
+  Log.d(TAG, &quot;The message with id &quot;+deliveryInfo.getMessageId()
+    +&quot; was delivered to the recipient with id&quot;+ deliveryInfo.getRecipientId());
+}
+</code></pre>
+
+<h3 id="messagedeliveryfailures">Message delivery failures</h3>
+
+<p>Delivering a message to a recipient can fail for various reasons: there might not be a network available, the recipient does not have instant messaging support and so on. When a message failed to reach its destination the listener is notified using the <code>onMessageFailed</code> callback. The reason for failing to deliver a message is propagated back as an <code>MessageFailureInfo</code> instance.</p>
+
+<pre><code>@Override
+public void onMessageFailed(MessageClient client, Message message, MessageFailureInfo failureInfo) {
+        Log.d(TAG, &quot;Failed to send to user: &quot;+info.getRecipientId()
+                    +&quot; because: &quot;+failureInfo.getSinchError().getMessage());
+}
+</code></pre>
+
+<p><em>Note</em>: Messages are persisted internally in the SDK. In case the message was not sent successfully it will be retried automatically at a later point in time. The message will be retried for 12 hours and then fail permanently firing the failure callback.</p>
+
+<p><em>Note</em>: Messages are stored in the backend for 30 days before being removed. If the recipient has not started the app and downloaded the message history within this time frame, the message will be lost and no notification will be received.</p>
+
+<p><em>Note</em>: A message should be retried only in case of network unavailability (use <code>messageFailureInfo.getSinchError().getErrorType().equals(ErrorType.NETWORK)</code>). In this case create a new <code>WritableMessage</code> (using <code>new WritableMessage(message)</code>) and send that instance because the previous message is considered stale. </p>
+
+<h2 id="receiveamessage">Receive a message</h2>
+
+<p>Incoming messages (<code>Message</code>) are delivered using the method <code>onIncomingMessage</code> on the <code>MessageClientListener</code>.</p>
+
+<pre><code>@Override
+public void onIncomingMessage(MessageClient client, Message message) {
+    // Persist message
+    // Update UI
+}
+</code></pre>
+
+<h2 id="sendamessagetomultiplerecipients">Send a message to multiple recipients</h2>
+
+<p>To send a message to multiple recipients, create the message with the <code>WriteableMessage(List&lt;String&gt; recipientUserIds, String textBody)</code> constructor.</p>
+
+<pre><code>// Create a WritableMessage and send to multiple recipients
+WritableMessage message = new WritableMessage(
+        {&quot;recipient user id 1&quot;, &quot;recipient user id 2&quot;},
+        &quot;Hello recipients! How are you?&quot;);  
+
+// Send it
+messageClient.send(message);
+</code></pre>
+
+<h3 id="receivingrecipientstatusupdatesformulti-recipientmessages">Receiving recipient status updates for multi-recipient messages</h3>
+
+<p>The recipient&#8217;s state transitions for the message are communicated back using the <code>MessageClientListener</code> listener the same as in the single recipient case. The listener&#8217;s callbacks are triggered for every recipient. </p>
+
+<h1 id="pushnotifications">Push notifications</h1>
+
+<p>When an application is not running, or the <code>Active Connection</code> feature is not enabled, the user must be notified of an incoming call or instant message by a push notification.</p>
+
+<p>By invoking <code>setSupportManagedPush(true)</code> the Sinch SDK will automatically register to <em>Google Cloud Messaging</em> and the Sinch backend will initiate push messages to your application when needed. This feature requires Google Play Services on the device. If you distribute your application through other channels than Google Play, push notifications will not be available on devices that do not have Google Play Services.</p>
+
+<p>If using the Sinch backend and Google Cloud Messaging is not viable in the application, please see <a href="#pushnotificationssentviayourapplicationserver">Push Notifications sent via your application server</a> and <a href="#activeconnection">Active connection</a>.</p>
+
+<p>As a developer, you will be responsible for implementing the code that receives the GCM push message. For an example implementation, please see the sample app &#8220;Sinch Push&#8221; which is bundled with the SDK.</p>
+
+<p>The following sections cover how to support receiving calls and messages via push notifications.</p>
+
+<h2 id="permissionsrequired">Permissions required</h2>
+
+<p>Your application will require the following permissions to receive push messages (and the <em>WAKE_LOCK</em> permission to keep executing after the push is received).</p>
+
+<pre><code>&lt;uses-permission android:name=&quot;com.google.android.c2dm.permission.RECEIVE&quot;/&gt;
+&lt;uses-permission android:name=&quot;android.permission.WAKE_LOCK&quot;/&gt;
+
+&lt;permission android:name=&quot;YOUR.APP.PACKAGENAME.gcm.permission.C2D_MESSAGE&quot;
+            android:protectionLevel=&quot;signature&quot;/&gt;
+&lt;uses-permission android:name=&quot;YOUR.APP.PACKAGENAME.gcm.permission.C2D_MESSAGE&quot;/&gt;
+</code></pre>
+
+<p>For more information on how to setup your application to receive GCM push messages, please see the <a href="https://developer.android.com/google/gcm/client.html#manifest">Android developer guide for GCM</a>.</p>
+
+<h2 id="enablepushnotifications">Enable push notifications</h2>
+
+<p>To enable push notifications, set the following capability before starting the Sinch client:</p>
+
+<pre><code>sinchClient.setSupportManagedPush(true);
+sinchClient.start();
+</code></pre>
+
+<p><em>NOTE:</em> You must catch the <code>MissingGCMException</code> if you distribute your app to devices without <em>Google Play Services</em>.</p>
+
+<p><em>NOTE:</em> Using <code>setSupportManagedPush(true)</code> will register a token with Google Cloud Messaging using a Sender ID connected to Sinch, which will implicitly unregister your own token. You should <em>not</em> register any token with GCM if using Sinch push notifications.</p>
+
+<h2 id="receiveandforwardpushnotificationstoasinchclient">Receive and forward push notifications to a Sinch client</h2>
+
+<p>For more details regarding how to implement receiving a GCM downstream message, please see the <a href="https://developer.android.com/google/gcm/client.html#sample-receive">Android developer site for GCM</a>.</p>
+
+<p>Once you have received the <code>Intent</code> in your <code>BroadcastReceiver</code>, forward it to the Sinch client using the method <code>relayRemotePushNotificationPayload</code>. </p>
+
+<pre><code>    // make sure you have created a SinchClient
+    if (SinchHelpers.isSinchPushIntent(intent)) {
+        NotificationResult result = sinchClient.relayRemotePushNotificationPayload(intent);
+    }
+</code></pre>
+
+<p>The returned <code>result</code> can be inspected to see whether the push was for a call or an IM using <code>result.isCall()</code> and <code>result.isMessage()</code>.</p>
+
+<h3 id="incomingcall">Incoming call</h3>
+
+<p>If the payload that was forwarded to the Sinch client was for a call, the <code>onIncomingCall</code> callback will automatically be triggered as for any other call.
+The <code>CallNotificationResult</code> object provides details about participants, whether the call timed out and whether the call offers video.</p>
+
+<h3 id="incomingmessage">Incoming message</h3>
+
+<p>If the payload that was forwarded to the Sinch client was for an instant message, call <code>SinchClient.startListeningOnActiveConnection()</code> which will make sure the <code>onIncomingMessage</code> callback is called. See <a href="#activeconnection">Active Connection</a> for more information.</p>
+
+<h2 id="unregisteradevice">Unregister a device</h2>
+
+<p>If the user of the application logs out or performs a similar action, the push notification device token can be unregistered via <code>SinchClient.unregisterManagedPush()</code> to prevent further notifications to be sent to the device. Starting a client with <code>setSupportManagedPush(true)</code> will register the device again.</p>
+
+<h1 id="activeconnection">Active connection</h1>
+
+<p>If push notifications are not desired, the alternative is to use <code>setSupportActiveConnectionInBackground(true)</code> and then calling <code>startListeningOnActiveConnection()</code> to enable incoming calls and instant messages.
+ Don&#8217;t forget to call <code>stopListeningOnActiveConnection()</code> when the user is no longer available for calls (for example if the application is no longer active).</p>
+
+<h1 id="applicationauthentication">Application authentication</h1>
+
+<p>A user identity must be provided when initiating a Sinch client. The first time the application instance and the Sinch client are running on behalf of a particular user, they are required to register against the Sinch service. This is mostly handled transparently by the Sinch SDK, but it works slightly differently depending on which authentication scheme you choose to use.</p>
+
+<p>The step of registering a user identity against the Sinch service requires the application instance to be authenticated and authorized to perform the user registration. Once the application instance has successfully registered the user identity, it will also have obtained the necessary credentials to perform further authorized requests for that specific user, for example, calling.</p>
+
+<p>Two different authentication schemes are available: authentication by client access to application secret and authentication supported by application server. </p>
+
+<h2 id="authenticationbyclientaccesstoapplicationsecret">Authentication by client access to Application Secret</h2>
+
+<p>This application authentication scheme is based on giving the application direct access to the Application Secret, which enables the Sinch Client SDK in the application to self-sign an authorized request to perform user registration. Choosing this authentication scheme corresponds to initiating the Sinch client by using the factory method that takes both an Application Key and an Application Secret. </p>
+
+<p>Using this authentication scheme is the quickest way to get started as the client application instances can directly perform authorized requests against the Sinch service.</p>
+
+<p><em>Caution:</em> It is not recommended to have the application secret in plain text in the source code in the release version of the application.</p>
+
+<h2 id="authenticationsupportedbyapplicationserver">Authentication supported by application server</h2>
+
+<p>This application authentication scheme is based on the client application instance not having direct access to the Application Secret. Instead, when the Sinch client needs to perform an authorized request to register a user identity against the Sinch service, it needs to be provided with an authentication signature and a registration sequence to perform the registration. This should be provided by the application&#8217;s backend service, for example, by using a HTTP request over an SSL connection.</p>
+
+<p>This scheme has the benefit of the application secret never being directly accessible by the client applications and provides a better level of security as well as flexibility.</p>
+
+<p><em>Note:</em> The need for the Sinch client to request an authentication signature and registration sequence is only required once per user and device&#8211;not on every application launch.</p>
+
+<figure>
+<img src="images/authentication_via_application_server.png" alt="Figure 4. Authentication Supported by Application Server" />
+<figcaption>Figure 4. Authentication Supported by Application Server</figcaption>
+</figure>
+
+<h3 id="generatingthesignature">Generating the signature</h3>
+
+<p>The <em>Application Server</em> is responsible for generating a valid signature for each registration request that it accepts as a valid user registration. The <em>sequence</em> is a <a href="http://en.wikipedia.org/wiki/Cryptographic_nonce">cryptographic nonce</a>, and must be a monotonically increasing value. The signature is then generated as as follows (pseudogrammar):</p>
+
+<pre><code>string userId;
+string applicationKey; // E.g. &quot;196087a1-e815-4bc4-8984-60d8d8a43f1d&quot;
+string applicationSecret; // E.g. &quot;oYdgGRXoxEuJhGDY2KQ/HQ==&quot;
+uint64 sequence = previous_sequence + 1; // E.g. previous_sequence = 0
+
+string stringToSign = userId + applicationKey + sequence + applicationSecret;
+
+// Use a Base64-encoder that don't introduce line-breaks, 
+// or trim the output signature afterwards.
+string signature = Base64.encode(SHA1.digest(stringToSign));
+</code></pre>
+
+<p>For example, in Java:</p>
+
+<pre><code>    // Generating the Signature - Java
+    // import java.security.MessageDigest;
+    // import org.apache.commons.codec.binary.Base64;
+
+    String userId; 
+    String applicationKey; // E.g. &quot;196087a1-e815-4bc4-8984-60d8d8a43f1d&quot;;
+    String applicationSecret; // E.g. &quot;oYdgGRXoxEuJhGDY2KQ/HQ==&quot;;
+    long sequence; // fetch and increment last used sequence
+
+    String toSign = userId + applicationKey + sequence + applicationSecret;
+
+    MessageDigest messageDigest = MessageDigest.getInstance(&quot;SHA-1&quot;);
+    byte[] hash = messageDigest.digest(toSign.getBytes(&quot;UTF-8&quot;));
+
+    String signature = Base64.encodeBase64String(hash).trim();
+</code></pre>
+
+<h3 id="setupthesinchclientandprovideauthorizationcredentialsforuserregistration">Set up the Sinch client and provide authorization credentials for user registration</h3>
+
+<pre><code>// Instantiate a SinchClient using the SinchClientBuilder,
+// and don't specify the application secret, only the application key.
+android.content.Context context = this.getApplicationContext();
+SinchClient sinchClient = Sinch.getSinchClientBuilder().context(context)
+                                                  .applicationKey(&quot;&lt;application key&gt;&quot;)
+                                                  .environmentHost(&quot;sandbox.sinch.com&quot;)
+                                                  .userId(&quot;&lt;user id&gt;&quot;)
+                                                  .build();
+
+sinchClient.addSinchClientListener(...);
+
+// SinchClientListener implementation
+public void onRegistrationCredentialsRequired(SinchClient client, 
+                                              ClientRegistration registrationCallback) {
+    // This will on the first run for this user call onRegistrationCredentialsRequired on the client listener.
+    // Perform API request to server which keeps the Application Secret.
+    myApiService.getAuthorizedSignatureForUser(&quot;&lt;user id&gt;&quot;, new OnCompletedCallback() {
+        public void onCompleted(String signature, long sequence) {
+            // pass the signature and sequence back to the Sinch SDK
+            // via the ClientRegistration interface.
+            registrationCallback.register(signature, sequence);
+        }
+    });
+}
+</code></pre>
+
+<h1 id="miscellaneous">Miscellaneous</h1>
+
+<h2 id="minimumrequirements">Minimum requirements</h2>
+
+<p>You must have Android version 2.3 (Gingerbread) or later to use the Sinch SDK.</p>
+
+<h2 id="productionandsandboxenvironments">Production and Sandbox environments</h2>
+
+<p>Sinch provides two environments:</p>
+
+<ul>
+<li>Production - Used for applications deployed in production.</li>
+<li>Sandbox - Used during development and testing.</li>
+</ul>
+
+<p>The environment is passed as the parameter <em>environmentHost</em> when instantiating the Sinch client.</p>
+
+<table>
+<colgroup>
+<col style="text-align:left;"/>
+<col style="text-align:left;"/>
+</colgroup>
+
+<thead>
+<tr>
+	<th style="text-align:left;">Environment</th>
+	<th style="text-align:left;">EnvironmentHost parameter</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+	<td style="text-align:left;">Production</td>
+	<td style="text-align:left;">clientapi.sinch.com</td>
+</tr>
+<tr>
+	<td style="text-align:left;">Sandbox</td>
+	<td style="text-align:left;">sandbox.sinch.com</td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="restrictionsonuserids">Restrictions on User IDs</h2>
+
+<p>User IDs can only contain characters in the <em>printable ASCII character set</em>. That is:</p>
+
+<pre><code>!&quot;#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+</code></pre>
+
+<p>User IDs <strong>must not</strong> be longer than <strong>40</strong> characters.</p>
+
+<h2 id="encryptionexportregulationsandgoogleplay">Encryption export regulations and Google Play</h2>
+
+<p>Please check the Summary of U.S. Export Controls Applicable to Commercial Encryption Products and ensure that the application is registered for the Encryption Regulations, if applicable. It can be found under this <a href="http://www.sinch.com/export">link</a>.</p>
+
+<h2 id="statistics">Statistics</h2>
+
+<p>The Sinch SDK client uploads statistics to the Sinch servers at the end of a call, a call failure, or similar event. The statistics are used for monitoring of network status, call quality, and other aspects regarding the general quality of the service.</p>
+
+<p>Some of the information is not anonymous and may be associated with the User ID call participants.</p>
+
+<p>The statistics upload is done by the client in the background.</p>
+
+<h2 id="pushnotificationssentviayourapplicationserver">Push Notifications sent via your application server</h2>
+
+<p>In general we strongly recommend using <em>&#8220;managed push notifications&#8221;</em>, that is, when push notifications are sent directly from the Sinch cloud, which is described in the section <a href="#pushnotifications">Push notifications</a>. The following section on the describes integrating support for push notifications but given that your application server maintain the connection with Google Cloud Messaging.</p>
+
+<p>An application is considered offline in the following scenarios:</p>
+
+<ul>
+<li>When the application is not running</li>
+<li>When background mode has been disabled for the Sinch client, and the application is not in the foreground</li>
+</ul>
+
+<p>For these two scenarios, push notifications must be implemented in the application to be able to receive incoming calls and instant messages. The following sections cover how to support receiving calls and messages via push notifications.</p>
+
+<p>The Sinch client relies on a push service to launch the application if it is not currently listening for incoming calls or messages due to the application being offline. Which push service to use is up to the developer, but for Android applications, the typical choice is to use Google Cloud Messaging (GCM). The examples that follow assume that Google Cloud Messaging is used to deliver push messages.</p>
+
+<p>When offline, the recipient of a call or message receives a push notification containing a Sinch-specific payload that enables the Sinch Client to connect the incoming call or message. Acting on the push notification brings the application to the foreground allowing the user to answer the call or view the message.</p>
+
+<figure>
+<img src="images/push-sequence-diagram_android.png" alt="Figure 2. Push notification sequence." />
+<figcaption>Figure 2. Push notification sequence.</figcaption>
+</figure>
+
+<p>Figure 2 describes the following sequence of events: Both users start their applications and Sinch clients. When A (the caller) calls B (the callee), B&#8217;s application is in a state where it is not considered online (that is reachable using an active socket connection). Sinch notices that B is not online, and tells A to send a push notification to B so that B can answer the call.</p>
+
+<p>When the Sinch client on the caller&#8217;s (or sender&#8217;s) side observes that the destination client is offline, it notifies the application that it needs to trigger the sending of a push notification to the recipient device.</p>
+
+<h3 id="pushnotificationdata">Push notification data</h3>
+
+<p>On startup, each instance of the application is expected to register a device identifier. The identifier is referred to as <em>push notification data</em> and should be provided to the Sinch client using the method <code>registerPushNotificationData</code>. </p>
+
+<p>Push notifications can be addressed to that identifier in the event that the application goes offline. </p>
+
+<p>The push notification data can be any byte sequence; it is up to you to define its structure and what it contains. However, the push notification data must not exceed 1024 bytes. It should contain enough information to allow a push service to send a push notification to a particular user of the application on a particular device. For example, an Android exclusive application would likely use the GCM registration id as its push notification data. </p>
+
+<p>Multi-platform applications may use a mix of different push services. For instance, in an application running on both iOS and Android, the platform identifier in the push notification data can be used by the push server to determine whether APNS or GCM should be used. </p>
+
+<p>The device-specific push notification data should be registered on start up of the application, or as soon as it&#8217;s available. If user B then turns off the application, and user A calls B, user A&#8217;s application would get the callback <code>CallListener.onShouldSendPushNotification</code>. One of the parameters in this callback, is a list of <code>PushPair</code>s that contain a payload and a push notification data. Each element in this list corresponds to each of B&#8217;s registered push notification data identifiers (a user can have multiple devices).</p>
+
+<p>The push notification data can also be unregistered by calling the <code>SinchClient.unregisterPushNotificationData</code> method. This effectively disables incoming calls or messages using push notifications for the particular device.</p>
+
+<h3 id="enablepushnotifications">Enable push notifications</h3>
+
+<p>The following sections assumes that GCM is used, but the use pattern for other push services is similar. </p>
+
+<p>The easiest way to enable offline calls or messages using GCM is to first call <code>SinchClient.setSupportPushNotifications(true)</code> and then register the device specific push notification data with <code>SinchClient.registerPushNotificationData</code>. In a simple example we can use the registration id received from Google when registering to GCM. </p>
+
+<pre><code>// Register with the GCM service to get a device specific registrationId
+// Should be done in a background job
+GoogleCloudMessaging gcm = GoogleCloudMessaging.getInstance(context);
+String regId = gcm.register(&quot;Your-Sender-ID&quot;);
+
+...
+
+sinchClient.setSupportPushNotifications(true);
+sinchClient.start();
+sinchClient.registerPushNotificationData(regId);
+</code></pre>
+
+<p>Please refer to Google&#8217;s
+<a href="http://developer.android.com/google/gcm/index.html">Google Cloud Messaging for Android</a> for more information on how to use the GCM service.</p>
+
+<p><em>Note:</em> As described in the <a href="#pushnotificationdata">Push Data Notification</a> section, the data that you register with the <code>registerPushNotificationData</code> method is defined by you. If using GCM, it must at a minimum include the registrationId from Google (so a GCM server can push to a particular device).</p>
+
+<h3 id="sendandreceivepushnotifications">Send and receive push notifications</h3>
+
+<p>To send push messages the application developer must have a server that is configured for sending push notifications to the Google Cloud Messaging Service. Please see the <a href="../REST-API/user-guide/index.html">Sinch REST API User Guide</a> for details on how to handle feedback from Google Cloud Messaging Service.</p>
+
+<p>Also refer to Google&#8217;s
+<a href="http://developer.android.com/google/gcm/index.html">Google Cloud Messaging for Android</a> for detailed information on how GCM works.</p>
+
+<h4 id="onthecallerside">On the caller side</h4>
+
+<p>When the recipient&#8217;s application is offline and the app needs to notify the user using a push notification, the caller&#8217;s or sender&#8217;s application is notified using the callback method <code>CallListener.onShouldSendPushNotification</code>.</p>
+
+<p>The callback includes a List of <code>PushPair</code>s. The pairs contain a payload that is Sinch- and call-specific. Moreover the pairs contain a push data byte array. The Sinch specific payload should be embedded in the push notification sent to the recipient&#8217;s device(s). The push data is the same push data that the recipient&#8217;s application registered earlier. There might be multiple registered devices for the recipient user (for example, the same user is using the application on both a phone and a tablet), which is why the callback includes a List of Push Pairs.</p>
+
+<pre><code>public void onShouldSendPushNotification(Call call, List&lt;PushPair&gt; pushPairs) {
+    // Send payload and push data to application server
+    // which should communicate with GCM Service to send push notifications.
+}
+</code></pre>
+
+<p>A push notification should be sent to each device, where each entry in the parameter <code>pushPairs</code> list corresponds to one device. Each push notification should include the Sinch-specific payload so it can be forwarded to the Sinch client running on the destination device.</p>
+
+<p>The Sinch-specific payload should be embedded as custom payload data in the GCM Payload.</p>
+
+<pre><code>{
+  &quot;registration_ids&quot; : [&quot;APA91bHun4MxP5egoKMwt2KZFBaFUH-1RYqx...&quot;, ...],
+  &quot;data&quot; : {
+    &quot;Sinch&quot; : &lt;payload&gt;,
+  },
+}
+</code></pre>
+
+<p>Please refer to Google&#8217;s
+<a href="http://developer.android.com/google/gcm/index.html">Google Cloud Messaging for Android</a> for more information.</p>
+
+<h4 id="onthecalleeside">On the callee side</h4>
+
+<p>As a prerequisite, offline calling and messaging must be enabled on the receiver&#8217;s side (see <a href="#pushnotificationssentviayourapplicationserver">Push Notifications sent via your application server</a>).</p>
+
+<p>When the application receives a push notification from the Google Cloud Messaging Service, the application should extract the Sinch-specific payload from the push notification, and forwarding it to the Sinch client using the method <code>relayRemotePushNotificationPayload</code>.</p>
+
+<pre><code>protected void onMessage(final Context context, final Intent intent) {
+    String sinchPayload = intent.getStringExtra(&quot;Sinch&quot;);
+
+    sinchClient.relayRemotePushNotificationPayload(sinchPayload);
+}
+</code></pre>
+
+<h2 id="glossary">Glossary</h2>
+
+<p>This glossary defines some of the domain specific terms used throughout this document.</p>
+
+<table>
+<colgroup>
+<col style="text-align:left;"/>
+<col style="text-align:left;"/>
+</colgroup>
+
+<thead>
+<tr>
+	<th style="text-align:left;">Term</th>
+	<th style="text-align:left;">Explanation</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+	<td style="text-align:left;">Application</td>
+	<td style="text-align:left;">The mobile application running on iOS and/or Android. A partner can have more than one application.</td>
+</tr>
+<tr>
+	<td style="text-align:left;">Application Instance</td>
+	<td style="text-align:left;">One installation of the application on a single device.</td>
+</tr>
+<tr>
+	<td style="text-align:left;">Application Key</td>
+	<td style="text-align:left;">A key generated by Sinch. The key is unique to the application. A key looks like <code>196087a1-e815-4bc4-8984-60d8d8a43f1d</code> (lowercase hexadecimal formatted GUID).</td>
+</tr>
+<tr>
+	<td style="text-align:left;">Application Secret</td>
+	<td style="text-align:left;">A string generated by Sinch. The secret is used to verify the application. A secret looks like <code>oYdgGRXoxEuJhGDY2KQ/HQ==</code> (Base64-encoded string representation).</td>
+</tr>
+<tr>
+	<td style="text-align:left;">Callee</td>
+	<td style="text-align:left;">The person receiving a call.</td>
+</tr>
+<tr>
+	<td style="text-align:left;">Caller</td>
+	<td style="text-align:left;">The person making a call.</td>
+</tr>
+<tr>
+	<td style="text-align:left;">User</td>
+	<td style="text-align:left;">A user of the mobile application. The actual person holding the mobile device.</td>
+</tr>
+<tr>
+	<td style="text-align:left;">User Identity</td>
+	<td style="text-align:left;">Identity of a user in the application domain. Can be any string, for instance a user name, user id, phone number or email address.</td>
+</tr>
+<tr>
+	<td style="text-align:left;">Active Connection</td>
+	<td style="text-align:left;">A socket connection for signaling purposes where incoming calls are received.</td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="thirdpartylibrariesandcopyrightnotices">Third party libraries and copyright notices</h2>
+
+<p>All Third Party Libraries and Copyright notices can be found under this <a href="http://www.sinch.com/legal/third-party-licenses/">link</a>.</p>
+
+</body>
+</html>

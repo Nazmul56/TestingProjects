@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/AndroidFileExplorer-master/GetDirectory/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/durbinlabs/.android/build-cache/71d8f7f382349d19e19d7d1fe2a37e0c17daa84c/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/AndroidFileExplorer-master/GetDirectory/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/durbinlabs/.android/build-cache/71d8f7f382349d19e19d7d1fe2a37e0c17daa84c/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

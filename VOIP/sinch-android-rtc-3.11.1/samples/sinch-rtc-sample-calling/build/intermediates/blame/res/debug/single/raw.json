@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/raw/phone_loud1.mp3",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/raw/phone_loud1.mp3"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/build/intermediates/res/merged/debug/raw/progress_tone.wav",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-calling/res/raw/progress_tone.wav"
+    }
+]

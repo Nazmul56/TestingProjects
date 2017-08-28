@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/AndroidFileExplorer-master/GetDirectory/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/durbinlabs/.android/build-cache/71d8f7f382349d19e19d7d1fe2a37e0c17daa84c/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/AndroidFileExplorer-master/GetDirectory/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/durbinlabs/.android/build-cache/71d8f7f382349d19e19d7d1fe2a37e0c17daa84c/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/AndroidFileExplorer-master/GetDirectory/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/durbinlabs/.android/build-cache/71d8f7f382349d19e19d7d1fe2a37e0c17daa84c/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/AndroidFileExplorer-master/GetDirectory/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/durbinlabs/.android/build-cache/71d8f7f382349d19e19d7d1fe2a37e0c17daa84c/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

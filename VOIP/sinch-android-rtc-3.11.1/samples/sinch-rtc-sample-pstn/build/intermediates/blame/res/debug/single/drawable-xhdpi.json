@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-pstn/build/intermediates/res/merged/debug/drawable-xhdpi/startbg.9.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-pstn/res/drawable-xhdpi/startbg.9.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-pstn/build/intermediates/res/merged/debug/drawable-xhdpi/callbg.9.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/sinch-android-rtc-3.11.1/samples/sinch-rtc-sample-pstn/res/drawable-xhdpi/callbg.9.png"
+    }
+]
