@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/layout-finger/dialpad.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/layout-finger/dialpad.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/layout-finger/dtmf_twelve_key_dialer.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/layout-finger/dtmf_twelve_key_dialer.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/layout-finger/dtmf_display.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/layout-finger/dtmf_display.xml"
+    }
+]

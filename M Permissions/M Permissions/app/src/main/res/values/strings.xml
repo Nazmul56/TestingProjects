@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">M Permissions</string>
+    <string name="action_settings">Settings</string>
+    <string name="single_permission_text">(Click on FAB to check Single permission.\nTo test again, change the app permission in settings or reinstall the app)</string>
+</resources>

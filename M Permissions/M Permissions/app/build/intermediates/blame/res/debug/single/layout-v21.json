@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

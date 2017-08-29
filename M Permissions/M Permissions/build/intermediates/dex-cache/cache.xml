@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.0.0-alpha1_3990cb14f081c5b96e9499669fbd63a8faf6e4ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/pre-dexed/debug/com.android.support-design-26.0.0-alpha1_1d485be142076f3b44209721ba25536d48737aa9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations-java5/15.0/7011b4551a8451906759b05814c58b9eb829ea9b/annotations-java5-15.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7011b4551a8451906759b05814c58b9eb829ea9b">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/pre-dexed/debug/annotations-java5-15.0_6a73d802b9c5e0f688108ff33f3d666d7c90d617.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_8c487828ae09e17e3cde845c2e516b0b7c519ad4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/pre-dexed/debug/com.android.support-transition-26.0.0-alpha1_1db3fbb0b5c12e3a46862112ddf41f3e3e0d275f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.0.0-alpha1_da8c2efa8bdda182c0b9df88f1d57bd4f28c265d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-26.0.0-alpha1_23f96b66a7965079449513eecb7a6b3d10c18f3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.0.0-alpha1_d0fb3af1d1b0b7fdccabbd16369e3f12d402b26c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.0.0-alpha1_9d54b7f37aa81dd3bf1854c5ea03f3d84487e06c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.0.0-alpha1_a613474262064ae49378e1a552653695e10104d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.0.0-alpha1_d85503d1c93c9a60d8f966de1bf5dda7bf31a022.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_83516b7c9f780741dff965452b7530344573a661.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.0.0-alpha1_9063151a99df3e0fa5f85ef62d4fb85836579542.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_485464aaa5b6d0c73c0542e281587bb39e40671c.jar" />
+    </item>
+
+</items>

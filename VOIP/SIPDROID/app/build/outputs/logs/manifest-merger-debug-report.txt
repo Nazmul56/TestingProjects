@@ -1,0 +1,435 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:26:1-181:12
+	package
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:27:2-30
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:28:5-35
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:29:5-30
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:26:11-69
+	android:installLocation
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:30:5-35
+uses-sdk
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:31:2-69
+	android:targetSdkVersion
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:31:38-67
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:31:12-37
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:32:2-36:40
+	android:largeScreens
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:35:11-38
+	android:smallScreens
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:34:11-38
+	android:normalScreens
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:33:11-39
+	android:anyDensity
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:36:11-37
+uses-feature#android.hardware.bluetooth
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:37:2-84
+	android:required
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:37:58-82
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:37:16-57
+uses-feature#android.hardware.location
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:38:2-83
+	android:required
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:38:57-81
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:38:16-56
+uses-feature#android.hardware.location.gps
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:39:2-87
+	android:required
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:39:61-85
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:39:16-60
+uses-feature#android.hardware.telephony
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:40:2-84
+	android:required
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:40:58-82
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:40:16-57
+uses-feature#android.hardware.touchscreen
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:41:2-86
+	android:required
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:41:60-84
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:41:16-59
+uses-feature#android.hardware.wifi
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:42:2-79
+	android:required
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:42:53-77
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:42:16-52
+uses-feature#android.hardware.camera
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:43:2-81
+	android:required
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:43:55-79
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:43:16-54
+application
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:44:2-149:19
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:44:47-79
+	android:icon
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:44:15-46
+activity#org.sipdroid.sipua.ui.Sipdroid
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:45:9-51:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:45:65-97
+	android:launchMode
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:45:98-133
+	android:configChanges
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:46:10-60
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:45:19-64
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:47:13-50:29
+action#android.intent.action.MAIN
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:49:27-74
+activity#org.sipdroid.sipua.ui.PSTN
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:52:9-60:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:52:61-94
+	android:icon
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:53:10-52
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:52:19-60
+intent-filter#android.intent.action.SENDTO+android.intent.category.DEFAULT
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:54:13-59:29
+action#android.intent.action.SENDTO
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:55:17-71
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:55:25-68
+category#android.intent.category.DEFAULT
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:56:17-76
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:56:27-73
+data
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:57:17-46
+	android:scheme
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:57:23-43
+activity#org.sipdroid.sipua.ui.SIP
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:61:9-68:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:61:60-92
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:61:19-59
+activity#org.sipdroid.sipua.ui.AutoAnswer
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:69:9-101
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:69:67-99
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:69:19-66
+activity#org.sipdroid.sipua.ui.ChangeAccount
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:70:9-104
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:70:70-102
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:70:19-69
+activity#org.sipdroid.sipua.ui.SIPUri
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:71:9-97:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:71:63-95
+	android:theme
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:72:11-54
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:71:19-62
+intent-filter#android.intent.action.CALL+android.intent.category.DEFAULT
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:73:13-78:29
+action#android.intent.action.CALL
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:74:17-69
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:74:25-66
+intent-filter#android.intent.action.SENDTO+android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:79:13-86:29
+action#android.intent.action.VIEW
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:81:17-69
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:81:25-66
+category#android.intent.category.BROWSABLE
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:83:17-78
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:83:27-75
+intent-filter#android.intent.action.CALL_PRIVILEGED+android.intent.category.DEFAULT
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:87:13-91:29
+action#android.intent.action.CALL_PRIVILEGED
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:88:17-80
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:88:25-77
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:92:13-96:20
+activity#org.sipdroid.sipua.ui.Activity2
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:98:9-99:69
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:98:66-98
+	android:excludeFromRecents
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:99:10-43
+	android:taskAffinity
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:99:44-67
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:98:19-65
+activity#org.sipdroid.sipua.ui.Settings
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:100:9-103:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:100:65-97
+	android:configChanges
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:101:10-60
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:100:19-64
+activity#org.sipdroid.codecs.Codecs$CodecSettings
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:104:9-107:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:106:5-37
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:105:5-60
+activity#org.sipdroid.sipua.ui.VideoCamera
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:108:9-114:20
+	android:clearTaskOnLaunch
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:112:10-42
+	android:screenOrientation
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:111:10-47
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:108:68-102
+	android:excludeFromRecents
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:109:10-43
+	android:configChanges
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:113:10-60
+	android:theme
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:110:4-68
+	android:taskAffinity
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:109:44-67
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:108:19-67
+activity#org.sipdroid.sipua.ui.InCallScreen
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:115:9-118:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:115:69-101
+	android:excludeFromRecents
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:116:10-43
+	android:launchMode
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:117:10-45
+	android:taskAffinity
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:116:44-67
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:115:19-68
+receiver#org.sipdroid.sipua.ui.OneShotAlarm
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:119:6-82
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:119:48-80
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:119:16-47
+receiver#org.sipdroid.sipua.ui.OneShotAlarm2
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:120:6-83
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:120:49-81
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:120:16-48
+receiver#org.sipdroid.sipua.ui.LoopAlarm
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:121:6-79
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:121:45-77
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:121:16-44
+receiver#org.sipdroid.sipua.ui.OwnWifi
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:122:6-77
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:122:43-75
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:122:16-42
+receiver#org.sipdroid.sipua.ui.OneShotLocation
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:123:6-85
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:123:51-83
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:123:16-50
+receiver#org.sipdroid.sipua.ui.LoopLocation
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:124:6-82
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:124:48-80
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:124:16-47
+receiver#org.sipdroid.sipua.ui.Caller
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:125:6-129:17
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:125:42-74
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:125:16-41
+intent-filter#android.intent.action.NEW_OUTGOING_CALL
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:126:10-128:26
+	android:priority
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:126:25-46
+action#android.intent.action.NEW_OUTGOING_CALL
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:127:11-76
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:127:19-73
+receiver#org.sipdroid.sipua.ui.Receiver
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:130:9-141:17
+	android:enabled
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:130:47-69
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:130:70-102
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:130:19-46
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.EXTERNAL_APPLICATIONS_AVAILABLE+android.intent.action.EXTERNAL_APPLICATIONS_UNAVAILABLE
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:131:9-135:25
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:132:11-73
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:132:19-70
+action#android.intent.action.EXTERNAL_APPLICATIONS_AVAILABLE
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:133:11-90
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:133:19-87
+action#android.intent.action.EXTERNAL_APPLICATIONS_UNAVAILABLE
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:134:11-92
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:134:19-89
+intent-filter#android.intent.action.PACKAGE_REPLACED
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:136:9-140:25
+action#android.intent.action.PACKAGE_REPLACED
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:137:11-75
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:137:19-72
+receiver#org.sipdroid.sipua.ui.PhoneStart
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:142:9-147:20
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:142:19-66
+intent-filter#org.sipdroid.START_SIPDROID+org.sipdroid.STOP_SIPDROID
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:143:13-146:29
+action#org.sipdroid.START_SIPDROID
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:144:17-70
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:144:25-67
+action#org.sipdroid.STOP_SIPDROID
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:145:17-69
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:145:25-66
+service#org.sipdroid.sipua.ui.RegisterService
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:148:9-87
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:148:53-85
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:148:18-52
+uses-permission#android.permission.INTERNET
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:150:2-80
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:150:19-61
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:151:2-93
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:151:19-74
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:152:2-84
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:152:19-65
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:153:2-94
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:153:19-75
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:154:2-86
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:154:19-67
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:155:2-88
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:155:19-69
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:156:2-89
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:156:19-70
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:157:2-94
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:157:19-75
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:158:2-85
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:158:19-66
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:159:2-86
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:159:19-67
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:160:2-82
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:160:19-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:161:2-81
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:161:19-62
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:162:2-88
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:162:19-69
+uses-permission#android.permission.CAMERA
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:163:2-78
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:163:19-59
+uses-permission#android.permission.VIBRATE
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:164:2-80
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:164:19-60
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:165:2-93
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:165:19-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:166:2-90
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:166:19-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:167:2-95
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:167:19-75
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:168:2-82
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:168:19-62
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:169:2-85
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:169:19-65
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:170:2-89
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:170:19-69
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:171:2-85
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:171:19-66
+uses-permission#android.permission.WRITE_CALL_LOG
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:172:2-86
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:172:19-67
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:173:2-92
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:173:19-73
+uses-permission#android.permission.INTERACT_ACROSS_USERS_FULL
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:174:2-98
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:174:19-79
+uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:175:2-108
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/AndroidManifest.xml:175:19-89

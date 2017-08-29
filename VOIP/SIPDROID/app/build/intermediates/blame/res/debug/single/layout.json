@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/layout/call_card.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/layout/call_card.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/layout/ongoing_call_notification.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/layout/ongoing_call_notification.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/layout/call_card_person_info.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/layout/call_card_person_info.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/layout/incall.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/layout/incall.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/layout/create_dialog.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/layout/create_dialog.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/layout/video_camera.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/layout/video_camera.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/layout/sipdroid.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/layout/sipdroid.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/layout/call_card_popup.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/layout/call_card_popup.xml"
+    }
+]

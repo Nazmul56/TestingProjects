@@ -1,0 +1,2847 @@
+[
+    {
+        "outputFile": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 7,
+                    "endColumn": 19,
+                    "endOffset": 292
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 4,
+                        "startOffset": 6168,
+                        "endLine": 180,
+                        "endColumn": 19,
+                        "endOffset": 6355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 297,
+                    "endLine": 13,
+                    "endColumn": 19,
+                    "endOffset": 468
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 181,
+                        "startColumn": 1,
+                        "startOffset": 6357,
+                        "endLine": 186,
+                        "endColumn": 19,
+                        "endOffset": 6528
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 473,
+                    "endLine": 19,
+                    "endColumn": 19,
+                    "endOffset": 646
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 217,
+                        "startColumn": 4,
+                        "startOffset": 7995,
+                        "endLine": 222,
+                        "endColumn": 19,
+                        "endOffset": 8168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 651,
+                    "endLine": 25,
+                    "endColumn": 19,
+                    "endOffset": 808
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 223,
+                        "startColumn": 4,
+                        "startOffset": 8173,
+                        "endLine": 228,
+                        "endColumn": 19,
+                        "endOffset": 8330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 813,
+                    "endLine": 46,
+                    "endColumn": 16,
+                    "endOffset": 1248
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 1,
+                        "startOffset": 3194,
+                        "endLine": 93,
+                        "endColumn": 16,
+                        "endOffset": 3629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 1253,
+                    "endLine": 67,
+                    "endColumn": 16,
+                    "endOffset": 1673
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 1,
+                        "startOffset": 3631,
+                        "endLine": 114,
+                        "endColumn": 16,
+                        "endOffset": 4051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 1678,
+                    "endLine": 73,
+                    "endColumn": 19,
+                    "endOffset": 1868
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 4,
+                        "startOffset": 5762,
+                        "endLine": 166,
+                        "endColumn": 19,
+                        "endOffset": 5952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 1873,
+                    "endLine": 79,
+                    "endColumn": 19,
+                    "endOffset": 2031
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 168,
+                        "startColumn": 1,
+                        "startOffset": 5955,
+                        "endLine": 173,
+                        "endColumn": 19,
+                        "endOffset": 6113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 2036,
+                    "endLine": 83,
+                    "endColumn": 19,
+                    "endOffset": 2177
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 4102,
+                        "endLine": 120,
+                        "endColumn": 19,
+                        "endOffset": 4243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 2182,
+                    "endLine": 87,
+                    "endColumn": 19,
+                    "endOffset": 2289
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 4248,
+                        "endLine": 124,
+                        "endColumn": 19,
+                        "endOffset": 4355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 2294,
+                    "endLine": 91,
+                    "endColumn": 19,
+                    "endOffset": 2445
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 4,
+                        "startOffset": 4407,
+                        "endLine": 129,
+                        "endColumn": 19,
+                        "endOffset": 4558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 2450,
+                    "endLine": 95,
+                    "endColumn": 19,
+                    "endOffset": 2558
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 4,
+                        "startOffset": 4563,
+                        "endLine": 133,
+                        "endColumn": 19,
+                        "endOffset": 4671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 2563,
+                    "endLine": 112,
+                    "endColumn": 273,
+                    "endOffset": 3510
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 0,
+                        "startOffset": 1398,
+                        "endLine": 49,
+                        "endColumn": 273,
+                        "endOffset": 2345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 3515,
+                    "endColumn": 45,
+                    "endOffset": 3556
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 0,
+                        "startOffset": 1271,
+                        "endColumn": 41,
+                        "endOffset": 1312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 3561,
+                    "endColumn": 48,
+                    "endOffset": 3605
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 0,
+                        "startOffset": 2545,
+                        "endColumn": 44,
+                        "endOffset": 2589
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 3610,
+                    "endColumn": 49,
+                    "endOffset": 3655
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 0,
+                        "startOffset": 2499,
+                        "endColumn": 45,
+                        "endOffset": 2544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 3660,
+                    "endColumn": 54,
+                    "endOffset": 3710
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 285,
+                        "startColumn": 0,
+                        "startOffset": 10930,
+                        "endColumn": 50,
+                        "endOffset": 10980
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 3715,
+                    "endColumn": 50,
+                    "endOffset": 3761
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 282,
+                        "startColumn": 0,
+                        "startOffset": 10780,
+                        "endColumn": 46,
+                        "endOffset": 10826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 3766,
+                    "endColumn": 66,
+                    "endOffset": 3828
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 286,
+                        "startColumn": 0,
+                        "startOffset": 10981,
+                        "endColumn": 62,
+                        "endOffset": 11043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 3833,
+                    "endColumn": 54,
+                    "endOffset": 3883
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 283,
+                        "startColumn": 0,
+                        "startOffset": 10827,
+                        "endColumn": 50,
+                        "endOffset": 10877
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 3888,
+                    "endColumn": 55,
+                    "endOffset": 3939
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 284,
+                        "startColumn": 0,
+                        "startOffset": 10878,
+                        "endColumn": 51,
+                        "endOffset": 10929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 3944,
+                    "endColumn": 52,
+                    "endOffset": 3992
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 287,
+                        "startColumn": 0,
+                        "startOffset": 11044,
+                        "endColumn": 48,
+                        "endOffset": 11092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 3997,
+                    "endColumn": 41,
+                    "endOffset": 4034
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 296,
+                        "startColumn": 0,
+                        "startOffset": 11323,
+                        "endColumn": 37,
+                        "endOffset": 11360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 4039,
+                    "endColumn": 46,
+                    "endOffset": 4081
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 298,
+                        "startColumn": 0,
+                        "startOffset": 11419,
+                        "endColumn": 42,
+                        "endOffset": 11461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 4086,
+                    "endColumn": 47,
+                    "endOffset": 4129
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 300,
+                        "startColumn": 0,
+                        "startOffset": 11504,
+                        "endColumn": 43,
+                        "endOffset": 11547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 4134,
+                    "endColumn": 45,
+                    "endOffset": 4175
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 299,
+                        "startColumn": 0,
+                        "startOffset": 11462,
+                        "endColumn": 41,
+                        "endOffset": 11503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 4180,
+                    "endColumn": 61,
+                    "endOffset": 4237
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 297,
+                        "startColumn": 0,
+                        "startOffset": 11361,
+                        "endColumn": 57,
+                        "endOffset": 11418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 4242,
+                    "endLine": 129,
+                    "endColumn": 82,
+                    "endOffset": 4389
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 0,
+                        "startOffset": 5305,
+                        "endLine": 151,
+                        "endColumn": 82,
+                        "endOffset": 5452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 4394,
+                    "endColumn": 65,
+                    "endOffset": 4455
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 152,
+                        "startColumn": 0,
+                        "startOffset": 5453,
+                        "endColumn": 61,
+                        "endOffset": 5514
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 4460,
+                    "endColumn": 40,
+                    "endOffset": 4496
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 155,
+                        "startColumn": 0,
+                        "startOffset": 5574,
+                        "endColumn": 36,
+                        "endOffset": 5610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 4501,
+                    "endColumn": 63,
+                    "endOffset": 4560
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 0,
+                        "startOffset": 2660,
+                        "endColumn": 59,
+                        "endOffset": 2719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 4565,
+                    "endColumn": 56,
+                    "endOffset": 4617
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 301,
+                        "startColumn": 0,
+                        "startOffset": 11548,
+                        "endColumn": 52,
+                        "endOffset": 11600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 4622,
+                    "endColumn": 38,
+                    "endOffset": 4656
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 0,
+                        "startOffset": 2590,
+                        "endColumn": 34,
+                        "endOffset": 2624
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 4661,
+                    "endColumn": 38,
+                    "endOffset": 4695
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 0,
+                        "startOffset": 2625,
+                        "endColumn": 34,
+                        "endOffset": 2659
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 4700,
+                    "endColumn": 41,
+                    "endOffset": 4737
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 269,
+                        "startColumn": 0,
+                        "startOffset": 10332,
+                        "endColumn": 37,
+                        "endOffset": 10369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 4742,
+                    "endColumn": 51,
+                    "endOffset": 4789
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 278,
+                        "startColumn": 0,
+                        "startOffset": 10684,
+                        "endColumn": 47,
+                        "endOffset": 10731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 4794,
+                    "endColumn": 40,
+                    "endOffset": 4830
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 272,
+                        "startColumn": 0,
+                        "startOffset": 10451,
+                        "endColumn": 36,
+                        "endOffset": 10487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 4835,
+                    "endColumn": 44,
+                    "endOffset": 4875
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 270,
+                        "startColumn": 0,
+                        "startOffset": 10370,
+                        "endColumn": 40,
+                        "endOffset": 10410
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 4880,
+                    "endColumn": 43,
+                    "endOffset": 4919
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 277,
+                        "startColumn": 0,
+                        "startOffset": 10644,
+                        "endColumn": 39,
+                        "endOffset": 10683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 4924,
+                    "endColumn": 40,
+                    "endOffset": 4960
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 268,
+                        "startColumn": 0,
+                        "startOffset": 10295,
+                        "endColumn": 36,
+                        "endOffset": 10331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 4965,
+                    "endColumn": 40,
+                    "endOffset": 5001
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 274,
+                        "startColumn": 0,
+                        "startOffset": 10525,
+                        "endColumn": 36,
+                        "endOffset": 10561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 5006,
+                    "endColumn": 40,
+                    "endOffset": 5042
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 273,
+                        "startColumn": 0,
+                        "startOffset": 10488,
+                        "endColumn": 36,
+                        "endOffset": 10524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 5047,
+                    "endColumn": 44,
+                    "endOffset": 5087
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 267,
+                        "startColumn": 0,
+                        "startOffset": 10254,
+                        "endColumn": 40,
+                        "endOffset": 10294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 5092,
+                    "endColumn": 44,
+                    "endOffset": 5132
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 276,
+                        "startColumn": 0,
+                        "startOffset": 10603,
+                        "endColumn": 40,
+                        "endOffset": 10643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 5137,
+                    "endColumn": 44,
+                    "endOffset": 5177
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 275,
+                        "startColumn": 0,
+                        "startOffset": 10562,
+                        "endColumn": 40,
+                        "endOffset": 10602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 5182,
+                    "endColumn": 43,
+                    "endOffset": 5221
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 271,
+                        "startColumn": 0,
+                        "startOffset": 10411,
+                        "endColumn": 39,
+                        "endOffset": 10450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 5226,
+                    "endColumn": 32,
+                    "endOffset": 5254
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 154,
+                        "startColumn": 0,
+                        "startOffset": 5545,
+                        "endColumn": 28,
+                        "endOffset": 5573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 5259,
+                    "endColumn": 42,
+                    "endOffset": 5297
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 0,
+                        "startOffset": 2720,
+                        "endColumn": 38,
+                        "endOffset": 2758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 5302,
+                    "endColumn": 38,
+                    "endOffset": 5336
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 295,
+                        "startColumn": 0,
+                        "startOffset": 11288,
+                        "endColumn": 34,
+                        "endOffset": 11322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 5341,
+                    "endColumn": 40,
+                    "endOffset": 5377
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 294,
+                        "startColumn": 0,
+                        "startOffset": 11251,
+                        "endColumn": 36,
+                        "endOffset": 11287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 5382,
+                    "endColumn": 40,
+                    "endOffset": 5418
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 0,
+                        "startOffset": 1313,
+                        "endColumn": 36,
+                        "endOffset": 1349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 5423,
+                    "endColumn": 39,
+                    "endOffset": 5458
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 0,
+                        "startOffset": 2347,
+                        "endColumn": 35,
+                        "endOffset": 2382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 5463,
+                    "endColumn": 42,
+                    "endOffset": 5501
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 0,
+                        "startOffset": 2418,
+                        "endColumn": 38,
+                        "endOffset": 2456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 5506,
+                    "endColumn": 38,
+                    "endOffset": 5540
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 0,
+                        "startOffset": 2383,
+                        "endColumn": 34,
+                        "endOffset": 2417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 5545,
+                    "endColumn": 46,
+                    "endOffset": 5587
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 143,
+                        "startColumn": 0,
+                        "startOffset": 5029,
+                        "endColumn": 42,
+                        "endOffset": 5071
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 5592,
+                    "endColumn": 45,
+                    "endOffset": 5633
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 195,
+                        "startColumn": 0,
+                        "startOffset": 6918,
+                        "endColumn": 41,
+                        "endOffset": 6959
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 5638,
+                    "endColumn": 56,
+                    "endOffset": 5690
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 196,
+                        "startColumn": 0,
+                        "startOffset": 6960,
+                        "endColumn": 52,
+                        "endOffset": 7012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 5695,
+                    "endColumn": 52,
+                    "endOffset": 5743
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 0,
+                        "startOffset": 2760,
+                        "endColumn": 48,
+                        "endOffset": 2808
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 5748,
+                    "endColumn": 58,
+                    "endOffset": 5802
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 204,
+                        "startColumn": 0,
+                        "startOffset": 7297,
+                        "endColumn": 54,
+                        "endOffset": 7351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 5807,
+                    "endColumn": 59,
+                    "endOffset": 5862
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 191,
+                        "startColumn": 0,
+                        "startOffset": 6749,
+                        "endColumn": 55,
+                        "endOffset": 6804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 5867,
+                    "endColumn": 63,
+                    "endOffset": 5926
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 192,
+                        "startColumn": 0,
+                        "startOffset": 6805,
+                        "endColumn": 59,
+                        "endOffset": 6864
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 5931,
+                    "endColumn": 51,
+                    "endOffset": 5978
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 0,
+                        "startOffset": 6529,
+                        "endColumn": 47,
+                        "endOffset": 6576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 5983,
+                    "endColumn": 60,
+                    "endOffset": 6039
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 0,
+                        "startOffset": 6577,
+                        "endColumn": 56,
+                        "endOffset": 6633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 6044,
+                    "endColumn": 59,
+                    "endOffset": 6099
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 189,
+                        "startColumn": 0,
+                        "startOffset": 6634,
+                        "endColumn": 55,
+                        "endOffset": 6689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 6104,
+                    "endColumn": 62,
+                    "endOffset": 6162
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 190,
+                        "startColumn": 0,
+                        "startOffset": 6690,
+                        "endColumn": 58,
+                        "endOffset": 6748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 6167,
+                    "endColumn": 55,
+                    "endOffset": 6218
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 205,
+                        "startColumn": 0,
+                        "startOffset": 7352,
+                        "endColumn": 51,
+                        "endOffset": 7403
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 6223,
+                    "endColumn": 63,
+                    "endOffset": 6282
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 259,
+                        "startColumn": 0,
+                        "startOffset": 9880,
+                        "endColumn": 59,
+                        "endOffset": 9939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 6287,
+                    "endColumn": 50,
+                    "endOffset": 6333
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 240,
+                        "startColumn": 0,
+                        "startOffset": 8850,
+                        "endColumn": 46,
+                        "endOffset": 8896
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 6338,
+                    "endColumn": 56,
+                    "endOffset": 6390
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 241,
+                        "startColumn": 0,
+                        "startOffset": 8897,
+                        "endColumn": 52,
+                        "endOffset": 8949
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 6395,
+                    "endColumn": 59,
+                    "endOffset": 6450
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 0,
+                        "startOffset": 3097,
+                        "endColumn": 55,
+                        "endOffset": 3152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 6455,
+                    "endColumn": 56,
+                    "endOffset": 6507
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 242,
+                        "startColumn": 0,
+                        "startOffset": 8950,
+                        "endColumn": 52,
+                        "endOffset": 9002
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 6512,
+                    "endColumn": 57,
+                    "endOffset": 6565
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 243,
+                        "startColumn": 0,
+                        "startOffset": 9003,
+                        "endColumn": 53,
+                        "endOffset": 9056
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 6570,
+                    "endColumn": 61,
+                    "endOffset": 6627
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 0,
+                        "startOffset": 5162,
+                        "endColumn": 57,
+                        "endOffset": 5219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 6632,
+                    "endColumn": 53,
+                    "endOffset": 6681
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 174,
+                        "startColumn": 0,
+                        "startOffset": 6114,
+                        "endColumn": 49,
+                        "endOffset": 6163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 6686,
+                    "endColumn": 45,
+                    "endOffset": 6727
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 0,
+                        "startOffset": 2946,
+                        "endColumn": 41,
+                        "endOffset": 2987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 6732,
+                    "endColumn": 55,
+                    "endOffset": 6783
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 0,
+                        "startOffset": 2988,
+                        "endColumn": 51,
+                        "endOffset": 3039
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 6788,
+                    "endColumn": 49,
+                    "endOffset": 6833
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 213,
+                        "startColumn": 0,
+                        "startOffset": 7801,
+                        "endColumn": 45,
+                        "endOffset": 7846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 6838,
+                    "endColumn": 50,
+                    "endOffset": 6884
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 144,
+                        "startColumn": 0,
+                        "startOffset": 5072,
+                        "endColumn": 46,
+                        "endOffset": 5118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 6889,
+                    "endColumn": 56,
+                    "endOffset": 6941
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 209,
+                        "startColumn": 0,
+                        "startOffset": 7583,
+                        "endColumn": 52,
+                        "endOffset": 7635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 6946,
+                    "endColumn": 56,
+                    "endOffset": 6998
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 235,
+                        "startColumn": 0,
+                        "startOffset": 8575,
+                        "endColumn": 52,
+                        "endOffset": 8627
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 7003,
+                    "endColumn": 50,
+                    "endOffset": 7049
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 0,
+                        "startOffset": 7894,
+                        "endColumn": 46,
+                        "endOffset": 7940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 7054,
+                    "endColumn": 53,
+                    "endOffset": 7103
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 216,
+                        "startColumn": 0,
+                        "startOffset": 7941,
+                        "endColumn": 49,
+                        "endOffset": 7990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 7108,
+                    "endColumn": 49,
+                    "endOffset": 7153
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 233,
+                        "startColumn": 0,
+                        "startOffset": 8480,
+                        "endColumn": 45,
+                        "endOffset": 8525
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 7158,
+                    "endColumn": 52,
+                    "endOffset": 7206
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 234,
+                        "startColumn": 0,
+                        "startOffset": 8526,
+                        "endColumn": 48,
+                        "endOffset": 8574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 7211,
+                    "endColumn": 48,
+                    "endOffset": 7255
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 260,
+                        "startColumn": 0,
+                        "startOffset": 9940,
+                        "endColumn": 44,
+                        "endOffset": 9984
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 7260,
+                    "endColumn": 65,
+                    "endOffset": 7321
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 261,
+                        "startColumn": 0,
+                        "startOffset": 9985,
+                        "endColumn": 61,
+                        "endOffset": 10046
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 7326,
+                    "endColumn": 50,
+                    "endOffset": 7372
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 214,
+                        "startColumn": 0,
+                        "startOffset": 7847,
+                        "endColumn": 46,
+                        "endOffset": 7893
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 7377,
+                    "endColumn": 52,
+                    "endOffset": 7425
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 0,
+                        "startOffset": 4835,
+                        "endColumn": 48,
+                        "endOffset": 4883
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 7430,
+                    "endColumn": 52,
+                    "endOffset": 7478
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 0,
+                        "startOffset": 4884,
+                        "endColumn": 48,
+                        "endOffset": 4932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 7483,
+                    "endColumn": 47,
+                    "endOffset": 7526
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 201,
+                        "startColumn": 0,
+                        "startOffset": 7198,
+                        "endColumn": 43,
+                        "endOffset": 7241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 7531,
+                    "endColumn": 57,
+                    "endOffset": 7584
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 0,
+                        "startOffset": 7242,
+                        "endColumn": 53,
+                        "endOffset": 7295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 7589,
+                    "endColumn": 55,
+                    "endOffset": 7640
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 194,
+                        "startColumn": 0,
+                        "startOffset": 6866,
+                        "endColumn": 51,
+                        "endOffset": 6917
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 7645,
+                    "endColumn": 48,
+                    "endOffset": 7689
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 199,
+                        "startColumn": 0,
+                        "startOffset": 7101,
+                        "endColumn": 44,
+                        "endOffset": 7145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 7694,
+                    "endColumn": 55,
+                    "endOffset": 7745
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 0,
+                        "startOffset": 7146,
+                        "endColumn": 51,
+                        "endOffset": 7197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 7750,
+                    "endColumn": 49,
+                    "endOffset": 7795
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 0,
+                        "startOffset": 4935,
+                        "endColumn": 45,
+                        "endOffset": 4980
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 7800,
+                    "endColumn": 54,
+                    "endOffset": 7850
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 264,
+                        "startColumn": 0,
+                        "startOffset": 10155,
+                        "endColumn": 50,
+                        "endOffset": 10205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 7855,
+                    "endColumn": 50,
+                    "endOffset": 7901
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 265,
+                        "startColumn": 0,
+                        "startOffset": 10206,
+                        "endColumn": 46,
+                        "endOffset": 10252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 7906,
+                    "endColumn": 47,
+                    "endOffset": 7949
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 231,
+                        "startColumn": 0,
+                        "startOffset": 8387,
+                        "endColumn": 43,
+                        "endOffset": 8430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 7954,
+                    "endColumn": 52,
+                    "endOffset": 8002
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 232,
+                        "startColumn": 0,
+                        "startOffset": 8431,
+                        "endColumn": 48,
+                        "endOffset": 8479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 8007,
+                    "endColumn": 48,
+                    "endOffset": 8051
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 0,
+                        "startOffset": 2857,
+                        "endColumn": 44,
+                        "endOffset": 2901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 8056,
+                    "endColumn": 58,
+                    "endOffset": 8110
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 230,
+                        "startColumn": 0,
+                        "startOffset": 8332,
+                        "endColumn": 54,
+                        "endOffset": 8386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 8115,
+                    "endColumn": 68,
+                    "endOffset": 8179
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 207,
+                        "startColumn": 0,
+                        "startOffset": 7472,
+                        "endColumn": 64,
+                        "endOffset": 7536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 8184,
+                    "endColumn": 71,
+                    "endOffset": 8251
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 206,
+                        "startColumn": 0,
+                        "startOffset": 7404,
+                        "endColumn": 67,
+                        "endOffset": 7471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 8256,
+                    "endColumn": 43,
+                    "endOffset": 8295
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 0,
+                        "startOffset": 3153,
+                        "endColumn": 39,
+                        "endOffset": 3192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 8300,
+                    "endColumn": 47,
+                    "endOffset": 8343
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 237,
+                        "startColumn": 0,
+                        "startOffset": 8681,
+                        "endColumn": 43,
+                        "endOffset": 8724
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 8348,
+                    "endColumn": 81,
+                    "endOffset": 8425
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 238,
+                        "startColumn": 0,
+                        "startOffset": 8725,
+                        "endColumn": 77,
+                        "endOffset": 8802
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 8430,
+                    "endColumn": 50,
+                    "endOffset": 8476
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 239,
+                        "startColumn": 0,
+                        "startOffset": 8803,
+                        "endColumn": 46,
+                        "endOffset": 8849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 8481,
+                    "endColumn": 56,
+                    "endOffset": 8533
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 236,
+                        "startColumn": 0,
+                        "startOffset": 8628,
+                        "endColumn": 52,
+                        "endOffset": 8680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 8538,
+                    "endColumn": 54,
+                    "endOffset": 8588
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 0,
+                        "startOffset": 5612,
+                        "endColumn": 50,
+                        "endOffset": 5662
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 8593,
+                    "endColumn": 96,
+                    "endOffset": 8685
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 158,
+                        "startColumn": 0,
+                        "startOffset": 5663,
+                        "endColumn": 92,
+                        "endOffset": 5755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 8690,
+                    "endColumn": 74,
+                    "endOffset": 8760
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 256,
+                        "startColumn": 0,
+                        "startOffset": 9750,
+                        "endColumn": 70,
+                        "endOffset": 9820
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 8765,
+                    "endColumn": 67,
+                    "endOffset": 8828
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 255,
+                        "startColumn": 0,
+                        "startOffset": 9686,
+                        "endColumn": 63,
+                        "endOffset": 9749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 8833,
+                    "endColumn": 106,
+                    "endOffset": 8935
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 252,
+                        "startColumn": 0,
+                        "startOffset": 9451,
+                        "endColumn": 106,
+                        "endOffset": 9557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 8940,
+                    "endColumn": 71,
+                    "endOffset": 9007
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 251,
+                        "startColumn": 0,
+                        "startOffset": 9383,
+                        "endColumn": 67,
+                        "endOffset": 9450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 9012,
+                    "endColumn": 71,
+                    "endOffset": 9079
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 250,
+                        "startColumn": 0,
+                        "startOffset": 9315,
+                        "endColumn": 67,
+                        "endOffset": 9382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 9084,
+                    "endColumn": 67,
+                    "endOffset": 9147
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 253,
+                        "startColumn": 0,
+                        "startOffset": 9558,
+                        "endColumn": 63,
+                        "endOffset": 9621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 9152,
+                    "endColumn": 67,
+                    "endOffset": 9215
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 254,
+                        "startColumn": 0,
+                        "startOffset": 9622,
+                        "endColumn": 63,
+                        "endOffset": 9685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 9220,
+                    "endColumn": 59,
+                    "endOffset": 9275
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 249,
+                        "startColumn": 0,
+                        "startOffset": 9259,
+                        "endColumn": 55,
+                        "endOffset": 9314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 220,
+                    "startColumn": 4,
+                    "startOffset": 9280,
+                    "endColumn": 59,
+                    "endOffset": 9335
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 248,
+                        "startColumn": 0,
+                        "startOffset": 9203,
+                        "endColumn": 55,
+                        "endOffset": 9258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 9340,
+                    "endColumn": 93,
+                    "endOffset": 9429
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 247,
+                        "startColumn": 0,
+                        "startOffset": 9109,
+                        "endColumn": 93,
+                        "endOffset": 9202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 9434,
+                    "endColumn": 48,
+                    "endOffset": 9478
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 0,
+                        "startOffset": 4053,
+                        "endColumn": 44,
+                        "endOffset": 4097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 9483,
+                    "endColumn": 43,
+                    "endOffset": 9522
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 197,
+                        "startColumn": 0,
+                        "startOffset": 7013,
+                        "endColumn": 39,
+                        "endOffset": 7052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 9527,
+                    "endColumn": 51,
+                    "endOffset": 9574
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 198,
+                        "startColumn": 0,
+                        "startOffset": 7053,
+                        "endColumn": 47,
+                        "endOffset": 7100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 9579,
+                    "endColumn": 49,
+                    "endOffset": 9624
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 208,
+                        "startColumn": 0,
+                        "startOffset": 7537,
+                        "endColumn": 45,
+                        "endOffset": 7582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 9629,
+                    "endColumn": 57,
+                    "endOffset": 9682
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 262,
+                        "startColumn": 0,
+                        "startOffset": 10047,
+                        "endColumn": 53,
+                        "endOffset": 10100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 9687,
+                    "endColumn": 57,
+                    "endOffset": 9740
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 263,
+                        "startColumn": 0,
+                        "startOffset": 10101,
+                        "endColumn": 53,
+                        "endOffset": 10154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 9745,
+                    "endColumn": 47,
+                    "endOffset": 9788
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 0,
+                        "startOffset": 2902,
+                        "endColumn": 43,
+                        "endOffset": 2945
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 9793,
+                    "endColumn": 54,
+                    "endOffset": 9843
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 210,
+                        "startColumn": 0,
+                        "startOffset": 7636,
+                        "endColumn": 50,
+                        "endOffset": 7686
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 9848,
+                    "endColumn": 62,
+                    "endOffset": 9906
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 211,
+                        "startColumn": 0,
+                        "startOffset": 7687,
+                        "endColumn": 58,
+                        "endOffset": 7745
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 9911,
+                    "endColumn": 58,
+                    "endOffset": 9965
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 212,
+                        "startColumn": 0,
+                        "startOffset": 7746,
+                        "endColumn": 54,
+                        "endOffset": 7800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 9970,
+                    "endColumn": 51,
+                    "endOffset": 10017
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 0,
+                        "startOffset": 4672,
+                        "endColumn": 47,
+                        "endOffset": 4719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 10022,
+                    "endColumn": 58,
+                    "endOffset": 10076
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 0,
+                        "startOffset": 4720,
+                        "endColumn": 54,
+                        "endOffset": 4774
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 234,
+                    "startColumn": 4,
+                    "startOffset": 10081,
+                    "endColumn": 62,
+                    "endOffset": 10139
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 0,
+                        "startOffset": 4775,
+                        "endColumn": 58,
+                        "endOffset": 4833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 10144,
+                    "endColumn": 53,
+                    "endOffset": 10193
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 245,
+                        "startColumn": 0,
+                        "startOffset": 9058,
+                        "endColumn": 49,
+                        "endOffset": 9107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 236,
+                    "startColumn": 4,
+                    "startOffset": 10198,
+                    "endColumn": 51,
+                    "endOffset": 10245
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 0,
+                        "startOffset": 2809,
+                        "endColumn": 47,
+                        "endOffset": 2856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 237,
+                    "startColumn": 4,
+                    "startOffset": 10250,
+                    "endColumn": 60,
+                    "endOffset": 10306
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 0,
+                        "startOffset": 3040,
+                        "endColumn": 56,
+                        "endOffset": 3096
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 10311,
+                    "endColumn": 46,
+                    "endOffset": 10353
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 145,
+                        "startColumn": 0,
+                        "startOffset": 5119,
+                        "endColumn": 42,
+                        "endOffset": 5161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 10358,
+                    "endColumn": 87,
+                    "endOffset": 10441
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 147,
+                        "startColumn": 0,
+                        "startOffset": 5220,
+                        "endColumn": 83,
+                        "endOffset": 5303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 240,
+                    "startColumn": 4,
+                    "startOffset": 10446,
+                    "endColumn": 50,
+                    "endOffset": 10492
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 0,
+                        "startOffset": 4356,
+                        "endColumn": 46,
+                        "endOffset": 4402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 241,
+                    "startColumn": 4,
+                    "startOffset": 10497,
+                    "endColumn": 61,
+                    "endOffset": 10554
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 258,
+                        "startColumn": 0,
+                        "startOffset": 9822,
+                        "endColumn": 57,
+                        "endOffset": 9879
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 10559,
+                    "endColumn": 51,
+                    "endOffset": 10606
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 0,
+                        "startOffset": 4981,
+                        "endColumn": 47,
+                        "endOffset": 5028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 243,
+                    "startColumn": 4,
+                    "startOffset": 10611,
+                    "endColumn": 50,
+                    "endOffset": 10657
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 0,
+                        "startOffset": 1350,
+                        "endColumn": 46,
+                        "endOffset": 1396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 244,
+                    "startColumn": 4,
+                    "startOffset": 10662,
+                    "endColumn": 65,
+                    "endOffset": 10723
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 291,
+                        "startColumn": 0,
+                        "startOffset": 11130,
+                        "endColumn": 61,
+                        "endOffset": 11191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 245,
+                    "startColumn": 4,
+                    "startOffset": 10728,
+                    "endColumn": 61,
+                    "endOffset": 10785
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 292,
+                        "startColumn": 0,
+                        "startOffset": 11192,
+                        "endColumn": 57,
+                        "endOffset": 11249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 246,
+                    "startColumn": 4,
+                    "startOffset": 10790,
+                    "endColumn": 49,
+                    "endOffset": 10835
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 280,
+                        "startColumn": 0,
+                        "startOffset": 10733,
+                        "endColumn": 45,
+                        "endOffset": 10778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 247,
+                    "startColumn": 4,
+                    "startOffset": 10840,
+                    "endColumn": 38,
+                    "endOffset": 10874
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 289,
+                        "startColumn": 0,
+                        "startOffset": 11094,
+                        "endColumn": 34,
+                        "endOffset": 11128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 248,
+                    "startColumn": 4,
+                    "startOffset": 10879,
+                    "endColumn": 43,
+                    "endOffset": 10918
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 0,
+                        "startOffset": 2458,
+                        "endColumn": 39,
+                        "endOffset": 2497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 249,
+                    "startColumn": 4,
+                    "startOffset": 10923,
+                    "endColumn": 33,
+                    "endOffset": 10952
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 153,
+                        "startColumn": 0,
+                        "startOffset": 5515,
+                        "endColumn": 29,
+                        "endOffset": 5544
+                    }
+                }
+            }
+        ]
+    }
+]

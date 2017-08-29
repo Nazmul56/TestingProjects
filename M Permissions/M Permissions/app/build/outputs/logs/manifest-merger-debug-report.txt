@@ -1,0 +1,131 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:6:22-62
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:9:22-72
+application
+ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:11:5-34:19
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:14:9-41
+	android:supportsRtl
+		ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:15:9-35
+	android:allowBackup
+		ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:13:9-43
+	android:theme
+		ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:16:9-40
+activity#info.androidhive.mpermissions.MainActivity
+ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:17:9-26:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:19:13-45
+	android:theme
+		ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:20:13-56
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:18:13-70
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:24:27-74
+activity#info.androidhive.mpermissions.FragmentPermissionActivity
+ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:27:9-30:59
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:29:13-45
+	android:theme
+		ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:28:13-84
+activity#info.androidhive.mpermissions.MultiplePermissionsActivity
+ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:31:9-33:68
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:32:13-45
+	android:theme
+		ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:33:13-56
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml:31:19-91
+uses-sdk
+INJECTED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/AndroidManifest.xml:26:9-47

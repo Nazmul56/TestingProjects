@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/xml/codec_settings.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/xml/codec_settings.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/xml/preferences.xml"
+    }
+]

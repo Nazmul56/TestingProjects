@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/incall_frame_connected_short.9.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/incall_frame_connected_short.9.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/status_bar_item_app_background_normal.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/status_bar_item_app_background_normal.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/sym_presence_available.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/sym_presence_available.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/incall_frame_normal_tall_land.9.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/incall_frame_normal_tall_land.9.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/sym_incoming_call_answer_options.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/sym_incoming_call_answer_options.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/picture_end.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/picture_end.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/incall_frame_normal_tall_port.9.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/incall_frame_normal_tall_port.9.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/ic_incall_answer.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/ic_incall_answer.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/sym_call_add_call.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/sym_call_add_call.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/ic_incall_hangup.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/ic_incall_hangup.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/sym_call_end.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/sym_call_end.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/conf.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/conf.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/mute.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/mute.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/incall_frame_ended_tall_port.9.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/incall_frame_ended_tall_port.9.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/picture_dialing.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/picture_dialing.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/sym_call_lcd.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/sym_call_lcd.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/home.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/home.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/sym_call_redial.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/sym_call_redial.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/picture_frame.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/picture_frame.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/picture_busy.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/picture_busy.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/sym_item_indicator.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/sym_item_indicator.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/sym_fav_five.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/sym_fav_five.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/incall_frame_connected_tall_land.9.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/incall_frame_connected_tall_land.9.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/sym_call.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/sym_call.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/ic_launcher_phone.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/ic_launcher_phone.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/sym_call_hold_off.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/sym_call_hold_off.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/picture_unknown_2.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/picture_unknown_2.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/icon64.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/icon64.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/ic_incall_onhold.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/ic_incall_onhold.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/icon32.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/icon32.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/sym_presence_offline.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/sym_presence_offline.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/picture_conference.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/picture_conference.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/sym_call_done.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/sym_call_done.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/goback.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/goback.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/sym_incoming_call_answer.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/sym_incoming_call_answer.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/people.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/people.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/sym_call_speakerphone_on.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/sym_call_speakerphone_on.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/configure.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/configure.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/sym_item_indicator_focus.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/sym_item_indicator_focus.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/incall_frame_ended_short.9.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/incall_frame_ended_short.9.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/save.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/save.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/ic_contacts_edit_contacts.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/ic_contacts_edit_contacts.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/picture_unknown_3.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/picture_unknown_3.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/auto_answer.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/auto_answer.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/ic_search_contacts.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/ic_search_contacts.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/sym_call_speakerphone_off.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/sym_call_speakerphone_off.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/picture_unknown.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/picture_unknown.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/incall_frame_hold_tall_port.9.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/incall_frame_hold_tall_port.9.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/ic_incall_end.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/ic_incall_end.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/sym_incoming_call_hold_answer.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/sym_incoming_call_hold_answer.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/sym_incoming_call_dont_answer.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/sym_incoming_call_dont_answer.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/incall_frame_connected_tall_port.9.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/incall_frame_connected_tall_port.9.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/ic_menu_end_call.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/ic_menu_end_call.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/sym_presence_away.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/sym_presence_away.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/exit.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/exit.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/icon22.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/icon22.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/im.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/im.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/ic_incall_ongoing.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/ic_incall_ongoing.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/incall_photo_border.9.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/incall_photo_border.9.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/ic_incall_add.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/ic_incall_add.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/incall_frame_ended_tall_land.9.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/incall_frame_ended_tall_land.9.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/contacts.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/contacts.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/ic_menu_dial_pad.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/ic_menu_dial_pad.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/stat_sys_phone_call_bluetooth.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/stat_sys_phone_call_bluetooth.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/incall_frame_hold_short.9.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/incall_frame_hold_short.9.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/auto_answer_disabled.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/auto_answer_disabled.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/ic_menu_preferences.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/ic_menu_preferences.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/incall_frame_normal_short.9.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/incall_frame_normal_short.9.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/sym_call_hold_on.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/sym_call_hold_on.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/incall_frame_hold_tall_land.9.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/incall_frame_hold_tall_land.9.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/sym_call_merge.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/sym_call_merge.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/sym_presence_idle.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/sym_presence_idle.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/build/intermediates/res/merged/debug/drawable/stat_sys_phone_call.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/VOIP/SIPDROID/app/src/main/res/drawable/stat_sys_phone_call.png"
+    }
+]

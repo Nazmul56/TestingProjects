@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/res/merged/debug/menu/menu_main2.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/res/menu/menu_main2.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/M Permissions/M Permissions/app/src/main/res/menu/menu_main.xml"
+    }
+]
