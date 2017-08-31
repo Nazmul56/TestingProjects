@@ -1,4 +1,4 @@
-#Mon Aug 07 10:24:25 BDT 2017
+#Tue Aug 29 18:31:18 BDT 2017
 base.0=/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10000/instant-run-bootstrap_93cd997bb98deab1fb7a2584dab74113075a055e
 renamed.1=classes2.dex
 renamed.0=classes.dex

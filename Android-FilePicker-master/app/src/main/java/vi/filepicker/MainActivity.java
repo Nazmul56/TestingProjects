@@ -53,7 +53,6 @@ public class MainActivity extends AppCompatActivity {
                 {
                     photoPaths = new ArrayList<>();
                     photoPaths.addAll(data.getStringArrayListExtra(FilePickerConst.KEY_SELECTED_MEDIA));
-
                 }
                 break;
 
@@ -65,7 +64,6 @@ public class MainActivity extends AppCompatActivity {
                 }
                 break;
         }
-
         addThemToView(photoPaths,docPaths);
     }
 

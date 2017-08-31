@@ -278,10 +278,8 @@ public class AppRTCAudioManager {
         // required to be in this mode when playout and/or recording starts for
         // best possible VoIP performance.
         audioManager.setMode(AudioManager.MODE_IN_COMMUNICATION);
-
         // Always disable microphone mute during a WebRTC call.
         setMicrophoneMute(false);
-
         // Set initial device states.
         userSelectedAudioDevice = AudioDevice.NONE;
         selectedAudioDevice = AudioDevice.NONE;
