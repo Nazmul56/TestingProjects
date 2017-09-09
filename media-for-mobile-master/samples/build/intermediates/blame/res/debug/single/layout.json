@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/layout/media_file_audio_info_table.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/media_file_audio_info_table.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/layout/game_capturing.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/game_capturing.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/layout/playback_toolbar.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/playback_toolbar.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/layout/camera_capturer_activity.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/camera_capturer_activity.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/layout/sample_list_item.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/sample_list_item.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/layout/media_file_video_info_table.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/media_file_video_info_table.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/layout/sample_list_group.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/sample_list_group.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/layout/popup_camera_capture_settings.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/popup_camera_capture_settings.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/layout/composer_transcode_activity.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/composer_transcode_activity.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/layout/composer_join_activity.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/composer_join_activity.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/layout/media_streamer_activity.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/media_streamer_activity.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/layout/popup_game_streaming_settings.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/popup_game_streaming_settings.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/layout/popup_game_capture_settings.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/popup_game_capture_settings.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/layout/camera_streamer_activity.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/camera_streamer_activity.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/layout/popup_message.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/popup_message.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/layout/composer_transcode_core_activity.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/composer_transcode_core_activity.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/layout/recognition_activity.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/recognition_activity.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/layout/popup_streaming_settings.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/popup_streaming_settings.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/layout/video_stream_player_activity.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/video_stream_player_activity.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/layout/composer_cut_activity.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/composer_cut_activity.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/layout/timeline_item.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/timeline_item.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/layout/video_player_activity.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/video_player_activity.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/layout/composer_time_scaling_activity.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/composer_time_scaling_activity.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/layout/streaming_params.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/streaming_params.xml"
+    }
+]

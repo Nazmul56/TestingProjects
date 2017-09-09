@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/anim/show_bl_to_tr.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/anim/show_bl_to_tr.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/anim/hide_tr_to_bl.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/anim/hide_tr_to_bl.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/anim/show_tr_to_bl.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/anim/show_tr_to_bl.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/anim/hide_bl_to_tr.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/anim/hide_bl_to_tr.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/anim/hide_tl_to_br.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/anim/hide_tl_to_br.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/anim/show_br_to_tl.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/anim/show_br_to_tl.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/anim/show_tl_to_br.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/anim/show_tl_to_br.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/anim/hide_br_to_tl.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/anim/hide_br_to_tl.xml"
+    }
+]

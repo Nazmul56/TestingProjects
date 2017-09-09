@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/drawable-mdpi/change_camera.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-mdpi/change_camera.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/drawable-mdpi/rec_inact.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-mdpi/rec_inact.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/drawable-mdpi/rec_act.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-mdpi/rec_act.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/drawable-mdpi/settings.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-mdpi/settings.png"
+    }
+]

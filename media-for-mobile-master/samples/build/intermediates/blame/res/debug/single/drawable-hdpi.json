@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/drawable-hdpi/effect_blur.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-hdpi/effect_blur.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/drawable-hdpi/effect_text.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-hdpi/effect_text.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/drawable-hdpi/ic_empty_image.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-hdpi/ic_empty_image.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/drawable-hdpi/effect_no.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-hdpi/effect_no.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/drawable-hdpi/ic_open.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-hdpi/ic_open.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/drawable-hdpi/rec_inact.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-hdpi/rec_inact.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/drawable-hdpi/settings.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-hdpi/settings.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/drawable-hdpi/ic_plus.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-hdpi/ic_plus.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/drawable-hdpi/ic_delete.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-hdpi/ic_delete.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/drawable-hdpi/effect_invert.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-hdpi/effect_invert.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/drawable-hdpi/change_camera.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-hdpi/change_camera.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/drawable-hdpi/effect_sepia.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-hdpi/effect_sepia.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/drawable-hdpi/rec_act.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-hdpi/rec_act.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/res/merged/debug/drawable-hdpi/effect_gray.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-hdpi/effect_gray.png"
+    }
+]

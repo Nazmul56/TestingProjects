@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/android/src/main/jniLibs"/></dataSet><dataSet config="release"><source path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/android/src/release/jniLibs"/></dataSet></merger>

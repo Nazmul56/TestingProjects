@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="default$Generated" generated="true"><source path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/android/build/intermediates/bundles/default/res"/></dataSet><dataSet config="default$Generated" generated="true"><source path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/effects/build/intermediates/bundles/default/res"/></dataSet><dataSet config="main$Generated" generated="true"><source path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res"/><source path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/generated/res/rs/debug"/><source path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/debug/res"/></dataSet><dataSet config="default" from-dependency="true" generated-set="default$Generated"><source path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/android/build/intermediates/bundles/default/res"/></dataSet><dataSet config="default" from-dependency="true" generated-set="default$Generated"><source path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/effects/build/intermediates/bundles/default/res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res"><file name="settings" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-mdpi/settings.png" qualifiers="mdpi-v4" type="drawable"/><file name="change_camera" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-mdpi/change_camera.png" qualifiers="mdpi-v4" type="drawable"/><file name="rec_inact" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-mdpi/rec_inact.png" qualifiers="mdpi-v4" type="drawable"/><file name="rec_act" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-mdpi/rec_act.png" qualifiers="mdpi-v4" type="drawable"/><file name="timeline_item_button_background" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable/timeline_item_button_background.xml" qualifiers="" type="drawable"/><file name="activity_background" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable/activity_background.xml" qualifiers="" type="drawable"/><file name="progress_thumb" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable/progress_thumb.png" qualifiers="" type="drawable"/><file name="bar_background" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable/bar_background.xml" qualifiers="" type="drawable"/><file name="round_rect" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable/round_rect.xml" qualifiers="" type="drawable"/><file name="toolbar_bg" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable/toolbar_bg.png" qualifiers="" type="drawable"/><file name="progress_play_thumb" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable/progress_play_thumb.xml" qualifiers="" type="drawable"/><file name="popup_message" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable/popup_message.xml" qualifiers="" type="drawable"/><file name="button_pause_pressed" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable/button_pause_pressed.png" qualifiers="" type="drawable"/><file name="button_play_pressed" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable/button_play_pressed.png" qualifiers="" type="drawable"/><file name="timeline_item_button_normal" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable/timeline_item_button_normal.xml" qualifiers="" type="drawable"/><file name="timeline_item_bar_background" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable/timeline_item_bar_background.xml" qualifiers="" type="drawable"/><file name="round_border_button" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable/round_border_button.xml" qualifiers="" type="drawable"/><file name="gallery_image_tint_active" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable/gallery_image_tint_active.xml" qualifiers="" type="drawable"/><file name="button_pause_normal" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable/button_pause_normal.png" qualifiers="" type="drawable"/><file name="background_popup" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable/background_popup.xml" qualifiers="" type="drawable"/><file name="gallery_image_tint_normal" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable/gallery_image_tint_normal.xml" qualifiers="" type="drawable"/><file name="gallery_item_active" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable/gallery_item_active.xml" qualifiers="" type="drawable"/><file name="button_pause" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable/button_pause.xml" qualifiers="" type="drawable"/><file name="background_toolbar" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable/background_toolbar.xml" qualifiers="" type="drawable"/><file name="button_play_normal" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable/button_play_normal.png" qualifiers="" type="drawable"/><file name="progress_play" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable/progress_play.xml" qualifiers="" type="drawable"/><file name="progress_bg" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable/progress_bg.9.png" qualifiers="" type="drawable"/><file name="round_button" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable/round_button.xml" qualifiers="" type="drawable"/><file name="button_play" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable/button_play.xml" qualifiers="" type="drawable"/><file name="timeline_item_button_active" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable/timeline_item_button_active.xml" qualifiers="" type="drawable"/><file name="gallery_item_normal" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable/gallery_item_normal.xml" qualifiers="" type="drawable"/><file name="round_focus_rect" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable/round_focus_rect.xml" qualifiers="" type="drawable"/><file name="progress_fg" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable/progress_fg.9.png" qualifiers="" type="drawable"/><file name="game_capturing" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/menu/game_capturing.xml" qualifiers="" type="menu"/><file name="ic_launcher" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/mipmap-xxxhdpi/ic_launcher.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/mipmap-xxhdpi/ic_launcher.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/mipmap-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="playback_toolbar" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/playback_toolbar.xml" qualifiers="" type="layout"/><file name="popup_camera_capture_settings" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/popup_camera_capture_settings.xml" qualifiers="" type="layout"/><file name="composer_transcode_activity" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/composer_transcode_activity.xml" qualifiers="" type="layout"/><file name="composer_join_activity" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/composer_join_activity.xml" qualifiers="" type="layout"/><file name="media_file_audio_info_table" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/media_file_audio_info_table.xml" qualifiers="" type="layout"/><file name="sample_list_group" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/sample_list_group.xml" qualifiers="" type="layout"/><file name="popup_message" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/popup_message.xml" qualifiers="" type="layout"/><file name="camera_streamer_activity" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/camera_streamer_activity.xml" qualifiers="" type="layout"/><file name="recognition_activity" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/recognition_activity.xml" qualifiers="" type="layout"/><file name="media_file_video_info_table" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/media_file_video_info_table.xml" qualifiers="" type="layout"/><file name="popup_game_capture_settings" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/popup_game_capture_settings.xml" qualifiers="" type="layout"/><file name="composer_transcode_core_activity" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/composer_transcode_core_activity.xml" qualifiers="" type="layout"/><file name="camera_capturer_activity" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/camera_capturer_activity.xml" qualifiers="" type="layout"/><file name="main" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/main.xml" qualifiers="" type="layout"/><file name="popup_game_streaming_settings" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/popup_game_streaming_settings.xml" qualifiers="" type="layout"/><file name="video_player_activity" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/video_player_activity.xml" qualifiers="" type="layout"/><file name="composer_cut_activity" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/composer_cut_activity.xml" qualifiers="" type="layout"/><file name="popup_streaming_settings" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/popup_streaming_settings.xml" qualifiers="" type="layout"/><file name="sample_list_item" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/sample_list_item.xml" qualifiers="" type="layout"/><file name="game_capturing" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/game_capturing.xml" qualifiers="" type="layout"/><file name="video_stream_player_activity" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/video_stream_player_activity.xml" qualifiers="" type="layout"/><file name="timeline_item" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/timeline_item.xml" qualifiers="" type="layout"/><file name="streaming_params" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/streaming_params.xml" qualifiers="" type="layout"/><file name="composer_time_scaling_activity" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/composer_time_scaling_activity.xml" qualifiers="" type="layout"/><file name="media_streamer_activity" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/layout/media_streamer_activity.xml" qualifiers="" type="layout"/><file path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml" qualifiers=""><string name="image_button_play">Start playing button.</string><string name="grayscale_text">grayscale</string><string name="video">Video Processing</string><string-array name="frame_size_values">
+        <item>640 x 480</item>
+        <item>1024 x 768</item>
+        <item>1280 x 720</item>
+    </string-array><string name="cut_video">Cut Video</string><string-array name="video_bit_rate_values">
+        <item>5000</item>
+        <item>4000</item>
+        <item>3000</item>
+        <item>2000</item>
+        <item>1000</item>
+    </string-array><string name="warning_empty_gallery">Gallery is Empty</string><string name="camera_streaming">Camera Streaming</string><string name="streaming_server_default_ip">10.125.226.116</string><string name="video_effect">Video Effect</string><string name="content_recognition">Content Recognition</string><string name="streaming_server_default_stream">mp4:test</string><string name="pause">Pause</string><string name="open">Open</string><string name="streaming">Streaming</string><string name="play">Play</string><string name="capturing">Capturing</string><string name="button_text_stop">Stop</string><string name="join_video">Join Video</string><string name="time_scaling">Time Scaling</string><string name="camera_capturing">Camera Capturing</string><string name="streaming_server_default_app">live</string><string-array name="effects_names">
+        <item>No effect</item>
+        <item>Grayscale</item>
+        <item>Inverse</item>
+        <item>Sepia</item>
+        <item>Text</item>
+    </string-array><string name="transcode_video">Transcode Video</string><string name="game_capturing">Game Capturing</string><string name="app_name">Media for Mobile</string><string name="audio_effect">Audio Effect</string><string name="media_file_streaming">Media File Streaming</string><string name="recognition">Recognition</string><string name="streaming_server_default_port">1935</string><string name="listening_for_audio">Listening for audio...</string><string name="media_file_info">Media File Info</string><string name="game_streaming">Game Streaming</string><string name="button_text_start">Start</string><string name="play_video_stream">Play Video Stream</string></file><file path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/styles.xml" qualifiers=""><style name="TimelineItemTitle" parent="TimelineItemButton">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style><style name="PreviewButton">
+        <item name="android:background">@drawable/round_rect</item>
+        <item name="android:layout_width">128dp</item>
+        <item name="android:layout_height">96dp</item>
+        <item name="android:padding">8dp</item>
+    </style><style name="VideoPlayerView">
+        <item name="android:layout_gravity">center</item>
+    </style><style name="CameraChangeButton" parent="RoundBorderButton">
+        <item name="android:src">@drawable/change_camera</item>
+    </style><style name="RoundBorderButton">
+        <item name="android:background">@drawable/round_border_button</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_width">72dp</item>
+        <item name="android:layout_height">72dp</item>
+    </style><style name="ActivityBackground">
+        <item name="android:background">@drawable/activity_background</item>
+    </style><style name="Popups.Down"/><style name="Popups.Down.Right">
+        <item name="@android:windowEnterAnimation">@anim/show_tr_to_bl</item>
+        <item name="@android:windowExitAnimation">@anim/hide_bl_to_tr</item>
+    </style><style name="TimelineItemOpenButton" parent="TimelineItemButton">
+        <item name="android:src">@drawable/ic_open</item>
+        <item name="android:background">@drawable/timeline_item_button_background</item>
+    </style><style name="PlayProgress" parent="@android:style/Widget.SeekBar">
+        <item name="android:progressDrawable">@drawable/progress_play</item>
+        <item name="android:indeterminateDrawable">@drawable/progress_play</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:thumb">@drawable/progress_play_thumb</item>
+        <item name="android:thumbOffset">12dp</item>
+        <item name="android:max">100</item>
+        <item name="android:progress">50</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:layout_weight">2</item>
+    </style><style name="RecordActiveButton" parent="RoundButton">
+        <item name="android:src">@drawable/rec_act</item>
+    </style><style name="ToolBar">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:layout_gravity">bottom</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:background">@drawable/background_toolbar</item>
+        <item name="android:paddingRight">0dp</item>
+
+        <item name="android:orientation">horizontal</item>
+    </style><style name="SettingsButton" parent="RoundBorderButton">
+        <item name="android:src">@drawable/settings</item>
+    </style><style name="PauseButton">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:src">@drawable/button_pause</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">60dp</item>
+    </style><style name="Popups.Up.Left">
+        <item name="@android:windowEnterAnimation">@anim/show_bl_to_tr</item>
+        <item name="@android:windowExitAnimation">@anim/hide_tr_to_bl</item>
+    </style><style name="PlayButton">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:src">@drawable/button_play</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">60dp</item>
+    </style><style name="Popups.Up.Right">
+        <item name="@android:windowEnterAnimation">@anim/show_br_to_tl</item>
+        <item name="@android:windowExitAnimation">@anim/hide_tl_to_br</item>
+    </style><style name="EffectButton">
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:layout_marginBottom">4dp</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:layout_marginLeft">4dp</item>
+        <item name="android:background">@drawable/timeline_item_button_background</item>
+    </style><style name="PlayTimeText">
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">8dp</item>
+        <item name="android:textSize">20sp</item>
+    </style><style name="Popups.Down.Left">
+        <item name="@android:windowEnterAnimation">@anim/show_tl_to_br</item>
+        <item name="@android:windowExitAnimation">@anim/hide_br_to_tl</item>
+    </style><style name="IndicatorBox" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">240dip</item>
+        <item name="android:layout_height">120dip</item>
+        <item name="android:textColor">#ffffff00</item>
+        <item name="android:background">#66003300</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:padding">10dp</item>
+    </style><style name="RecordInactive" parent="RoundButton">
+        <item name="android:src">@drawable/rec_inact</item>
+    </style><style name="Popups.Up"/><style name="EffectsList">
+        <item name="android:layout_width">128dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@drawable/bar_background</item>
+        <item name="android:orientation">vertical</item>
+    </style><style name="RoundFocusRect">
+        <item name="android:background">@drawable/round_focus_rect</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_width">72dp</item>
+        <item name="android:layout_height">72dp</item>
+    </style><style name="TimelineItemDeleteButton" parent="TimelineItemButton">
+        <item name="android:src">@drawable/ic_delete</item>
+        <item name="android:background">@drawable/timeline_item_button_background</item>
+    </style><style name="RoundButton">
+        <item name="android:background">@drawable/round_button</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_width">72dp</item>
+        <item name="android:layout_height">72dp</item>
+    </style><style name="Popups"/><style name="TimelineItemBar">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:paddingLeft">4dp</item>
+        <item name="android:background">@drawable/timeline_item_bar_background</item>
+    </style><style name="BrowseButton" parent="RoundBorderButton">
+        <item name="android:src">@drawable/ic_open</item>
+    </style><style name="TimelineItemButton">
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:layout_width">32dp</item>
+        <item name="android:layout_height">32dp</item>
+        <item name="android:layout_marginRight">8dp</item>
+        <item name="android:layout_marginLeft">12dp</item>
+    </style></file><file name="show_tl_to_br" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/anim/show_tl_to_br.xml" qualifiers="" type="anim"/><file name="show_br_to_tl" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/anim/show_br_to_tl.xml" qualifiers="" type="anim"/><file name="hide_bl_to_tr" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/anim/hide_bl_to_tr.xml" qualifiers="" type="anim"/><file name="show_bl_to_tr" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/anim/show_bl_to_tr.xml" qualifiers="" type="anim"/><file name="hide_br_to_tl" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/anim/hide_br_to_tl.xml" qualifiers="" type="anim"/><file name="hide_tl_to_br" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/anim/hide_tl_to_br.xml" qualifiers="" type="anim"/><file name="show_tr_to_bl" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/anim/show_tr_to_bl.xml" qualifiers="" type="anim"/><file name="hide_tr_to_bl" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/anim/hide_tr_to_bl.xml" qualifiers="" type="anim"/><file name="ic_launcher" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/mipmap-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_plus" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-hdpi/ic_plus.png" qualifiers="hdpi-v4" type="drawable"/><file name="effect_text" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-hdpi/effect_text.png" qualifiers="hdpi-v4" type="drawable"/><file name="settings" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-hdpi/settings.png" qualifiers="hdpi-v4" type="drawable"/><file name="effect_sepia" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-hdpi/effect_sepia.png" qualifiers="hdpi-v4" type="drawable"/><file name="change_camera" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-hdpi/change_camera.png" qualifiers="hdpi-v4" type="drawable"/><file name="effect_no" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-hdpi/effect_no.png" qualifiers="hdpi-v4" type="drawable"/><file name="effect_gray" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-hdpi/effect_gray.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_open" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-hdpi/ic_open.png" qualifiers="hdpi-v4" type="drawable"/><file name="effect_blur" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-hdpi/effect_blur.png" qualifiers="hdpi-v4" type="drawable"/><file name="rec_inact" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-hdpi/rec_inact.png" qualifiers="hdpi-v4" type="drawable"/><file name="effect_invert" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-hdpi/effect_invert.png" qualifiers="hdpi-v4" type="drawable"/><file name="rec_act" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-hdpi/rec_act.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_delete" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-hdpi/ic_delete.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_empty_image" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/drawable-hdpi/ic_empty_image.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/mipmap-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="mipmap"/></source><source path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/generated/res/rs/debug"/><source path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/debug/res"/></dataSet><mergedItems/></merger>

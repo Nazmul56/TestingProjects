@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/effects/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3f00a37376bb12901a652e09cd4bf6dd12f99ec7">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/pre-dexed/debug/classes_d383f36fa7183654f663f25f52a586939d960483.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f486ca3cb24f0d07763fd82fe685bb1122ad7d83">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/pre-dexed/debug/classes_b591711909bdca4cbc904f49a8564b8168634825.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/domain/build/libs/domain.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6cb12133665e6756b2048b15ff7f810015ca8d21">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/pre-dexed/debug/domain_dd697fa5efe743ebb4233a6b920d297f24af79b0.jar" />
+    </item>
+
+</items>

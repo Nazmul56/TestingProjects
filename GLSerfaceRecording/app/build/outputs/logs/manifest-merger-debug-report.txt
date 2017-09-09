@@ -1,0 +1,224 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:18:1-142:12
+	package
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:19:5-34
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:21:5-30
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:20:5-29
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:18:11-69
+uses-sdk
+ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/durbinlabs/.android/build-cache/37453a8a1c667331645612f324af87c86bb6e441/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/durbinlabs/.android/build-cache/924222d92ec998190e6318ccf378789ebef8d74b/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/durbinlabs/.android/build-cache/38f6127b7e36fd170633d51ffd0dd51eca6ef7ee/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/durbinlabs/.android/build-cache/9a9cab4ccc38abbdd5b005af3008fc73930c5bcf/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/durbinlabs/.android/build-cache/261543efc96fa25478852222dc18358816621a3d/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/durbinlabs/.android/build-cache/2c42608a19ea86b7b7363d4594ba98505661cd46/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.0.0-alpha1] /home/durbinlabs/.android/build-cache/37453a8a1c667331645612f324af87c86bb6e441/output/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:25:9-38
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:24:9-35
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:27:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:28:5-65
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:28:22-62
+uses-feature#0x00020000
+ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:30:5-78
+	android:glEsVersion
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:30:19-51
+	android:required
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:30:52-75
+application
+ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:32:5-140:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/durbinlabs/.android/build-cache/37453a8a1c667331645612f324af87c86bb6e441/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/durbinlabs/.android/build-cache/924222d92ec998190e6318ccf378789ebef8d74b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/durbinlabs/.android/build-cache/38f6127b7e36fd170633d51ffd0dd51eca6ef7ee/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/durbinlabs/.android/build-cache/9a9cab4ccc38abbdd5b005af3008fc73930c5bcf/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/durbinlabs/.android/build-cache/261543efc96fa25478852222dc18358816621a3d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/durbinlabs/.android/build-cache/2c42608a19ea86b7b7363d4594ba98505661cd46/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:35:9-41
+	android:allowBackup
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:33:9-35
+	android:icon
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:34:9-45
+	android:theme
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:36:9-40
+activity#com.android.grafika.MainActivity
+ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:38:9-46:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:40:13-45
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:39:13-60
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:44:27-74
+activity#com.android.grafika.ReadPixelsActivity
+ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:47:9-50:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:49:13-63
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:48:13-66
+activity#com.android.grafika.PlayMovieActivity
+ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:51:9-54:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:53:13-62
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:52:13-65
+activity#com.android.grafika.LiveCameraActivity
+ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:55:9-58:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:57:13-63
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:56:13-66
+activity#com.android.grafika.CameraCaptureActivity
+ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:59:9-62:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:61:13-66
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:60:13-69
+activity#com.android.grafika.TextureViewGLActivity
+ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:63:9-66:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:65:13-67
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:64:13-69
+activity#com.android.grafika.TextureViewCanvasActivity
+ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:67:9-70:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:69:13-71
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:68:13-73
+activity#com.android.grafika.RecordFBOActivity
+ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:71:9-82:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:73:13-62
+	android:theme
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:74:13-71
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:72:13-65
+activity#com.android.grafika.ChorTestActivity
+ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:83:9-86:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:85:13-61
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:84:13-64
+activity#com.android.grafika.DoubleDecodeActivity
+ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:87:9-90:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:89:13-65
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:88:13-68
+activity#com.android.grafika.ContinuousCaptureActivity
+ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:91:9-94:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:93:13-70
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:92:13-73
+activity#com.android.grafika.SoftInputSurfaceActivity
+ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:95:9-98:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:97:13-70
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:96:13-72
+activity#com.android.grafika.HardwareScalerActivity
+ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:99:9-103:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:101:13-67
+	android:theme
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:102:13-71
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:100:13-70
+activity#com.android.grafika.GlesInfoActivity
+ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:104:9-107:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:106:13-61
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:105:13-64
+activity#com.android.grafika.PlayMovieSurfaceActivity
+ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:108:9-111:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:110:13-70
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:109:13-72
+activity#com.android.grafika.MultiSurfaceActivity
+ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:112:9-116:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:114:13-70
+	android:theme
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:115:13-54
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:113:13-68
+activity#com.android.grafika.CodecOpenActivity
+ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:117:9-120:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:119:13-62
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:118:13-65
+activity#com.android.grafika.TextureUploadActivity
+ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:121:9-124:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:123:13-66
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:122:13-69
+activity#com.android.grafika.ColorBarActivity
+ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:125:9-129:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:127:13-52
+	android:theme
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:128:13-71
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:126:13-64
+activity#com.android.grafika.ScheduledSwapActivity
+ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:130:9-134:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:132:13-57
+	android:theme
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:133:13-55
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:131:13-69
+activity#com.android.grafika.TextureFromCameraActivity
+ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:135:9-139:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:137:13-62
+	android:theme
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:138:13-71
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/AndroidManifest.xml:136:13-73
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.0.0-alpha1] /home/durbinlabs/.android/build-cache/37453a8a1c667331645612f324af87c86bb6e441/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/durbinlabs/.android/build-cache/924222d92ec998190e6318ccf378789ebef8d74b/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/durbinlabs/.android/build-cache/38f6127b7e36fd170633d51ffd0dd51eca6ef7ee/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/durbinlabs/.android/build-cache/9a9cab4ccc38abbdd5b005af3008fc73930c5bcf/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/durbinlabs/.android/build-cache/261543efc96fa25478852222dc18358816621a3d/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/durbinlabs/.android/build-cache/2c42608a19ea86b7b7363d4594ba98505661cd46/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:support-v4:26.0.0-alpha1] /home/durbinlabs/.android/build-cache/37453a8a1c667331645612f324af87c86bb6e441/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:support-v4:26.0.0-alpha1] /home/durbinlabs/.android/build-cache/37453a8a1c667331645612f324af87c86bb6e441/output/AndroidManifest.xml:26:9-47

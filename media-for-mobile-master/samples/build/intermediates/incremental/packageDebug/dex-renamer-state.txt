@@ -1,0 +1,4 @@
+#Sat Sep 09 09:38:44 BDT 2017
+base.0=/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/effects/src/main/assets"/><source path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/effects/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/effects/src/debug/assets"/></dataSet></merger>

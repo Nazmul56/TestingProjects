@@ -1,0 +1,1323 @@
+[
+    {
+        "outputFile": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 8,
+                    "endColumn": 19,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 744,
+                        "endLine": 21,
+                        "endColumn": 19,
+                        "endOffset": 943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endLine": 13,
+                    "endColumn": 19,
+                    "endOffset": 413
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 984,
+                        "endLine": 28,
+                        "endColumn": 19,
+                        "endOffset": 1138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 418,
+                    "endLine": 20,
+                    "endColumn": 19,
+                    "endOffset": 611
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1182,
+                        "endLine": 37,
+                        "endColumn": 19,
+                        "endOffset": 1375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 616,
+                    "endColumn": 53,
+                    "endOffset": 665
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 53,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 670,
+                    "endColumn": 53,
+                    "endOffset": 719
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 1710,
+                        "endColumn": 53,
+                        "endOffset": 1759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 724,
+                    "endColumn": 51,
+                    "endOffset": 771
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endColumn": 51,
+                        "endOffset": 224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 776,
+                    "endColumn": 49,
+                    "endOffset": 821
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 49,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 826,
+                    "endColumn": 61,
+                    "endOffset": 883
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2192,
+                        "endColumn": 61,
+                        "endOffset": 2249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 888,
+                    "endColumn": 61,
+                    "endOffset": 945
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 1879,
+                        "endColumn": 61,
+                        "endOffset": 1936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 950,
+                    "endColumn": 47,
+                    "endOffset": 993
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 2423,
+                        "endColumn": 47,
+                        "endOffset": 2466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 998,
+                    "endColumn": 67,
+                    "endOffset": 1061
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 2255,
+                        "endColumn": 67,
+                        "endOffset": 2318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1066,
+                    "endColumn": 47,
+                    "endOffset": 1109
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1608,
+                        "endColumn": 47,
+                        "endOffset": 1651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1114,
+                    "endColumn": 57,
+                    "endOffset": 1167
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 2134,
+                        "endColumn": 57,
+                        "endOffset": 2187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1172,
+                    "endColumn": 57,
+                    "endOffset": 1225
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 1941,
+                        "endColumn": 57,
+                        "endOffset": 1994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1230,
+                    "endColumn": 52,
+                    "endOffset": 1278
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 68,
+                        "startOffset": 608,
+                        "endColumn": 116,
+                        "endOffset": 656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1283,
+                    "endColumn": 67,
+                    "endOffset": 1346
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 67,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1351,
+                    "endColumn": 49,
+                    "endOffset": 1396
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1558,
+                        "endColumn": 49,
+                        "endOffset": 1603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1401,
+                    "endColumn": 70,
+                    "endOffset": 1467
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 2524,
+                        "endColumn": 70,
+                        "endOffset": 2590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1472,
+                    "endColumn": 59,
+                    "endOffset": 1527
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 1764,
+                        "endColumn": 59,
+                        "endOffset": 1819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1532,
+                    "endColumn": 69,
+                    "endOffset": 1597
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 1999,
+                        "endColumn": 69,
+                        "endOffset": 2064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1602,
+                    "endColumn": 37,
+                    "endOffset": 1635
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1459,
+                        "endColumn": 37,
+                        "endOffset": 1492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1640,
+                    "endColumn": 39,
+                    "endOffset": 1675
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1419,
+                        "endColumn": 39,
+                        "endOffset": 1454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1680,
+                    "endColumn": 37,
+                    "endOffset": 1713
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1381,
+                        "endColumn": 37,
+                        "endOffset": 1414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1718,
+                    "endColumn": 63,
+                    "endOffset": 1777
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2069,
+                        "endColumn": 63,
+                        "endOffset": 2128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1782,
+                    "endColumn": 51,
+                    "endOffset": 1829
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 2471,
+                        "endColumn": 51,
+                        "endOffset": 2518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1834,
+                    "endColumn": 47,
+                    "endOffset": 1877
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 2375,
+                        "endColumn": 47,
+                        "endOffset": 2418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1882,
+                    "endColumn": 61,
+                    "endOffset": 1939
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 482,
+                        "endColumn": 61,
+                        "endOffset": 539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 1944,
+                    "endColumn": 70,
+                    "endOffset": 2010
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 348,
+                        "endColumn": 70,
+                        "endOffset": 414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2015,
+                    "endColumn": 62,
+                    "endOffset": 2073
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 419,
+                        "endColumn": 62,
+                        "endOffset": 477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2078,
+                    "endColumn": 68,
+                    "endOffset": 2142
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 544,
+                        "endColumn": 68,
+                        "endOffset": 608
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2147,
+                    "endColumn": 53,
+                    "endOffset": 2196
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 1824,
+                        "endColumn": 53,
+                        "endOffset": 1873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2201,
+                    "endColumn": 59,
+                    "endOffset": 2256
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1498,
+                        "endColumn": 59,
+                        "endOffset": 1553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2261,
+                    "endColumn": 50,
+                    "endOffset": 2307
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 2324,
+                        "endColumn": 50,
+                        "endOffset": 2370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2312,
+                    "endColumn": 53,
+                    "endOffset": 2361
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 1656,
+                        "endColumn": 53,
+                        "endOffset": 1705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2366,
+                    "endColumn": 66,
+                    "endOffset": 2428
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 66,
+                        "endOffset": 171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2433,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 2556
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 2561,
+                    "endLine": 58,
+                    "endColumn": 12,
+                    "endOffset": 2686
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 5801,
+                        "endLine": 136,
+                        "endColumn": 12,
+                        "endOffset": 5926
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 2691,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 2828
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 4,
+                        "startOffset": 5658,
+                        "endLine": 132,
+                        "endColumn": 12,
+                        "endOffset": 5795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 2833,
+                    "endLine": 70,
+                    "endColumn": 12,
+                    "endOffset": 3317
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 4,
+                        "startOffset": 6757,
+                        "endLine": 168,
+                        "endColumn": 12,
+                        "endOffset": 7241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3322,
+                    "endLine": 76,
+                    "endColumn": 12,
+                    "endOffset": 3608
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 153,
+                        "startColumn": 4,
+                        "startOffset": 6465,
+                        "endLine": 158,
+                        "endColumn": 12,
+                        "endOffset": 6751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 3613,
+                    "endLine": 85,
+                    "endColumn": 12,
+                    "endOffset": 4075
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 4175,
+                        "endLine": 103,
+                        "endColumn": 12,
+                        "endOffset": 4637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 4080,
+                    "endLine": 92,
+                    "endColumn": 12,
+                    "endOffset": 4428
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 2620,
+                        "endLine": 69,
+                        "endColumn": 12,
+                        "endOffset": 2968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 4433,
+                    "endLine": 99,
+                    "endColumn": 12,
+                    "endOffset": 4779
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 2268,
+                        "endLine": 61,
+                        "endColumn": 12,
+                        "endOffset": 2614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 4784,
+                    "endLine": 114,
+                    "endColumn": 12,
+                    "endOffset": 5636
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 2974,
+                        "endLine": 85,
+                        "endColumn": 12,
+                        "endOffset": 3826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 5641,
+                    "endLine": 121,
+                    "endColumn": 12,
+                    "endOffset": 5978
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 3832,
+                        "endLine": 93,
+                        "endColumn": 12,
+                        "endOffset": 4169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 5983,
+                    "endColumn": 26,
+                    "endOffset": 6005
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 185,
+                        "startColumn": 4,
+                        "startOffset": 7848,
+                        "endColumn": 27,
+                        "endOffset": 7871
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 6010,
+                    "endColumn": 31,
+                    "endOffset": 6037
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 4,
+                        "startOffset": 7895,
+                        "endColumn": 32,
+                        "endOffset": 7923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 6042,
+                    "endLine": 127,
+                    "endColumn": 12,
+                    "endOffset": 6241
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 190,
+                        "startColumn": 4,
+                        "startOffset": 7929,
+                        "endLine": 193,
+                        "endColumn": 12,
+                        "endOffset": 8128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 6246,
+                    "endLine": 131,
+                    "endColumn": 12,
+                    "endOffset": 6446
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 195,
+                        "startColumn": 4,
+                        "startOffset": 8134,
+                        "endLine": 198,
+                        "endColumn": 12,
+                        "endOffset": 8334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 6451,
+                    "endColumn": 29,
+                    "endOffset": 6476
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 201,
+                        "startColumn": 4,
+                        "startOffset": 8356,
+                        "endColumn": 30,
+                        "endOffset": 8382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 6481,
+                    "endLine": 136,
+                    "endColumn": 12,
+                    "endOffset": 6678
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 4,
+                        "startOffset": 8388,
+                        "endLine": 206,
+                        "endColumn": 12,
+                        "endOffset": 8585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 6683,
+                    "endLine": 140,
+                    "endColumn": 12,
+                    "endOffset": 6881
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 208,
+                        "startColumn": 4,
+                        "startOffset": 8591,
+                        "endLine": 211,
+                        "endColumn": 12,
+                        "endOffset": 8789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 6886,
+                    "endLine": 146,
+                    "endColumn": 12,
+                    "endOffset": 7153
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 4,
+                        "startOffset": 6192,
+                        "endLine": 151,
+                        "endColumn": 12,
+                        "endOffset": 6459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 7158,
+                    "endLine": 149,
+                    "endColumn": 12,
+                    "endOffset": 7283
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 4,
+                        "startOffset": 5932,
+                        "endLine": 140,
+                        "endColumn": 12,
+                        "endOffset": 6057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 7288,
+                    "endLine": 152,
+                    "endColumn": 12,
+                    "endOffset": 7411
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 4,
+                        "startOffset": 6063,
+                        "endLine": 144,
+                        "endColumn": 12,
+                        "endOffset": 6186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 7416,
+                    "endLine": 158,
+                    "endColumn": 12,
+                    "endOffset": 7710
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 5224,
+                        "endLine": 124,
+                        "endColumn": 12,
+                        "endOffset": 5518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 7715,
+                    "endLine": 164,
+                    "endColumn": 12,
+                    "endOffset": 7996
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 4643,
+                        "endLine": 110,
+                        "endColumn": 12,
+                        "endOffset": 4924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 8001,
+                    "endLine": 170,
+                    "endColumn": 12,
+                    "endOffset": 8289
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 4930,
+                        "endLine": 117,
+                        "endColumn": 12,
+                        "endOffset": 5218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 8294,
+                    "endLine": 173,
+                    "endColumn": 12,
+                    "endOffset": 8422
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 4,
+                        "startOffset": 5524,
+                        "endLine": 128,
+                        "endColumn": 12,
+                        "endOffset": 5652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 8427,
+                    "endLine": 180,
+                    "endColumn": 12,
+                    "endOffset": 8784
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 8789,
+                    "endLine": 189,
+                    "endColumn": 12,
+                    "endOffset": 9266
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 548,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 1025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 9271,
+                    "endLine": 193,
+                    "endColumn": 12,
+                    "endOffset": 9500
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1262,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 1491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 9505,
+                    "endLine": 197,
+                    "endColumn": 12,
+                    "endOffset": 9730
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1031,
+                        "endLine": 28,
+                        "endColumn": 12,
+                        "endOffset": 1256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 9735,
+                    "endLine": 201,
+                    "endColumn": 12,
+                    "endOffset": 9929
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1497,
+                        "endLine": 38,
+                        "endColumn": 12,
+                        "endOffset": 1691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 9934,
+                    "endLine": 211,
+                    "endColumn": 12,
+                    "endOffset": 10392
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1697,
+                        "endLine": 49,
+                        "endColumn": 12,
+                        "endOffset": 2155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 10397,
+                    "endLine": 214,
+                    "endColumn": 12,
+                    "endOffset": 10498
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/media-for-mobile-master/samples/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2161,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 2262
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/build/intermediates/res/merged/debug/layout/activity_scheduled_swap.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/res/layout/activity_scheduled_swap.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/build/intermediates/res/merged/debug/layout/activity_texture_upload.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/res/layout/activity_texture_upload.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/build/intermediates/res/merged/debug/layout/work_dialog.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/res/layout/work_dialog.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/build/intermediates/res/merged/debug/layout/activity_gles_info.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/res/layout/activity_gles_info.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/build/intermediates/res/merged/debug/layout/activity_texture_view_gl.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/res/layout/activity_texture_view_gl.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/build/intermediates/res/merged/debug/layout/activity_camera_capture.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/res/layout/activity_camera_capture.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/build/intermediates/res/merged/debug/layout/activity_read_pixels.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/res/layout/activity_read_pixels.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/build/intermediates/res/merged/debug/layout/activity_play_movie.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/res/layout/activity_play_movie.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/build/intermediates/res/merged/debug/layout/activity_color_bar.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/res/layout/activity_color_bar.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/build/intermediates/res/merged/debug/layout/activity_codec_open.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/res/layout/activity_codec_open.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/build/intermediates/res/merged/debug/layout/activity_texture_from_camera.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/res/layout/activity_texture_from_camera.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/build/intermediates/res/merged/debug/layout/activity_chor_test.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/res/layout/activity_chor_test.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/build/intermediates/res/merged/debug/layout/activity_hardware_scaler.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/res/layout/activity_hardware_scaler.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/build/intermediates/res/merged/debug/layout/activity_continuous_capture.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/res/layout/activity_continuous_capture.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/build/intermediates/res/merged/debug/layout/activity_play_movie_surface.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/res/layout/activity_play_movie_surface.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/build/intermediates/res/merged/debug/layout/activity_texture_view_canvas.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/res/layout/activity_texture_view_canvas.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/build/intermediates/res/merged/debug/layout/activity_multi_surface_test.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/res/layout/activity_multi_surface_test.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/build/intermediates/res/merged/debug/layout/activity_double_decode.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/res/layout/activity_double_decode.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/build/intermediates/res/merged/debug/layout/activity_soft_input_surface.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/res/layout/activity_soft_input_surface.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/build/intermediates/res/merged/debug/layout/activity_record_fbo.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/res/layout/activity_record_fbo.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/build/intermediates/res/merged/debug/layout/about_dialog.xml",
+        "source": "/home/durbinlabs/Desktop/Testing Project/GLSerfaceRecording/app/src/main/res/layout/about_dialog.xml"
+    }
+]
