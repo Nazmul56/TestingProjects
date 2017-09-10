@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScreenCapture</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_permissions">Please enable Microphone and Storage permissions.</string>
+</resources>

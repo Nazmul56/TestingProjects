@@ -43,7 +43,7 @@
     <favorites_list name="grafika-master" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
@@ -80,9 +80,32 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-306">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="1692">
+              <caret line="94" column="17" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
+              <folding>
+                <element signature="e#1274#1292#0" expanded="true" />
+                <element signature="e#1527#1545#0" expanded="true" />
+                <element signature="e#1882#1918#0" expanded="true" />
+                <element signature="e#2050#2085#0" expanded="true" />
+                <element signature="e#2218#2254#0" expanded="true" />
+                <element signature="e#2390#2429#0" expanded="true" />
+                <element signature="e#2565#2605#0" expanded="true" />
+                <element signature="e#2745#2789#0" expanded="true" />
+                <element signature="e#2921#2956#0" expanded="true" />
+                <element signature="e#3499#3533#0" expanded="true" />
+                <element signature="e#3668#3706#0" expanded="true" />
+                <element signature="e#3846#3889#0" expanded="true" />
+                <element signature="e#4028#4071#0" expanded="true" />
+                <element signature="e#4208#4248#0" expanded="true" />
+                <element signature="e#4450#4484#0" expanded="true" />
+                <element signature="e#4623#4666#0" expanded="true" />
+                <element signature="e#4801#4844#0" expanded="true" />
+                <element signature="e#5030#5065#0" expanded="true" />
+                <element signature="e#5201#5240#0" expanded="true" />
+                <element signature="e#5371#5396#0" expanded="true" />
+                <element signature="e#5603#5633#0" expanded="true" />
+                <element signature="e#5828#5863#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -102,7 +125,12 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
               <caret line="40" column="0" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="47" />
-              <folding />
+              <folding>
+                <element signature="e#0#7282#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#7018#7019#0" expanded="false" />
+                <element signature="e#7056#7057#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -110,21 +138,14 @@
       <file leaf-file-name="RecordFBOActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/grafika/RecordFBOActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="1026">
               <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
               <folding>
                 <element signature="e#0#50576#0" expanded="false" />
-                <element signature="e#10355#10415#0" expanded="false" />
-                <element signature="e#10846#10873#1" expanded="false" />
-                <element signature="e#12449#12476#0" expanded="false" />
-                <element signature="e#12479#12505#0" expanded="false" />
-                <element signature="e#13146#13178#0" expanded="false" />
                 <element signature="e#20641#20642#0" expanded="false" />
                 <element signature="e#20680#20681#0" expanded="false" />
-                <element signature="e#47730#47757#1" expanded="false" />
                 <element signature="e#49033#49034#0" expanded="false" />
                 <element signature="e#49111#49112#0" expanded="false" />
-                <marker date="1504936216497" expanded="true" signature="655:1631" ph="..." />
               </folding>
             </state>
           </provider>
@@ -133,21 +154,15 @@
       <file leaf-file-name="CameraCaptureActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/grafika/CameraCaptureActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
+            <state relative-caret-position="2520">
               <caret line="180" column="31" selection-start-line="180" selection-start-column="31" selection-end-line="180" selection-end-column="31" />
               <folding>
                 <element signature="e#0#30164#0" expanded="false" />
                 <element signature="imports" expanded="false" />
-                <element signature="e#9977#10188#0" expanded="false" />
-                <element signature="e#10187#10188#0" expanded="false" />
-                <element signature="e#10751#10970#0" expanded="false" />
-                <element signature="e#10969#10970#0" expanded="false" />
                 <element signature="e#17224#17225#0" expanded="false" />
                 <element signature="e#17269#17270#0" expanded="false" />
                 <element signature="e#21114#21115#0" expanded="false" />
                 <element signature="e#21149#21150#0" expanded="false" />
-                <marker date="1504937565657" expanded="true" signature="9116:9802" ph="{...}" />
-                <marker date="1504937565657" expanded="true" signature="15030:15263" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -156,7 +171,7 @@
       <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
+            <state relative-caret-position="2556">
               <caret line="142" column="12" selection-start-line="142" selection-start-column="12" selection-end-line="142" selection-end-column="12" />
               <folding />
             </state>
@@ -166,7 +181,7 @@
       <file leaf-file-name="activity_camera_capture.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_camera_capture.xml">
           <provider editor-type-id="text-editor">
-            <state relative-caret-position="403">
+            <state relative-caret-position="918">
               <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
               <folding />
             </state>
@@ -1974,14 +1989,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="AndroidView">
-        <subPane />
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane">
-        <subPane />
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -2124,6 +2131,14 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="AndroidView">
+        <subPane />
+      </pane>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2131,7 +2146,7 @@
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="device.picker.selection" value="05c05a8c002d11b4" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../GLSurfaceView/WebRTC-Testing/Video Calling App" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AudioRecorerApp" />
   </component>
   <component name="RunManager" selected="Android App.app">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -2456,38 +2471,38 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="49" y="52" width="1048" height="716" extended-state="1" />
+    <frame x="49" y="52" width="1048" height="716" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3783784" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3783784" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25249502" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Android WiFi ADB" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32867134" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android WiFi ADB" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32867134" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -2506,11 +2521,134 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/import-summary.txt">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1274#1292#0" expanded="true" />
+            <element signature="e#1527#1545#0" expanded="true" />
+            <element signature="e#1882#1918#0" expanded="true" />
+            <element signature="e#2050#2085#0" expanded="true" />
+            <element signature="e#2218#2254#0" expanded="true" />
+            <element signature="e#2390#2429#0" expanded="true" />
+            <element signature="e#2565#2605#0" expanded="true" />
+            <element signature="e#2745#2789#0" expanded="true" />
+            <element signature="e#2921#2956#0" expanded="true" />
+            <element signature="e#3499#3533#0" expanded="true" />
+            <element signature="e#3668#3706#0" expanded="true" />
+            <element signature="e#3846#3889#0" expanded="true" />
+            <element signature="e#4028#4071#0" expanded="true" />
+            <element signature="e#4208#4248#0" expanded="true" />
+            <element signature="e#4450#4484#0" expanded="true" />
+            <element signature="e#4623#4666#0" expanded="true" />
+            <element signature="e#4801#4844#0" expanded="true" />
+            <element signature="e#5030#5065#0" expanded="true" />
+            <element signature="e#5201#5240#0" expanded="true" />
+            <element signature="e#5371#5396#0" expanded="true" />
+            <element signature="e#5603#5633#0" expanded="true" />
+            <element signature="e#5828#5863#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="0" selection-start-line="3" selection-start-column="3" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/grafika/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="40" column="0" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#7282#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#7018#7019#0" expanded="false" />
+            <element signature="e#7056#7057#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/grafika/RecordFBOActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1818">
+          <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#50576#0" expanded="false" />
+            <element signature="e#20641#20642#0" expanded="false" />
+            <element signature="e#20680#20681#0" expanded="false" />
+            <element signature="e#49033#49034#0" expanded="false" />
+            <element signature="e#49111#49112#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/grafika/CameraCaptureActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3240">
+          <caret line="180" column="31" selection-start-line="180" selection-start-column="31" selection-end-line="180" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#30164#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#17224#17225#0" expanded="false" />
+            <element signature="e#17269#17270#0" expanded="false" />
+            <element signature="e#21114#21115#0" expanded="false" />
+            <element signature="e#21149#21150#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2556">
+          <caret line="142" column="12" selection-start-line="142" selection-start-column="12" selection-end-line="142" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_camera_capture.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/import-summary.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -2527,21 +2665,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/grafika/RecordFBOActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="1026">
           <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
           <folding>
             <element signature="e#0#50576#0" expanded="false" />
-            <element signature="e#10355#10415#0" expanded="false" />
-            <element signature="e#10846#10873#1" expanded="false" />
-            <element signature="e#12449#12476#0" expanded="false" />
-            <element signature="e#12479#12505#0" expanded="false" />
-            <element signature="e#13146#13178#0" expanded="false" />
             <element signature="e#20641#20642#0" expanded="false" />
             <element signature="e#20680#20681#0" expanded="false" />
-            <element signature="e#47730#47757#1" expanded="false" />
             <element signature="e#49033#49034#0" expanded="false" />
             <element signature="e#49111#49112#0" expanded="false" />
-            <marker date="1504936216497" expanded="true" signature="655:1631" ph="..." />
           </folding>
         </state>
       </provider>
@@ -2550,37 +2681,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="172">
           <caret line="96" column="16" selection-start-line="96" selection-start-column="16" selection-end-line="96" selection-end-column="16" />
-          <folding>
-            <element signature="e#3030#3031#0" expanded="true" />
-            <element signature="e#3081#3082#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/grafika/CameraCaptureActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
+        <state relative-caret-position="2520">
           <caret line="180" column="31" selection-start-line="180" selection-start-column="31" selection-end-line="180" selection-end-column="31" />
           <folding>
             <element signature="e#0#30164#0" expanded="false" />
             <element signature="imports" expanded="false" />
-            <element signature="e#9977#10188#0" expanded="false" />
-            <element signature="e#10187#10188#0" expanded="false" />
-            <element signature="e#10751#10970#0" expanded="false" />
-            <element signature="e#10969#10970#0" expanded="false" />
             <element signature="e#17224#17225#0" expanded="false" />
             <element signature="e#17269#17270#0" expanded="false" />
             <element signature="e#21114#21115#0" expanded="false" />
             <element signature="e#21149#21150#0" expanded="false" />
-            <marker date="1504937565657" expanded="true" signature="9116:9802" ph="{...}" />
-            <marker date="1504937565657" expanded="true" signature="15030:15263" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_camera_capture.xml">
       <provider editor-type-id="text-editor">
-        <state relative-caret-position="403">
+        <state relative-caret-position="918">
           <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
           <folding />
         </state>
@@ -2593,7 +2714,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2625,7 +2745,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="40" column="0" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="47" />
-          <folding />
+          <folding>
+            <element signature="e#0#7282#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#7018#7019#0" expanded="false" />
+            <element signature="e#7056#7057#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2639,7 +2764,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
+        <state relative-caret-position="2556">
           <caret line="142" column="12" selection-start-line="142" selection-start-column="12" selection-end-line="142" selection-end-column="12" />
           <folding />
         </state>
@@ -2650,9 +2775,32 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-306">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="1692">
+          <caret line="94" column="17" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
+          <folding>
+            <element signature="e#1274#1292#0" expanded="true" />
+            <element signature="e#1527#1545#0" expanded="true" />
+            <element signature="e#1882#1918#0" expanded="true" />
+            <element signature="e#2050#2085#0" expanded="true" />
+            <element signature="e#2218#2254#0" expanded="true" />
+            <element signature="e#2390#2429#0" expanded="true" />
+            <element signature="e#2565#2605#0" expanded="true" />
+            <element signature="e#2745#2789#0" expanded="true" />
+            <element signature="e#2921#2956#0" expanded="true" />
+            <element signature="e#3499#3533#0" expanded="true" />
+            <element signature="e#3668#3706#0" expanded="true" />
+            <element signature="e#3846#3889#0" expanded="true" />
+            <element signature="e#4028#4071#0" expanded="true" />
+            <element signature="e#4208#4248#0" expanded="true" />
+            <element signature="e#4450#4484#0" expanded="true" />
+            <element signature="e#4623#4666#0" expanded="true" />
+            <element signature="e#4801#4844#0" expanded="true" />
+            <element signature="e#5030#5065#0" expanded="true" />
+            <element signature="e#5201#5240#0" expanded="true" />
+            <element signature="e#5371#5396#0" expanded="true" />
+            <element signature="e#5603#5633#0" expanded="true" />
+            <element signature="e#5828#5863#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
