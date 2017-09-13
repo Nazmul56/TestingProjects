@@ -1,7 +1,4 @@
-#Tue Aug 29 18:31:18 BDT 2017
-base.0=/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10000/instant-run-bootstrap_93cd997bb98deab1fb7a2584dab74113075a055e
-renamed.1=classes2.dex
+#Wed Sep 13 10:42:15 BDT 2017
+base.0=/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.1=/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10000/instant-run_6a16e9b1e1666502928686fd0f4217d751a9948f/classes.dex
-base.1=/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10000/instant-run_6a16e9b1e1666502928686fd0f4217d751a9948f
-file.0=/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10000/instant-run-bootstrap_93cd997bb98deab1fb7a2584dab74113075a055e/classes.dex
+file.0=/home/durbinlabs/Desktop/Testing Project/Android-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/1f/main/classes.dex

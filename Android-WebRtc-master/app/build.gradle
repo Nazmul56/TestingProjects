@@ -66,8 +66,6 @@ dependencies {
     compile 'pub.devrel:easypermissions:0.3.0'
     testCompile 'junit:junit:4.12'
     kapt 'com.android.databinding:compiler:2.3.0'
-
-
     compile files('libs/autobanh.jar')
     compile files('libs/base_java.jar')
     compile files('libs/libjingle_peerconnection.jar')

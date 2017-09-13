@@ -42,13 +42,6 @@
       <sourceFolder url="file://$MODULE_DIR$/src/legacyDebug/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/legacyDebug/rs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/legacyDebug/shaders" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testLegacyDebug/res" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testLegacyDebug/resources" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testLegacyDebug/assets" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testLegacyDebug/aidl" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testLegacyDebug/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testLegacyDebug/rs" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testLegacyDebug/shaders" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/build/generated/source/r/androidTest/legacy/debug" isTestSource="true" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/build/generated/source/aidl/androidTest/legacy/debug" isTestSource="true" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/build/generated/source/buildConfig/androidTest/legacy/debug" isTestSource="true" generated="true" />
@@ -56,6 +49,13 @@
       <sourceFolder url="file://$MODULE_DIR$/build/generated/source/apt/androidTest/legacy/debug" isTestSource="true" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/build/generated/res/rs/androidTest/legacy/debug" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/build/generated/res/resValues/androidTest/legacy/debug" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testLegacyDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testLegacyDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testLegacyDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testLegacyDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testLegacyDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testLegacyDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testLegacyDebug/shaders" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/legacy/res" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/legacy/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/legacy/assets" type="java-resource" />
@@ -63,13 +63,6 @@
       <sourceFolder url="file://$MODULE_DIR$/src/legacy/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/legacy/rs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/legacy/shaders" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestLegacy/res" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestLegacy/resources" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestLegacy/assets" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestLegacy/aidl" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestLegacy/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestLegacy/rs" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestLegacy/shaders" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/testLegacy/res" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/testLegacy/resources" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/testLegacy/assets" type="java-test-resource" />
@@ -77,6 +70,13 @@
       <sourceFolder url="file://$MODULE_DIR$/src/testLegacy/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/testLegacy/rs" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/testLegacy/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestLegacy/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestLegacy/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestLegacy/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestLegacy/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestLegacy/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestLegacy/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestLegacy/shaders" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/debug/res" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/debug/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/debug/assets" type="java-resource" />
@@ -129,6 +129,7 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/instant-run-support" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/jniLibs" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/manifests" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/pre-dexed" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/reload-dex" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/res" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/restart-dex" />

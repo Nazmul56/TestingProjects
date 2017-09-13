@@ -2,7 +2,7 @@
 package android.databinding;
 import com.myhexaville.androidwebrtc.BR;
 class DataBinderMapper  {
-    final static int TARGET_MIN_SDK = 23;
+    final static int TARGET_MIN_SDK = 25;
     public DataBinderMapper() {
     }
     public android.databinding.ViewDataBinding getDataBinder(android.databinding.DataBindingComponent bindingComponent, android.view.View view, int layoutId) {
