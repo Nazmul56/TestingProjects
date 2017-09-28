@@ -133,7 +133,7 @@ public class CallActivity extends AppCompatActivity
         appRtcClient = new WebSocketRTCClient(this);
 
         // Create connection parameters.
-        roomConnectionParameters = new RoomConnectionParameters("https://appr.tc", roomId, false);
+        roomConnectionParameters = new RoomConnectionParameters("http://wt.durbintest.pro:8080", roomId, false);
 
         setupListeners();
 
