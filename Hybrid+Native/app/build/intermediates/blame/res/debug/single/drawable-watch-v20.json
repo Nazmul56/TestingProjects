@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/durbinlabs/.android/build-cache/c9b00dea5cfdb912ea5dc08ff95097d5c284cc68/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/durbinlabs/.android/build-cache/c9b00dea5cfdb912ea5dc08ff95097d5c284cc68/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/durbinlabs/.android/build-cache/c9b00dea5cfdb912ea5dc08ff95097d5c284cc68/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    }
+]

@@ -1,0 +1,1202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/4b8b93cc929d98e9a966ecc34dcc4fa78646a7e5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_538615c27f5f236e12dadb0117abfb29681d7b24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/9214620110300d2385da7fbd0d46614bbb72ab86/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_2b2052d26e431aebd723ae81b2a6617000a6d35d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/2ef446b587aea7480526a014fe542d1040ec4353/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9e9eae1c452248c882fc06eb83a13124991f447b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/libs/bcprov.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b6f5d9926b0afbde9f4dbe3db88c5247be7794bb">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/2/bcprov_e7753f0f8bd3f8d08f4de6644f1fc0a0075097f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/9214620110300d2385da7fbd0d46614bbb72ab86/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2b2052d26e431aebd723ae81b2a6617000a6d35d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/4b8b93cc929d98e9a966ecc34dcc4fa78646a7e5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_538615c27f5f236e12dadb0117abfb29681d7b24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/97efc23759d701396d703bcd080af1353404b6bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ce6dac83b50020650a5b24b70f6e2dff6401ccf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/519c3ad1874d256ed357a0af508c7e936b96d582/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ead69f7e25f48d83179315bc0feaa78b7f333cb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/545e454ded8ffd3cca533adbe5229499d1b68cbb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_c075b553fb3c27100c6165616ca6c5023c0a61de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/android-studio/gradle/m2repository/com/google/guava/guava/18.0/guava-18.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/guava-18.0_a7733db4562b443f1ec94d5c23d82ae3e847b97a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/2ef446b587aea7480526a014fe542d1040ec4353/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_9e9eae1c452248c882fc06eb83a13124991f447b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/5b71564601115daafd7fc04970fe181a518202f6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_da62b49a5cc3d5540b2e2757ad24319b98a455ed.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/337211105e34ecc9248aa2ea464d43bc10cc6150/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_766d4ffb1d7383ec911e267d3f217bb7f1a10c8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/545e454ded8ffd3cca533adbe5229499d1b68cbb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c075b553fb3c27100c6165616ca6c5023c0a61de/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/519c3ad1874d256ed357a0af508c7e936b96d582/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_ead69f7e25f48d83179315bc0feaa78b7f333cb5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/e2ef47c7924a39304a9f47341ae6c793491e95a1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_38e0c93594eaf9109d05b69865d3049b4fab5e78/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/libs/bcprov.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b6f5d9926b0afbde9f4dbe3db88c5247be7794bb">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/bcprov_e7753f0f8bd3f8d08f4de6644f1fc0a0075097f1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/5b71564601115daafd7fc04970fe181a518202f6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_da62b49a5cc3d5540b2e2757ad24319b98a455ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/android-studio/gradle/m2repository/com/google/guava/guava/18.0/guava-18.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-18.0_a7733db4562b443f1ec94d5c23d82ae3e847b97a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/337211105e34ecc9248aa2ea464d43bc10cc6150/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_766d4ffb1d7383ec911e267d3f217bb7f1a10c8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/e2ef47c7924a39304a9f47341ae6c793491e95a1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_38e0c93594eaf9109d05b69865d3049b4fab5e78.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/libs/cordova_plugins.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="53221d661912472fba8401b605ecedd144df49b7">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/2/cordova_plugins_6379caf231697a78b34105cf896ac31b828576ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/ce0232d9acb92d6d7c1b2d2d1e87035cf9c0ddf3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_664d9566c971a3a713ab999c68c664347c7064d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/8310fa3d84b3217a6b649865240b937e3bd05542/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_6215d6c0a197eb229a7e1989863efff5fa924a1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/99f1ca6625f78dc041a83b64cac3c1d92d4bada6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_06c4b586e919d7ee5aa5fef159d17a87679af62b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/e4276df9d6eef23ad3cb46488097f824262d8875/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b05e816da04a53d4fba681ea19103c8cf06478ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/8310fa3d84b3217a6b649865240b937e3bd05542/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6215d6c0a197eb229a7e1989863efff5fa924a1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/59fc2349a6f10857da575e11ef86a8a54e31abf7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7743b171d9e8d16effe68d388d5d1e002dbb51ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/c13ee9fd351bf2bbe5ea20340acbd61f85473020/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_4a43056100d4cef056a865b6d212188f003dc9b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/libs/cordova_plugins.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="53221d661912472fba8401b605ecedd144df49b7">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/cordova_plugins_6379caf231697a78b34105cf896ac31b828576ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/e36348f7f654f01664eeb897a9a3fe80d0fbe229/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_a69b8a4d836df6a547398d990ff6675f690c78e7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/75fa191d05bec46a61b0b843ae134ea333f0a9cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d848a0f1b91a4fe6c80af7715f9e98c772bf2178/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/e36348f7f654f01664eeb897a9a3fe80d0fbe229/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a69b8a4d836df6a547398d990ff6675f690c78e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/99f1ca6625f78dc041a83b64cac3c1d92d4bada6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_06c4b586e919d7ee5aa5fef159d17a87679af62b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/c13ee9fd351bf2bbe5ea20340acbd61f85473020/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4a43056100d4cef056a865b6d212188f003dc9b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/75fa191d05bec46a61b0b843ae134ea333f0a9cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_d848a0f1b91a4fe6c80af7715f9e98c772bf2178.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/59fc2349a6f10857da575e11ef86a8a54e31abf7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_7743b171d9e8d16effe68d388d5d1e002dbb51ad.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/48c2118f2d58340a58479537c1bce69b65794d93/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b014a5c862069bf945850bcc972d4dc936fb863/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/6e03399258346748802d7c4e08c1faed7943a727/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_c5314c7d4fb1851ccee865ae05859587137a6b6f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/c9b00dea5cfdb912ea5dc08ff95097d5c284cc68/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_20844b49b67a6c3f3a32d97a7dcb52e03acea5b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/a29e356d0ff2468d529044830395d3e73d42eb0e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_04cc5472a81f944cbcebe028401e1a293253d6d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/48c2118f2d58340a58479537c1bce69b65794d93/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_1b014a5c862069bf945850bcc972d4dc936fb863.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/6e03399258346748802d7c4e08c1faed7943a727/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c5314c7d4fb1851ccee865ae05859587137a6b6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/a29e356d0ff2468d529044830395d3e73d42eb0e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_04cc5472a81f944cbcebe028401e1a293253d6d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/e4276df9d6eef23ad3cb46488097f824262d8875/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_b05e816da04a53d4fba681ea19103c8cf06478ce.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/eed200e97d35e6595b0bd9ecdab017837f15feb4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_818f310ff6afd3ea4675cc3ae52acf7446401241/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/2f175e15ac7342681a058f17fa6294f563c682f5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_77f8a854eaff6a249c3c8c9b174011707a323c0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/libs/cordova.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f2a55cbb0bf17d5bf69cf16d0f0b09584f6d09d9">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/cordova_752e74ea1c791cb90660ce9cbe58db60b59d2af7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/46d6ff9d60b5c73c31405ea014380f2ddc1d19d6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_327294d6f53b027e7448554b95dfbdcd8c64e29b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/c9b00dea5cfdb912ea5dc08ff95097d5c284cc68/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_20844b49b67a6c3f3a32d97a7dcb52e03acea5b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/2f175e15ac7342681a058f17fa6294f563c682f5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_77f8a854eaff6a249c3c8c9b174011707a323c0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/54fb3fadf7c501040882062eb801bf8d60190383/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_df7c5f4a42746d9520ab17a5837dee1341ad27ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/libs/android-async-http.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f70e680861fdf9449819003e7799a4e9aca047f8">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/android-async-http_57d12f9a151045e7312f29e3d581125dccc51d8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/550b53274268aa83d8c052e40ee34feb3a71b958/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_2151c61c39125123d9af51b63230486578e2a922.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/libs/android-async-http.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f70e680861fdf9449819003e7799a4e9aca047f8">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-async-http_57d12f9a151045e7312f29e3d581125dccc51d8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/3b344ff4ab637945a543a2042d77a19639ca08ac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9948c339ab8d6686314b2cb5193eece74b15e0a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/54fb3fadf7c501040882062eb801bf8d60190383/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_df7c5f4a42746d9520ab17a5837dee1341ad27ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_c33c76f987c916ded04fe8f096c6cafa04e0f4a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/550b53274268aa83d8c052e40ee34feb3a71b958/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2151c61c39125123d9af51b63230486578e2a922/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/11131e34537dd609d9efcc438464b97a9b38f634/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_beaffa9c7d156b87d13bb0344b77f950d95ced51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/3b344ff4ab637945a543a2042d77a19639ca08ac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_9948c339ab8d6686314b2cb5193eece74b15e0a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/ce0232d9acb92d6d7c1b2d2d1e87035cf9c0ddf3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_664d9566c971a3a713ab999c68c664347c7064d5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/11131e34537dd609d9efcc438464b97a9b38f634/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_beaffa9c7d156b87d13bb0344b77f950d95ced51/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/97efc23759d701396d703bcd080af1353404b6bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_7ce6dac83b50020650a5b24b70f6e2dff6401ccf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/a8a503367dbfa4345917fac0f95a24740f1d6ae3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_96fcd6cd00117f6e5f282353d8c02d6e71958e2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/4ca30c7f3ca6dcabe4ddc670fce005f451821af9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b86f28ecb936cf27772fe488cd5d5d6645c39c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/87e8d23c636298b28072e35b4dc781bee18d123a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_7dcc63b8af8f0ac9ccf4be5d7b7b2ac4f9053841.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/1cefb700bde0a3159af32fafa886cb6466bac85c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_89d05aab32364836c1062ee8730f939db0f8cc99.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/3a99087b42b04e485ea7c2a5c919446bf2c7eb81/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_070f668548c7baa7ca1aee5fa135ea19bcb74804/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/4ca30c7f3ca6dcabe4ddc670fce005f451821af9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_1b86f28ecb936cf27772fe488cd5d5d6645c39c6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/libs/cordova.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f2a55cbb0bf17d5bf69cf16d0f0b09584f6d09d9">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/2/cordova_752e74ea1c791cb90660ce9cbe58db60b59d2af7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/a93bf8f85567942a5c551cf7a8415f6c1f402176/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_efc76b16dbeabf57edc372809c39d1cbaad4fefe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/1cefb700bde0a3159af32fafa886cb6466bac85c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_89d05aab32364836c1062ee8730f939db0f8cc99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/87e8d23c636298b28072e35b4dc781bee18d123a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7dcc63b8af8f0ac9ccf4be5d7b7b2ac4f9053841/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/92887f405d99e0d2ba8f89510b50909d5a8f426b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2d4690de7eb70adcd06d876be238dec0c446b4c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/e41c6e746d80459dcd5fb2fabd53c668846f5755/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_c6fd832ebbafe7cf9e47db37a5ac3af8eda5a3af.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/e41c6e746d80459dcd5fb2fabd53c668846f5755/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c6fd832ebbafe7cf9e47db37a5ac3af8eda5a3af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/053c5b3b07767f31fc07da8b89c9956b353ae26a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b31474cc5e0a37603db96444b55c161fc3d81613/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/fb427aaba92f0261b193bac2141244754cf1dfaf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_661f1dcc72a8340234225f68322349a1dc2d5d22/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/a93bf8f85567942a5c551cf7a8415f6c1f402176/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_efc76b16dbeabf57edc372809c39d1cbaad4fefe.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/libs/worklight-android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="13198d9b1f21552b85b95e3abc3ea84b5c0cca63">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/2/worklight-android_a57641ec5d5340e2504e51884f6409f149af4a4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/208a940fb0247af04ea674cfa9570259a1af6dff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_6e5e5e76d459c0aeba217dbf2a981b5a4c2d5b9a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/ca2902c13916108175fc0d1e64befe144ae57a8c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ef4e264286f5eea0776340cb6b6b3a9e7dcaa180/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/a8a503367dbfa4345917fac0f95a24740f1d6ae3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_96fcd6cd00117f6e5f282353d8c02d6e71958e2a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/bde3fe480debc14a9cfcb2888882407958ef593f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c38c3a19d98e6dd4881f2c03cf35077f52f28062/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/3555d076340e3807cdad92b753f4a841303fcbed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fa6dd67e82fa5ee392db446a758ac3c0824fc229/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/libs/worklight-android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="13198d9b1f21552b85b95e3abc3ea84b5c0cca63">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/worklight-android_a57641ec5d5340e2504e51884f6409f149af4a4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/ca2902c13916108175fc0d1e64befe144ae57a8c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_ef4e264286f5eea0776340cb6b6b3a9e7dcaa180.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/3555d076340e3807cdad92b753f4a841303fcbed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_fa6dd67e82fa5ee392db446a758ac3c0824fc229.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/libs/commons-codec.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cf993e250ff71804754ec2734a16f23c0be99f70">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-codec_498657e44236ae814620a87c1f319feab3c0c62d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/c8296b4234ded42f9cfeb6c14a0f953af23f6071/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_47e4530335e0c6906c7f8fba7c2a69d068b55f32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/0b6e2973a48002bcb87bd24f2f94138f69e5b597/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1f52283b09f0ff62d79dc577981432562c9a170d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/46ddf319b18e0f29d593af8fa22f20a3ded5a614/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_39e42308eaede1ff0d2211cc2fc2b90d38d6c792/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/d16647cb4942d233b4e8663b5e545a9d923e852c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2eaa445199249b5bc73c08db2eae522928e97a05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/221c44ca9847a21e736b37eaa3bdb46f3a623f1e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_60898c1112f567f8d6e82253d06bdf8c8404b102/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/3e321504eeb5affb627d32b081d9a1573e63571a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8af282aa1f99e4f4df144044351cb77272b0348e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/libs/commons-codec.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cf993e250ff71804754ec2734a16f23c0be99f70">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/commons-codec_498657e44236ae814620a87c1f319feab3c0c62d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/46ddf319b18e0f29d593af8fa22f20a3ded5a614/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_39e42308eaede1ff0d2211cc2fc2b90d38d6c792.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/208a940fb0247af04ea674cfa9570259a1af6dff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6e5e5e76d459c0aeba217dbf2a981b5a4c2d5b9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/5878f59d89ed7ea6d0cc54ba4002352f53e82d6a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c37702466bd3ed8354cf3a699696c458e83d33f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/libs/jackson-mapper-asl.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="14e4c069a4a2590ea2efa5b60958fe890d1afab2">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/jackson-mapper-asl_1539a15ea6945f4b7a450e33b9b260f50526ac96.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/2ef8a905a4fcf0cbd54eb557dd30d1d2f2db97f0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b02ec7ff7e9de3394adf5b5c8edb191d977eee0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/fb427aaba92f0261b193bac2141244754cf1dfaf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_661f1dcc72a8340234225f68322349a1dc2d5d22.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/89dcf25a98ec66496294b7708b0480ef826f9bf7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7d08a2186c3fbc0965647f71b97489935a8ea057/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/c8296b4234ded42f9cfeb6c14a0f953af23f6071/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_47e4530335e0c6906c7f8fba7c2a69d068b55f32.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/0b79cee2873f6c96ad5ecae37a8dde70dac7b7cd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e8edd1ff6e0df60463498f0d97ff47077671244b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/89dcf25a98ec66496294b7708b0480ef826f9bf7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_7d08a2186c3fbc0965647f71b97489935a8ea057.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/d16647cb4942d233b4e8663b5e545a9d923e852c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_2eaa445199249b5bc73c08db2eae522928e97a05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/5878f59d89ed7ea6d0cc54ba4002352f53e82d6a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_c37702466bd3ed8354cf3a699696c458e83d33f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/2ef8a905a4fcf0cbd54eb557dd30d1d2f2db97f0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_b02ec7ff7e9de3394adf5b5c8edb191d977eee0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/9748ff44689ec3db236645d5a7a7b0c2f11648e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_75c3c526c7b366606b412b9153c224eeda6e621e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/9748ff44689ec3db236645d5a7a7b0c2f11648e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_75c3c526c7b366606b412b9153c224eeda6e621e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/ddc0dbced5e942014cf563d4a17bffb492eea898/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8344c2643e8e69570e3ea1f90ba299082991b1d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/a95176af3de06d0fbf56fde68baacdb37874e845/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_932c0b200b4ece919d26b6121fb58b1f3e5ff5ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/6c511132fb9eb7c4aaab4c8b6be725130cf130fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3521be76bc91560029d0cb67b45c82d244d4ec06/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_5f90c9846ba9aa8ff9a5371d2180ee1bf5f7167c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/ddc0dbced5e942014cf563d4a17bffb492eea898/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_8344c2643e8e69570e3ea1f90ba299082991b1d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/a95176af3de06d0fbf56fde68baacdb37874e845/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_932c0b200b4ece919d26b6121fb58b1f3e5ff5ad.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f90c9846ba9aa8ff9a5371d2180ee1bf5f7167c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/6c511132fb9eb7c4aaab4c8b6be725130cf130fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_3521be76bc91560029d0cb67b45c82d244d4ec06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/libs/jackson-core-asl.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2552f9dcdbe5480a8be83c857306fe014b9b8f29">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/jackson-core-asl_86db4f4e03f91395734bd6be6b88d77ce03e2b7e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/53f0e98b361a71bb9a190d74654c7d5fac308536/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f66a5d67e39216d1c4b96538c3dd776066ad8007/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/53f0e98b361a71bb9a190d74654c7d5fac308536/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_f66a5d67e39216d1c4b96538c3dd776066ad8007.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/78ee4314f31f4b803c39174767b2bc6819d8161c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_703e0b9e96e0f619a5c0e53a51b66b71093cb3c6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/78ee4314f31f4b803c39174767b2bc6819d8161c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_703e0b9e96e0f619a5c0e53a51b66b71093cb3c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/ee6ce9833f6ea02aae48cb882acb311c6a33dd16/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_af551846c3e4685183de8bd8969bf11322a9ee30/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/f2049bbcc7965de5c68c3874a60fbfcfff6c7bfb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_dfbb639dc1dcd358b1d818a7610e277ef6ea645f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/40b1bde71f6a687022190ab6da291efc36325fc4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_7ac7e9ae7f7736d2f9232752ca38e788bee73c38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/ee6ce9833f6ea02aae48cb882acb311c6a33dd16/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_af551846c3e4685183de8bd8969bf11322a9ee30.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/834e8fb605b97ecef05ad47e5724f70fb1506496/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2144e3c0e3fdaead153858af4b6d7ef7d089b491/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/f2049bbcc7965de5c68c3874a60fbfcfff6c7bfb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dfbb639dc1dcd358b1d818a7610e277ef6ea645f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/durbinlabs/.android/build-cache/40b1bde71f6a687022190ab6da291efc36325fc4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ac7e9ae7f7736d2f9232752ca38e788bee73c38/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.android/build-cache/834e8fb605b97ecef05ad47e5724f70fb1506496/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/pre-dexed/debug/classes_2144e3c0e3fdaead153858af4b6d7ef7d089b491.jar" />
+    </item>
+
+</items>

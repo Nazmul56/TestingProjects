@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/durbinlabs/.android/build-cache/053c5b3b07767f31fc07da8b89c9956b353ae26a/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/durbinlabs/.android/build-cache/053c5b3b07767f31fc07da8b89c9956b353ae26a/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/durbinlabs/.android/build-cache/053c5b3b07767f31fc07da8b89c9956b353ae26a/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/durbinlabs/.android/build-cache/053c5b3b07767f31fc07da8b89c9956b353ae26a/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/home/durbinlabs/.android/build-cache/ce0232d9acb92d6d7c1b2d2d1e87035cf9c0ddf3/output/res/layout-v21/place_autocomplete_fragment.xml"
+    }
+]

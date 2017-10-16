@@ -1,0 +1,2382 @@
+[
+    {
+        "outputFile": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 49,
+                    "endOffset": 150
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/res/values-ja/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 2,
+                        "startOffset": 657,
+                        "endColumn": 47,
+                        "endOffset": 702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 155,
+                    "endColumn": 96,
+                    "endOffset": 247
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/053c5b3b07767f31fc07da8b89c9956b353ae26a/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 96,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 252,
+                    "endColumn": 106,
+                    "endOffset": 354
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/053c5b3b07767f31fc07da8b89c9956b353ae26a/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 152,
+                        "endColumn": 106,
+                        "endOffset": 254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 359,
+                    "endColumn": 120,
+                    "endOffset": 475
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/053c5b3b07767f31fc07da8b89c9956b353ae26a/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 259,
+                        "endColumn": 120,
+                        "endOffset": 375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 480,
+                    "endColumn": 92,
+                    "endOffset": 568
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/053c5b3b07767f31fc07da8b89c9956b353ae26a/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 380,
+                        "endColumn": 92,
+                        "endOffset": 468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 573,
+                    "endColumn": 104,
+                    "endOffset": 673
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/053c5b3b07767f31fc07da8b89c9956b353ae26a/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 473,
+                        "endColumn": 104,
+                        "endOffset": 573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 678,
+                    "endColumn": 81,
+                    "endOffset": 755
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/053c5b3b07767f31fc07da8b89c9956b353ae26a/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 578,
+                        "endColumn": 81,
+                        "endOffset": 655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 760,
+                    "endColumn": 97,
+                    "endOffset": 853
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/053c5b3b07767f31fc07da8b89c9956b353ae26a/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 660,
+                        "endColumn": 97,
+                        "endOffset": 753
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 858,
+                    "endColumn": 107,
+                    "endOffset": 961
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/053c5b3b07767f31fc07da8b89c9956b353ae26a/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 758,
+                        "endColumn": 107,
+                        "endOffset": 861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 966,
+                    "endColumn": 76,
+                    "endOffset": 1038
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/053c5b3b07767f31fc07da8b89c9956b353ae26a/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 866,
+                        "endColumn": 76,
+                        "endOffset": 938
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1043,
+                    "endColumn": 75,
+                    "endOffset": 1114
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/053c5b3b07767f31fc07da8b89c9956b353ae26a/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 943,
+                        "endColumn": 75,
+                        "endOffset": 1014
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1119,
+                    "endColumn": 77,
+                    "endOffset": 1192
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/053c5b3b07767f31fc07da8b89c9956b353ae26a/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1019,
+                        "endColumn": 77,
+                        "endOffset": 1092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1197,
+                    "endColumn": 101,
+                    "endOffset": 1294
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/053c5b3b07767f31fc07da8b89c9956b353ae26a/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1097,
+                        "endColumn": 101,
+                        "endOffset": 1194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1299,
+                    "endColumn": 98,
+                    "endOffset": 1393
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/053c5b3b07767f31fc07da8b89c9956b353ae26a/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1199,
+                        "endColumn": 98,
+                        "endOffset": 1293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1398,
+                    "endColumn": 94,
+                    "endOffset": 1488
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/053c5b3b07767f31fc07da8b89c9956b353ae26a/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1298,
+                        "endColumn": 94,
+                        "endOffset": 1388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1493,
+                    "endColumn": 102,
+                    "endOffset": 1591
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/053c5b3b07767f31fc07da8b89c9956b353ae26a/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1393,
+                        "endColumn": 102,
+                        "endOffset": 1491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1596,
+                    "endColumn": 94,
+                    "endOffset": 1686
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/053c5b3b07767f31fc07da8b89c9956b353ae26a/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1496,
+                        "endColumn": 94,
+                        "endOffset": 1586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1691,
+                    "endColumn": 95,
+                    "endOffset": 1782
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/053c5b3b07767f31fc07da8b89c9956b353ae26a/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1591,
+                        "endColumn": 95,
+                        "endOffset": 1682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1787,
+                    "endColumn": 110,
+                    "endOffset": 1893
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/053c5b3b07767f31fc07da8b89c9956b353ae26a/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1687,
+                        "endColumn": 110,
+                        "endOffset": 1793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1898,
+                    "endColumn": 96,
+                    "endOffset": 1990
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/053c5b3b07767f31fc07da8b89c9956b353ae26a/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1798,
+                        "endColumn": 96,
+                        "endOffset": 1890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1995,
+                    "endColumn": 53,
+                    "endOffset": 2044
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/res/values-ja/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 2,
+                        "startOffset": 63,
+                        "endColumn": 51,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2049,
+                    "endColumn": 40,
+                    "endOffset": 2085
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/res/values-ja/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 2,
+                        "startOffset": 294,
+                        "endColumn": 38,
+                        "endOffset": 330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2090,
+                    "endColumn": 74,
+                    "endOffset": 2160
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 298,
+                        "endColumn": 70,
+                        "endOffset": 368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2165,
+                    "endColumn": 96,
+                    "endOffset": 2257
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 369,
+                        "endColumn": 92,
+                        "endOffset": 461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2262,
+                    "endColumn": 91,
+                    "endOffset": 2349
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 462,
+                        "endColumn": 87,
+                        "endOffset": 549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2354,
+                    "endColumn": 111,
+                    "endOffset": 2461
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 550,
+                        "endColumn": 107,
+                        "endOffset": 657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2466,
+                    "endColumn": 79,
+                    "endOffset": 2541
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 658,
+                        "endColumn": 75,
+                        "endOffset": 733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2546,
+                    "endColumn": 133,
+                    "endOffset": 2675
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 734,
+                        "endColumn": 129,
+                        "endOffset": 863
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2680,
+                    "endColumn": 105,
+                    "endOffset": 2781
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 864,
+                        "endColumn": 101,
+                        "endOffset": 965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2786,
+                    "endColumn": 107,
+                    "endOffset": 2889
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 966,
+                        "endColumn": 103,
+                        "endOffset": 1069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2894,
+                    "endColumn": 114,
+                    "endOffset": 3004
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1070,
+                        "endColumn": 110,
+                        "endOffset": 1180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3009,
+                    "endColumn": 100,
+                    "endOffset": 3105
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1181,
+                        "endColumn": 96,
+                        "endOffset": 1277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3110,
+                    "endColumn": 101,
+                    "endOffset": 3207
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 1278,
+                        "endColumn": 97,
+                        "endOffset": 1375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3212,
+                    "endColumn": 74,
+                    "endOffset": 3282
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 1376,
+                        "endColumn": 70,
+                        "endOffset": 1446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3287,
+                    "endColumn": 81,
+                    "endOffset": 3364
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 1447,
+                        "endColumn": 77,
+                        "endOffset": 1524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3369,
+                    "endColumn": 81,
+                    "endOffset": 3446
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 1525,
+                        "endColumn": 77,
+                        "endOffset": 1602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3451,
+                    "endColumn": 107,
+                    "endOffset": 3554
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 1603,
+                        "endColumn": 103,
+                        "endOffset": 1706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3559,
+                    "endColumn": 72,
+                    "endOffset": 3627
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 1707,
+                        "endColumn": 68,
+                        "endOffset": 1775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3632,
+                    "endColumn": 131,
+                    "endOffset": 3759
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/99f1ca6625f78dc041a83b64cac3c1d92d4bada6/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 288,
+                        "endColumn": 131,
+                        "endOffset": 419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3764,
+                    "endColumn": 133,
+                    "endOffset": 3893
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/99f1ca6625f78dc041a83b64cac3c1d92d4bada6/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 420,
+                        "endColumn": 133,
+                        "endOffset": 553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3898,
+                    "endColumn": 92,
+                    "endOffset": 3986
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/99f1ca6625f78dc041a83b64cac3c1d92d4bada6/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 554,
+                        "endColumn": 88,
+                        "endOffset": 642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 3991,
+                    "endColumn": 73,
+                    "endOffset": 4060
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 0,
+                        "startOffset": 1776,
+                        "endColumn": 69,
+                        "endOffset": 1845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4065,
+                    "endColumn": 70,
+                    "endOffset": 4131
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 0,
+                        "startOffset": 1846,
+                        "endColumn": 66,
+                        "endOffset": 1912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4136,
+                    "endColumn": 74,
+                    "endOffset": 4206
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 0,
+                        "startOffset": 1913,
+                        "endColumn": 70,
+                        "endOffset": 1983
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4211,
+                    "endColumn": 81,
+                    "endOffset": 4288
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 0,
+                        "startOffset": 1984,
+                        "endColumn": 77,
+                        "endOffset": 2061
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4293,
+                    "endColumn": 81,
+                    "endOffset": 4370
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 0,
+                        "startOffset": 2062,
+                        "endColumn": 77,
+                        "endOffset": 2139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4375,
+                    "endColumn": 79,
+                    "endOffset": 4450
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 0,
+                        "startOffset": 2140,
+                        "endColumn": 75,
+                        "endOffset": 2215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4455,
+                    "endColumn": 82,
+                    "endOffset": 4533
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 0,
+                        "startOffset": 2216,
+                        "endColumn": 78,
+                        "endOffset": 2294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4538,
+                    "endColumn": 82,
+                    "endOffset": 4616
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 0,
+                        "startOffset": 2295,
+                        "endColumn": 78,
+                        "endOffset": 2373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4621,
+                    "endColumn": 70,
+                    "endOffset": 4687
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 0,
+                        "startOffset": 2374,
+                        "endColumn": 66,
+                        "endOffset": 2440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 4692,
+                    "endColumn": 92,
+                    "endOffset": 4780
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 0,
+                        "startOffset": 2441,
+                        "endColumn": 88,
+                        "endOffset": 2529
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 4785,
+                    "endColumn": 93,
+                    "endOffset": 4874
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 0,
+                        "startOffset": 2530,
+                        "endColumn": 89,
+                        "endOffset": 2619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4879,
+                    "endColumn": 97,
+                    "endOffset": 4972
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 0,
+                        "startOffset": 2620,
+                        "endColumn": 93,
+                        "endOffset": 2713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4977,
+                    "endColumn": 113,
+                    "endOffset": 5086
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 0,
+                        "startOffset": 2714,
+                        "endColumn": 109,
+                        "endOffset": 2823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5091,
+                    "endColumn": 142,
+                    "endOffset": 5229
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 0,
+                        "startOffset": 2824,
+                        "endColumn": 142,
+                        "endOffset": 2966
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 5234,
+                    "endColumn": 92,
+                    "endOffset": 5322
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 0,
+                        "startOffset": 2967,
+                        "endColumn": 88,
+                        "endOffset": 3055
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 5327,
+                    "endColumn": 90,
+                    "endOffset": 5413
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 0,
+                        "startOffset": 3056,
+                        "endColumn": 86,
+                        "endOffset": 3142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 5418,
+                    "endColumn": 97,
+                    "endOffset": 5511
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 0,
+                        "startOffset": 3143,
+                        "endColumn": 93,
+                        "endOffset": 3236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 5516,
+                    "endColumn": 77,
+                    "endOffset": 5589
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 0,
+                        "startOffset": 3237,
+                        "endColumn": 73,
+                        "endOffset": 3310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 5594,
+                    "endColumn": 60,
+                    "endOffset": 5650
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/res/values-ja/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 942,
+                        "endColumn": 58,
+                        "endOffset": 998
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 5655,
+                    "endColumn": 37,
+                    "endOffset": 5688
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/res/values-ja/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 2,
+                        "startOffset": 258,
+                        "endColumn": 35,
+                        "endOffset": 291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5693,
+                    "endColumn": 105,
+                    "endOffset": 5794
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/2f175e15ac7342681a058f17fa6294f563c682f5/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 283,
+                        "endColumn": 101,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5799,
+                    "endColumn": 165,
+                    "endOffset": 5960
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/2f175e15ac7342681a058f17fa6294f563c682f5/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 385,
+                        "endColumn": 165,
+                        "endOffset": 550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 5965,
+                    "endColumn": 121,
+                    "endOffset": 6082
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/2f175e15ac7342681a058f17fa6294f563c682f5/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 551,
+                        "endColumn": 117,
+                        "endOffset": 668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 6087,
+                    "endColumn": 107,
+                    "endOffset": 6190
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/2f175e15ac7342681a058f17fa6294f563c682f5/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 669,
+                        "endColumn": 103,
+                        "endOffset": 772
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 6195,
+                    "endColumn": 188,
+                    "endOffset": 6379
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/2f175e15ac7342681a058f17fa6294f563c682f5/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 773,
+                        "endColumn": 188,
+                        "endOffset": 961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 6384,
+                    "endColumn": 121,
+                    "endOffset": 6501
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/2f175e15ac7342681a058f17fa6294f563c682f5/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 962,
+                        "endColumn": 117,
+                        "endOffset": 1079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 6506,
+                    "endColumn": 127,
+                    "endOffset": 6629
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/2f175e15ac7342681a058f17fa6294f563c682f5/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 1080,
+                        "endColumn": 123,
+                        "endOffset": 1203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 6634,
+                    "endColumn": 180,
+                    "endOffset": 6810
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/59fc2349a6f10857da575e11ef86a8a54e31abf7/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 180,
+                        "endOffset": 465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 6815,
+                    "endColumn": 190,
+                    "endOffset": 7001
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/2f175e15ac7342681a058f17fa6294f563c682f5/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 1204,
+                        "endColumn": 190,
+                        "endOffset": 1394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 7006,
+                    "endColumn": 102,
+                    "endOffset": 7104
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/2f175e15ac7342681a058f17fa6294f563c682f5/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1395,
+                        "endColumn": 98,
+                        "endOffset": 1493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 7109,
+                    "endColumn": 163,
+                    "endOffset": 7268
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/2f175e15ac7342681a058f17fa6294f563c682f5/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1494,
+                        "endColumn": 163,
+                        "endOffset": 1657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 7273,
+                    "endColumn": 120,
+                    "endOffset": 7389
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/2f175e15ac7342681a058f17fa6294f563c682f5/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 1658,
+                        "endColumn": 116,
+                        "endOffset": 1774
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 7394,
+                    "endColumn": 178,
+                    "endOffset": 7568
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/2f175e15ac7342681a058f17fa6294f563c682f5/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 1775,
+                        "endColumn": 178,
+                        "endOffset": 1953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 7573,
+                    "endColumn": 149,
+                    "endOffset": 7718
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/2f175e15ac7342681a058f17fa6294f563c682f5/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 1954,
+                        "endColumn": 145,
+                        "endOffset": 2099
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 7723,
+                    "endColumn": 89,
+                    "endOffset": 7808
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/2f175e15ac7342681a058f17fa6294f563c682f5/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 2100,
+                        "endColumn": 85,
+                        "endOffset": 2185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 7813,
+                    "endColumn": 88,
+                    "endOffset": 7897
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/2f175e15ac7342681a058f17fa6294f563c682f5/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 2186,
+                        "endColumn": 84,
+                        "endOffset": 2270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 7902,
+                    "endColumn": 99,
+                    "endOffset": 7997
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/2f175e15ac7342681a058f17fa6294f563c682f5/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 2271,
+                        "endColumn": 95,
+                        "endOffset": 2366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 8002,
+                    "endColumn": 94,
+                    "endOffset": 8092
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/res/values-ja/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 2,
+                        "startOffset": 1348,
+                        "endColumn": 92,
+                        "endOffset": 1438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 8097,
+                    "endColumn": 97,
+                    "endOffset": 8190
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/res/values-ja/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 1224,
+                        "endColumn": 95,
+                        "endOffset": 1317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 8195,
+                    "endColumn": 37,
+                    "endOffset": 8228
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/res/values-ja/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 2,
+                        "startOffset": 222,
+                        "endColumn": 35,
+                        "endOffset": 255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 8233,
+                    "endColumn": 130,
+                    "endOffset": 8359
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/res/values-ja/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 763,
+                        "endColumn": 128,
+                        "endOffset": 889
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 8364,
+                    "endColumn": 33,
+                    "endOffset": 8393
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/res/values-ja/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 2,
+                        "startOffset": 1441,
+                        "endColumn": 31,
+                        "endOffset": 1470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 8398,
+                    "endColumn": 96,
+                    "endOffset": 8490
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/e4276df9d6eef23ad3cb46488097f824262d8875/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 96,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 8495,
+                    "endColumn": 97,
+                    "endOffset": 8588
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/e4276df9d6eef23ad3cb46488097f824262d8875/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 152,
+                        "endColumn": 97,
+                        "endOffset": 245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 8593,
+                    "endColumn": 97,
+                    "endOffset": 8686
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/e4276df9d6eef23ad3cb46488097f824262d8875/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 250,
+                        "endColumn": 97,
+                        "endOffset": 343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 8691,
+                    "endColumn": 101,
+                    "endOffset": 8788
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/e4276df9d6eef23ad3cb46488097f824262d8875/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 348,
+                        "endColumn": 101,
+                        "endOffset": 445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 8793,
+                    "endColumn": 89,
+                    "endOffset": 8878
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/e4276df9d6eef23ad3cb46488097f824262d8875/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 450,
+                        "endColumn": 89,
+                        "endOffset": 535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 8883,
+                    "endColumn": 84,
+                    "endOffset": 8963
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/e4276df9d6eef23ad3cb46488097f824262d8875/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 540,
+                        "endColumn": 84,
+                        "endOffset": 620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 8968,
+                    "endColumn": 89,
+                    "endOffset": 9053
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/e4276df9d6eef23ad3cb46488097f824262d8875/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 625,
+                        "endColumn": 89,
+                        "endOffset": 710
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 9058,
+                    "endColumn": 99,
+                    "endOffset": 9153
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/e4276df9d6eef23ad3cb46488097f824262d8875/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 715,
+                        "endColumn": 99,
+                        "endOffset": 810
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 9158,
+                    "endColumn": 93,
+                    "endOffset": 9247
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/e4276df9d6eef23ad3cb46488097f824262d8875/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 815,
+                        "endColumn": 93,
+                        "endOffset": 904
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 9252,
+                    "endColumn": 92,
+                    "endOffset": 9340
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/e4276df9d6eef23ad3cb46488097f824262d8875/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 909,
+                        "endColumn": 92,
+                        "endOffset": 997
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 9345,
+                    "endColumn": 88,
+                    "endOffset": 9429
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/e4276df9d6eef23ad3cb46488097f824262d8875/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1002,
+                        "endColumn": 88,
+                        "endOffset": 1086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 9434,
+                    "endColumn": 87,
+                    "endOffset": 9517
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/e4276df9d6eef23ad3cb46488097f824262d8875/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1091,
+                        "endColumn": 87,
+                        "endOffset": 1174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 9522,
+                    "endColumn": 98,
+                    "endOffset": 9616
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/e4276df9d6eef23ad3cb46488097f824262d8875/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1179,
+                        "endColumn": 98,
+                        "endOffset": 1273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 9621,
+                    "endColumn": 104,
+                    "endOffset": 9721
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/e4276df9d6eef23ad3cb46488097f824262d8875/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1278,
+                        "endColumn": 104,
+                        "endOffset": 1378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 9726,
+                    "endColumn": 82,
+                    "endOffset": 9804
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/e4276df9d6eef23ad3cb46488097f824262d8875/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1383,
+                        "endColumn": 82,
+                        "endOffset": 1461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 9809,
+                    "endColumn": 78,
+                    "endOffset": 9883
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/e4276df9d6eef23ad3cb46488097f824262d8875/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1466,
+                        "endColumn": 78,
+                        "endOffset": 1540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 9888,
+                    "endColumn": 84,
+                    "endOffset": 9968
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/e4276df9d6eef23ad3cb46488097f824262d8875/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1545,
+                        "endColumn": 84,
+                        "endOffset": 1625
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 9973,
+                    "endColumn": 93,
+                    "endOffset": 10062
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/e4276df9d6eef23ad3cb46488097f824262d8875/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1630,
+                        "endColumn": 93,
+                        "endOffset": 1719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 10067,
+                    "endColumn": 83,
+                    "endOffset": 10146
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/e4276df9d6eef23ad3cb46488097f824262d8875/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1724,
+                        "endColumn": 83,
+                        "endOffset": 1803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 10151,
+                    "endColumn": 88,
+                    "endOffset": 10235
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/e4276df9d6eef23ad3cb46488097f824262d8875/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1808,
+                        "endColumn": 88,
+                        "endOffset": 1892
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 10240,
+                    "endColumn": 68,
+                    "endOffset": 10304
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/res/values-ja/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 2,
+                        "startOffset": 590,
+                        "endColumn": 66,
+                        "endOffset": 654
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 10309,
+                    "endColumn": 96,
+                    "endOffset": 10401
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/ce0232d9acb92d6d7c1b2d2d1e87035cf9c0ddf3/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 233,
+                        "endColumn": 92,
+                        "endOffset": 325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 10406,
+                    "endColumn": 91,
+                    "endOffset": 10493
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/ce0232d9acb92d6d7c1b2d2d1e87035cf9c0ddf3/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 326,
+                        "endColumn": 87,
+                        "endOffset": 413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 10498,
+                    "endColumn": 68,
+                    "endOffset": 10562
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/res/values-ja/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 2,
+                        "startOffset": 117,
+                        "endColumn": 66,
+                        "endOffset": 181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 10567,
+                    "endColumn": 65,
+                    "endOffset": 10628
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/78ee4314f31f4b803c39174767b2bc6819d8161c/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 237,
+                        "endColumn": 61,
+                        "endOffset": 298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 10633,
+                    "endColumn": 89,
+                    "endOffset": 10718
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/78ee4314f31f4b803c39174767b2bc6819d8161c/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 299,
+                        "endColumn": 85,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 10723,
+                    "endColumn": 65,
+                    "endOffset": 10784
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/78ee4314f31f4b803c39174767b2bc6819d8161c/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 385,
+                        "endColumn": 61,
+                        "endOffset": 446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 10789,
+                    "endColumn": 66,
+                    "endOffset": 10851
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/78ee4314f31f4b803c39174767b2bc6819d8161c/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 447,
+                        "endColumn": 62,
+                        "endOffset": 509
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 10856,
+                    "endColumn": 72,
+                    "endOffset": 10924
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/78ee4314f31f4b803c39174767b2bc6819d8161c/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 510,
+                        "endColumn": 68,
+                        "endOffset": 578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 10929,
+                    "endColumn": 87,
+                    "endOffset": 11012
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/78ee4314f31f4b803c39174767b2bc6819d8161c/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 579,
+                        "endColumn": 83,
+                        "endOffset": 662
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 11017,
+                    "endColumn": 77,
+                    "endOffset": 11090
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/053c5b3b07767f31fc07da8b89c9956b353ae26a/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1895,
+                        "endColumn": 77,
+                        "endOffset": 1968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 11095,
+                    "endColumn": 51,
+                    "endOffset": 11142
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/res/values-ja/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 892,
+                        "endColumn": 49,
+                        "endOffset": 939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 11147,
+                    "endColumn": 100,
+                    "endOffset": 11243
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/053c5b3b07767f31fc07da8b89c9956b353ae26a/output/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1973,
+                        "endColumn": 100,
+                        "endOffset": 2069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 11248,
+                    "endColumn": 105,
+                    "endOffset": 11349
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/res/values-ja/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 2,
+                        "startOffset": 434,
+                        "endColumn": 103,
+                        "endOffset": 535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 11354,
+                    "endColumn": 120,
+                    "endOffset": 11470
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/res/values-ja/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 2,
+                        "startOffset": 1511,
+                        "endColumn": 118,
+                        "endOffset": 1627
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 11475,
+                    "endColumn": 59,
+                    "endOffset": 11530
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/res/values-ja/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 705,
+                        "endColumn": 57,
+                        "endOffset": 760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 11535,
+                    "endColumn": 53,
+                    "endOffset": 11584
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/res/values-ja/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 2,
+                        "startOffset": 538,
+                        "endColumn": 51,
+                        "endOffset": 587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 11589,
+                    "endColumn": 97,
+                    "endOffset": 11682
+                },
+                "from": {
+                    "file": "/home/durbinlabs/.android/build-cache/2ef446b587aea7480526a014fe542d1040ec4353/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 240,
+                        "endColumn": 93,
+                        "endOffset": 333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 11687,
+                    "endColumn": 52,
+                    "endOffset": 11735
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/res/values-ja/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 2,
+                        "startOffset": 1114,
+                        "endColumn": 50,
+                        "endOffset": 1162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 11740,
+                    "endColumn": 60,
+                    "endOffset": 11796
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/res/values-ja/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 2,
+                        "startOffset": 1165,
+                        "endColumn": 58,
+                        "endOffset": 1221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 11801,
+                    "endColumn": 59,
+                    "endOffset": 11856
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/res/values-ja/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 1056,
+                        "endColumn": 57,
+                        "endOffset": 1111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 11861,
+                    "endColumn": 63,
+                    "endOffset": 11920
+                },
+                "from": {
+                    "file": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/res/values-ja/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 2,
+                        "startOffset": 372,
+                        "endColumn": 61,
+                        "endOffset": 431
+                    }
+                }
+            }
+        ]
+    }
+]

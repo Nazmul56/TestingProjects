@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/socket.io-client/0.5.0/7d40c590385ba95b34920eb89c986757a79968af/socket.io-client-0.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7d40c590385ba95b34920eb89c986757a79968af">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/socket-token-auth-client-master/app/build/intermediates/pre-dexed/debug/socket.io-client-0.5.0_0aa98bfeccbaba6b4820b86e4c96f667301b9323.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/engine.io-client/0.5.0/72f54ba32a0d735630ebc33a5c39e14a5dd45492/engine.io-client-0.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="72f54ba32a0d735630ebc33a5c39e14a5dd45492">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/socket-token-auth-client-master/app/build/intermediates/pre-dexed/debug/engine.io-client-0.5.0_fba642b5b89620a16bc8a0368c6c40b37c23860e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.3.0/2e7bc7033dc2c8423e661224171b3133fb155b28/okhttp-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/socket-token-auth-client-master/app/build/intermediates/pre-dexed/debug/okhttp-2.3.0_dca9da755b86d5e8d7c4455903cadd9bb68d4b0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.3.0/1b355f73402020c5a0dcca58affc3ec3dfeabac1/okio-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/socket-token-auth-client-master/app/build/intermediates/pre-dexed/debug/okio-1.3.0_3216f8f9c5c25f966285bd40d7a279f812c952b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durbinlabs/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.3.0/7896d229b6aa7884552ab9c23de54c7eb0de8203/okhttp-ws-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7896d229b6aa7884552ab9c23de54c7eb0de8203">
+        <dex dex="/home/durbinlabs/Desktop/Testing Project/socket-token-auth-client-master/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.3.0_37a15ec3aad1923b81bbdd095f1747d3e923c6c2.jar" />
+    </item>
+
+</items>

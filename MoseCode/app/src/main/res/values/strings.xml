@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MoseCode</string>
+    <string name="action_settings">Settings</string>
+    <string name="_underlines">under line</string>
+    <string name="enter_morse_code">enter morse code</string>
+    <string name="_dot">.</string>
+    <string name="_hyphen">-</string>
+    <string name="enter_plain_english_text_to_encode">enter message</string>
+    <string name="decode">decode</string>
+    <string name="encode">encode</string>
+    <string name="stop">stop</string>
+</resources>

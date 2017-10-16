@@ -1,0 +1,493 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:2:1-85:12
+	package
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services:11.0.4] /home/durbinlabs/.android/build-cache/6ae16a6bcd884a3a94588ab405ed11fd0d35ee40/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] /home/durbinlabs/.android/build-cache/78ee4314f31f4b803c39174767b2bc6819d8161c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/durbinlabs/.android/build-cache/550b53274268aa83d8c052e40ee34feb3a71b958/output/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /home/durbinlabs/.android/build-cache/3555d076340e3807cdad92b753f4a841303fcbed/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /home/durbinlabs/.android/build-cache/9214620110300d2385da7fbd0d46614bbb72ab86/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.4] /home/durbinlabs/.android/build-cache/46ddf319b18e0f29d593af8fa22f20a3ded5a614/output/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /home/durbinlabs/.android/build-cache/c9b00dea5cfdb912ea5dc08ff95097d5c284cc68/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] /home/durbinlabs/.android/build-cache/6c511132fb9eb7c4aaab4c8b6be725130cf130fd/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] /home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] /home/durbinlabs/.android/build-cache/99f1ca6625f78dc041a83b64cac3c1d92d4bada6/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /home/durbinlabs/.android/build-cache/e4276df9d6eef23ad3cb46488097f824262d8875/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/durbinlabs/.android/build-cache/053c5b3b07767f31fc07da8b89c9956b353ae26a/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/durbinlabs/.android/build-cache/221c44ca9847a21e736b37eaa3bdb46f3a623f1e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/durbinlabs/.android/build-cache/92887f405d99e0d2ba8f89510b50909d5a8f426b/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:palette-v7:25.2.0] /home/durbinlabs/.android/build-cache/5b71564601115daafd7fc04970fe181a518202f6/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /home/durbinlabs/.android/build-cache/a93bf8f85567942a5c551cf7a8415f6c1f402176/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.0.4] /home/durbinlabs/.android/build-cache/a8a503367dbfa4345917fac0f95a24740f1d6ae3/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] /home/durbinlabs/.android/build-cache/89dcf25a98ec66496294b7708b0480ef826f9bf7/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /home/durbinlabs/.android/build-cache/519c3ad1874d256ed357a0af508c7e936b96d582/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /home/durbinlabs/.android/build-cache/97efc23759d701396d703bcd080af1353404b6bd/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] /home/durbinlabs/.android/build-cache/4ca30c7f3ca6dcabe4ddc670fce005f451821af9/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] /home/durbinlabs/.android/build-cache/d16647cb4942d233b4e8663b5e545a9d923e852c/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] /home/durbinlabs/.android/build-cache/1cefb700bde0a3159af32fafa886cb6466bac85c/output/AndroidManifest.xml:3:3-41
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /home/durbinlabs/.android/build-cache/e2ef47c7924a39304a9f47341ae6c793491e95a1/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.4] /home/durbinlabs/.android/build-cache/208a940fb0247af04ea674cfa9570259a1af6dff/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] /home/durbinlabs/.android/build-cache/48c2118f2d58340a58479537c1bce69b65794d93/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] /home/durbinlabs/.android/build-cache/ee6ce9833f6ea02aae48cb882acb311c6a33dd16/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.0.4] /home/durbinlabs/.android/build-cache/ddc0dbced5e942014cf563d4a17bffb492eea898/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] /home/durbinlabs/.android/build-cache/337211105e34ecc9248aa2ea464d43bc10cc6150/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /home/durbinlabs/.android/build-cache/75fa191d05bec46a61b0b843ae134ea333f0a9cb/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /home/durbinlabs/.android/build-cache/8310fa3d84b3217a6b649865240b937e3bd05542/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] /home/durbinlabs/.android/build-cache/e41c6e746d80459dcd5fb2fabd53c668846f5755/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /home/durbinlabs/.android/build-cache/e36348f7f654f01664eeb897a9a3fe80d0fbe229/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.4] /home/durbinlabs/.android/build-cache/6e03399258346748802d7c4e08c1faed7943a727/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /home/durbinlabs/.android/build-cache/834e8fb605b97ecef05ad47e5724f70fb1506496/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /home/durbinlabs/.android/build-cache/fb427aaba92f0261b193bac2141244754cf1dfaf/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] /home/durbinlabs/.android/build-cache/9748ff44689ec3db236645d5a7a7b0c2f11648e3/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.4] /home/durbinlabs/.android/build-cache/ce0232d9acb92d6d7c1b2d2d1e87035cf9c0ddf3/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] /home/durbinlabs/.android/build-cache/54fb3fadf7c501040882062eb801bf8d60190383/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /home/durbinlabs/.android/build-cache/a29e356d0ff2468d529044830395d3e73d42eb0e/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.4] /home/durbinlabs/.android/build-cache/87e8d23c636298b28072e35b4dc781bee18d123a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /home/durbinlabs/.android/build-cache/ca2902c13916108175fc0d1e64befe144ae57a8c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/durbinlabs/.android/build-cache/11131e34537dd609d9efcc438464b97a9b38f634/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/durbinlabs/.android/build-cache/a95176af3de06d0fbf56fde68baacdb37874e845/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/durbinlabs/.android/build-cache/c8296b4234ded42f9cfeb6c14a0f953af23f6071/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] /home/durbinlabs/.android/build-cache/2ef8a905a4fcf0cbd54eb557dd30d1d2f2db97f0/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] /home/durbinlabs/.android/build-cache/40b1bde71f6a687022190ab6da291efc36325fc4/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /home/durbinlabs/.android/build-cache/3b344ff4ab637945a543a2042d77a19639ca08ac/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /home/durbinlabs/.android/build-cache/5878f59d89ed7ea6d0cc54ba4002352f53e82d6a/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /home/durbinlabs/.android/build-cache/545e454ded8ffd3cca533adbe5229499d1b68cbb/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.0.4] /home/durbinlabs/.android/build-cache/2ef446b587aea7480526a014fe542d1040ec4353/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] /home/durbinlabs/.android/build-cache/53f0e98b361a71bb9a190d74654c7d5fac308536/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/durbinlabs/.android/build-cache/c13ee9fd351bf2bbe5ea20340acbd61f85473020/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] /home/durbinlabs/.android/build-cache/4b8b93cc929d98e9a966ecc34dcc4fa78646a7e5/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/durbinlabs/.android/build-cache/2f175e15ac7342681a058f17fa6294f563c682f5/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/durbinlabs/.android/build-cache/f2049bbcc7965de5c68c3874a60fbfcfff6c7bfb/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/durbinlabs/.android/build-cache/59fc2349a6f10857da575e11ef86a8a54e31abf7/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] /home/durbinlabs/.android/build-cache/0b79cee2873f6c96ad5ecae37a8dde70dac7b7cd/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /home/durbinlabs/.android/build-cache/3a99087b42b04e485ea7c2a5c919446bf2c7eb81/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/durbinlabs/.android/build-cache/3e321504eeb5affb627d32b081d9a1573e63571a/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/durbinlabs/.android/build-cache/bde3fe480debc14a9cfcb2888882407958ef593f/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/durbinlabs/.android/build-cache/46d6ff9d60b5c73c31405ea014380f2ddc1d19d6/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] /home/durbinlabs/.android/build-cache/0b6e2973a48002bcb87bd24f2f94138f69e5b597/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:multidex:1.0.1] /home/durbinlabs/.android/build-cache/eed200e97d35e6595b0bd9ecdab017837f15feb4/output/AndroidManifest.xml:18:5-42
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.2.0] /home/durbinlabs/.android/build-cache/053c5b3b07767f31fc07da8b89c9956b353ae26a/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml
+		INJECTED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:11:22-62
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:13:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:14:5-71
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:14:22-68
+uses-permission#android.permission.INTERNET
+ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:16:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/durbinlabs/.android/build-cache/550b53274268aa83d8c052e40ee34feb3a71b958/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /home/durbinlabs/.android/build-cache/3555d076340e3807cdad92b753f4a841303fcbed/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /home/durbinlabs/.android/build-cache/9214620110300d2385da7fbd0d46614bbb72ab86/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /home/durbinlabs/.android/build-cache/519c3ad1874d256ed357a0af508c7e936b96d582/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /home/durbinlabs/.android/build-cache/8310fa3d84b3217a6b649865240b937e3bd05542/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /home/durbinlabs/.android/build-cache/e36348f7f654f01664eeb897a9a3fe80d0fbe229/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /home/durbinlabs/.android/build-cache/ca2902c13916108175fc0d1e64befe144ae57a8c/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/durbinlabs/.android/build-cache/11131e34537dd609d9efcc438464b97a9b38f634/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/durbinlabs/.android/build-cache/a95176af3de06d0fbf56fde68baacdb37874e845/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/durbinlabs/.android/build-cache/c8296b4234ded42f9cfeb6c14a0f953af23f6071/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /home/durbinlabs/.android/build-cache/3b344ff4ab637945a543a2042d77a19639ca08ac/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/durbinlabs/.android/build-cache/c13ee9fd351bf2bbe5ea20340acbd61f85473020/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:16:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:17:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/durbinlabs/.android/build-cache/550b53274268aa83d8c052e40ee34feb3a71b958/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /home/durbinlabs/.android/build-cache/3555d076340e3807cdad92b753f4a841303fcbed/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /home/durbinlabs/.android/build-cache/fb427aaba92f0261b193bac2141244754cf1dfaf/output/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /home/durbinlabs/.android/build-cache/ca2902c13916108175fc0d1e64befe144ae57a8c/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/durbinlabs/.android/build-cache/11131e34537dd609d9efcc438464b97a9b38f634/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/durbinlabs/.android/build-cache/a95176af3de06d0fbf56fde68baacdb37874e845/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/durbinlabs/.android/build-cache/c8296b4234ded42f9cfeb6c14a0f953af23f6071/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /home/durbinlabs/.android/build-cache/3b344ff4ab637945a543a2042d77a19639ca08ac/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/durbinlabs/.android/build-cache/c13ee9fd351bf2bbe5ea20340acbd61f85473020/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:18:22-73
+permission#com.HybridScreensApp.permission.C2D_MESSAGE
+ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:20:5-22:47
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/durbinlabs/.android/build-cache/c8296b4234ded42f9cfeb6c14a0f953af23f6071/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:22:9-44
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:21:9-67
+uses-permission#com.HybridScreensApp.permission.C2D_MESSAGE
+ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:24:5-83
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/durbinlabs/.android/build-cache/c8296b4234ded42f9cfeb6c14a0f953af23f6071/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:24:22-80
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:25:5-82
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /home/durbinlabs/.android/build-cache/8310fa3d84b3217a6b649865240b937e3bd05542/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /home/durbinlabs/.android/build-cache/e36348f7f654f01664eeb897a9a3fe80d0fbe229/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/durbinlabs/.android/build-cache/c8296b4234ded42f9cfeb6c14a0f953af23f6071/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:25:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:26:5-68
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /home/durbinlabs/.android/build-cache/3555d076340e3807cdad92b753f4a841303fcbed/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/durbinlabs/.android/build-cache/11131e34537dd609d9efcc438464b97a9b38f634/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/durbinlabs/.android/build-cache/a95176af3de06d0fbf56fde68baacdb37874e845/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/durbinlabs/.android/build-cache/c8296b4234ded42f9cfeb6c14a0f953af23f6071/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /home/durbinlabs/.android/build-cache/3b344ff4ab637945a543a2042d77a19639ca08ac/output/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:26:22-65
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:27:5-71
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:27:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:28:5-74
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:28:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:29:5-81
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:29:22-78
+application
+ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:31:5-83:19
+MERGED from [com.google.android.gms:play-services:11.0.4] /home/durbinlabs/.android/build-cache/6ae16a6bcd884a3a94588ab405ed11fd0d35ee40/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/durbinlabs/.android/build-cache/550b53274268aa83d8c052e40ee34feb3a71b958/output/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /home/durbinlabs/.android/build-cache/3555d076340e3807cdad92b753f4a841303fcbed/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /home/durbinlabs/.android/build-cache/9214620110300d2385da7fbd0d46614bbb72ab86/output/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /home/durbinlabs/.android/build-cache/c9b00dea5cfdb912ea5dc08ff95097d5c284cc68/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] /home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] /home/durbinlabs/.android/build-cache/99f1ca6625f78dc041a83b64cac3c1d92d4bada6/output/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /home/durbinlabs/.android/build-cache/e4276df9d6eef23ad3cb46488097f824262d8875/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/durbinlabs/.android/build-cache/053c5b3b07767f31fc07da8b89c9956b353ae26a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/durbinlabs/.android/build-cache/221c44ca9847a21e736b37eaa3bdb46f3a623f1e/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/durbinlabs/.android/build-cache/92887f405d99e0d2ba8f89510b50909d5a8f426b/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:palette-v7:25.2.0] /home/durbinlabs/.android/build-cache/5b71564601115daafd7fc04970fe181a518202f6/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /home/durbinlabs/.android/build-cache/a93bf8f85567942a5c551cf7a8415f6c1f402176/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:11.0.4] /home/durbinlabs/.android/build-cache/a8a503367dbfa4345917fac0f95a24740f1d6ae3/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] /home/durbinlabs/.android/build-cache/89dcf25a98ec66496294b7708b0480ef826f9bf7/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /home/durbinlabs/.android/build-cache/519c3ad1874d256ed357a0af508c7e936b96d582/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /home/durbinlabs/.android/build-cache/97efc23759d701396d703bcd080af1353404b6bd/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] /home/durbinlabs/.android/build-cache/1cefb700bde0a3159af32fafa886cb6466bac85c/output/AndroidManifest.xml:5:3-17
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /home/durbinlabs/.android/build-cache/e2ef47c7924a39304a9f47341ae6c793491e95a1/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] /home/durbinlabs/.android/build-cache/ee6ce9833f6ea02aae48cb882acb311c6a33dd16/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.0.4] /home/durbinlabs/.android/build-cache/ddc0dbced5e942014cf563d4a17bffb492eea898/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] /home/durbinlabs/.android/build-cache/337211105e34ecc9248aa2ea464d43bc10cc6150/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /home/durbinlabs/.android/build-cache/75fa191d05bec46a61b0b843ae134ea333f0a9cb/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /home/durbinlabs/.android/build-cache/8310fa3d84b3217a6b649865240b937e3bd05542/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] /home/durbinlabs/.android/build-cache/e41c6e746d80459dcd5fb2fabd53c668846f5755/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /home/durbinlabs/.android/build-cache/e36348f7f654f01664eeb897a9a3fe80d0fbe229/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /home/durbinlabs/.android/build-cache/834e8fb605b97ecef05ad47e5724f70fb1506496/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /home/durbinlabs/.android/build-cache/fb427aaba92f0261b193bac2141244754cf1dfaf/output/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] /home/durbinlabs/.android/build-cache/9748ff44689ec3db236645d5a7a7b0c2f11648e3/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.4] /home/durbinlabs/.android/build-cache/ce0232d9acb92d6d7c1b2d2d1e87035cf9c0ddf3/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] /home/durbinlabs/.android/build-cache/54fb3fadf7c501040882062eb801bf8d60190383/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /home/durbinlabs/.android/build-cache/a29e356d0ff2468d529044830395d3e73d42eb0e/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /home/durbinlabs/.android/build-cache/ca2902c13916108175fc0d1e64befe144ae57a8c/output/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/durbinlabs/.android/build-cache/11131e34537dd609d9efcc438464b97a9b38f634/output/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/durbinlabs/.android/build-cache/a95176af3de06d0fbf56fde68baacdb37874e845/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/durbinlabs/.android/build-cache/c8296b4234ded42f9cfeb6c14a0f953af23f6071/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] /home/durbinlabs/.android/build-cache/2ef8a905a4fcf0cbd54eb557dd30d1d2f2db97f0/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] /home/durbinlabs/.android/build-cache/40b1bde71f6a687022190ab6da291efc36325fc4/output/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /home/durbinlabs/.android/build-cache/3b344ff4ab637945a543a2042d77a19639ca08ac/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /home/durbinlabs/.android/build-cache/5878f59d89ed7ea6d0cc54ba4002352f53e82d6a/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /home/durbinlabs/.android/build-cache/545e454ded8ffd3cca533adbe5229499d1b68cbb/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] /home/durbinlabs/.android/build-cache/53f0e98b361a71bb9a190d74654c7d5fac308536/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/durbinlabs/.android/build-cache/c13ee9fd351bf2bbe5ea20340acbd61f85473020/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] /home/durbinlabs/.android/build-cache/4b8b93cc929d98e9a966ecc34dcc4fa78646a7e5/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/durbinlabs/.android/build-cache/2f175e15ac7342681a058f17fa6294f563c682f5/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/durbinlabs/.android/build-cache/f2049bbcc7965de5c68c3874a60fbfcfff6c7bfb/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/durbinlabs/.android/build-cache/59fc2349a6f10857da575e11ef86a8a54e31abf7/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] /home/durbinlabs/.android/build-cache/0b79cee2873f6c96ad5ecae37a8dde70dac7b7cd/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/durbinlabs/.android/build-cache/3a99087b42b04e485ea7c2a5c919446bf2c7eb81/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/durbinlabs/.android/build-cache/3e321504eeb5affb627d32b081d9a1573e63571a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/durbinlabs/.android/build-cache/bde3fe480debc14a9cfcb2888882407958ef593f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/durbinlabs/.android/build-cache/46d6ff9d60b5c73c31405ea014380f2ddc1d19d6/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/durbinlabs/.android/build-cache/0b6e2973a48002bcb87bd24f2f94138f69e5b597/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:35:9-41
+	android:icon
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:34:9-38
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:33:9-68
+activity#com.HybridScreensApp.HybridScreensApp
+ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:36:9-52:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:40:13-45
+	android:launchMode
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:41:13-44
+	android:configChanges
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:39:13-74
+	android:theme
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:38:13-54
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:37:13-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:42:13-46:29
+action#android.intent.action.MAIN
+ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:45:27-74
+intent-filter#android.intent.category.DEFAULT+com.HybridScreensApp.HybridScreensApp.NOTIFICATION
+ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:47:13-51:29
+action#com.HybridScreensApp.HybridScreensApp.NOTIFICATION
+ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:48:17-93
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:48:25-90
+category#android.intent.category.DEFAULT
+ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:50:17-76
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:50:27-73
+activity#com.worklight.common.WLPreferences
+ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:54:9-57:20
+	android:label
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:56:13-47
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:55:13-62
+service#com.HybridScreensApp.ForegroundService
+ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:64:9-54
+	android:name
+		ADDED from /home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/AndroidManifest.xml:64:18-51
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/durbinlabs/.android/build-cache/550b53274268aa83d8c052e40ee34feb3a71b958/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/durbinlabs/.android/build-cache/550b53274268aa83d8c052e40ee34feb3a71b958/output/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/durbinlabs/.android/build-cache/550b53274268aa83d8c052e40ee34feb3a71b958/output/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/durbinlabs/.android/build-cache/550b53274268aa83d8c052e40ee34feb3a71b958/output/AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /home/durbinlabs/.android/build-cache/9214620110300d2385da7fbd0d46614bbb72ab86/output/AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /home/durbinlabs/.android/build-cache/9214620110300d2385da7fbd0d46614bbb72ab86/output/AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /home/durbinlabs/.android/build-cache/9214620110300d2385da7fbd0d46614bbb72ab86/output/AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /home/durbinlabs/.android/build-cache/9214620110300d2385da7fbd0d46614bbb72ab86/output/AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /home/durbinlabs/.android/build-cache/9214620110300d2385da7fbd0d46614bbb72ab86/output/AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /home/durbinlabs/.android/build-cache/9214620110300d2385da7fbd0d46614bbb72ab86/output/AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /home/durbinlabs/.android/build-cache/9214620110300d2385da7fbd0d46614bbb72ab86/output/AndroidManifest.xml:22:25-87
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] /home/durbinlabs/.android/build-cache/c9b00dea5cfdb912ea5dc08ff95097d5c284cc68/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /home/durbinlabs/.android/build-cache/c9b00dea5cfdb912ea5dc08ff95097d5c284cc68/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /home/durbinlabs/.android/build-cache/c9b00dea5cfdb912ea5dc08ff95097d5c284cc68/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /home/durbinlabs/.android/build-cache/c9b00dea5cfdb912ea5dc08ff95097d5c284cc68/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /home/durbinlabs/.android/build-cache/c9b00dea5cfdb912ea5dc08ff95097d5c284cc68/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] /home/durbinlabs/.android/build-cache/c9b00dea5cfdb912ea5dc08ff95097d5c284cc68/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /home/durbinlabs/.android/build-cache/c9b00dea5cfdb912ea5dc08ff95097d5c284cc68/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /home/durbinlabs/.android/build-cache/c9b00dea5cfdb912ea5dc08ff95097d5c284cc68/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /home/durbinlabs/.android/build-cache/c9b00dea5cfdb912ea5dc08ff95097d5c284cc68/output/AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /home/durbinlabs/.android/build-cache/8751f6856de97627d9d514f62255fe619dd73adc/output/AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /home/durbinlabs/.android/build-cache/e2ef47c7924a39304a9f47341ae6c793491e95a1/output/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /home/durbinlabs/.android/build-cache/e2ef47c7924a39304a9f47341ae6c793491e95a1/output/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /home/durbinlabs/.android/build-cache/e2ef47c7924a39304a9f47341ae6c793491e95a1/output/AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /home/durbinlabs/.android/build-cache/e2ef47c7924a39304a9f47341ae6c793491e95a1/output/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /home/durbinlabs/.android/build-cache/e2ef47c7924a39304a9f47341ae6c793491e95a1/output/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /home/durbinlabs/.android/build-cache/e2ef47c7924a39304a9f47341ae6c793491e95a1/output/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /home/durbinlabs/.android/build-cache/e2ef47c7924a39304a9f47341ae6c793491e95a1/output/AndroidManifest.xml:25:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /home/durbinlabs/.android/build-cache/ca2902c13916108175fc0d1e64befe144ae57a8c/output/AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /home/durbinlabs/.android/build-cache/ca2902c13916108175fc0d1e64befe144ae57a8c/output/AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /home/durbinlabs/.android/build-cache/ca2902c13916108175fc0d1e64befe144ae57a8c/output/AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /home/durbinlabs/.android/build-cache/ca2902c13916108175fc0d1e64befe144ae57a8c/output/AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /home/durbinlabs/.android/build-cache/ca2902c13916108175fc0d1e64befe144ae57a8c/output/AndroidManifest.xml:25:9-32:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /home/durbinlabs/.android/build-cache/ca2902c13916108175fc0d1e64befe144ae57a8c/output/AndroidManifest.xml:25:94-117
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /home/durbinlabs/.android/build-cache/ca2902c13916108175fc0d1e64befe144ae57a8c/output/AndroidManifest.xml:25:118-142
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /home/durbinlabs/.android/build-cache/ca2902c13916108175fc0d1e64befe144ae57a8c/output/AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /home/durbinlabs/.android/build-cache/ca2902c13916108175fc0d1e64befe144ae57a8c/output/AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /home/durbinlabs/.android/build-cache/ca2902c13916108175fc0d1e64befe144ae57a8c/output/AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /home/durbinlabs/.android/build-cache/ca2902c13916108175fc0d1e64befe144ae57a8c/output/AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /home/durbinlabs/.android/build-cache/ca2902c13916108175fc0d1e64befe144ae57a8c/output/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /home/durbinlabs/.android/build-cache/ca2902c13916108175fc0d1e64befe144ae57a8c/output/AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /home/durbinlabs/.android/build-cache/ca2902c13916108175fc0d1e64befe144ae57a8c/output/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /home/durbinlabs/.android/build-cache/ca2902c13916108175fc0d1e64befe144ae57a8c/output/AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/durbinlabs/.android/build-cache/11131e34537dd609d9efcc438464b97a9b38f634/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/durbinlabs/.android/build-cache/a95176af3de06d0fbf56fde68baacdb37874e845/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/durbinlabs/.android/build-cache/11131e34537dd609d9efcc438464b97a9b38f634/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/durbinlabs/.android/build-cache/11131e34537dd609d9efcc438464b97a9b38f634/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/durbinlabs/.android/build-cache/11131e34537dd609d9efcc438464b97a9b38f634/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/durbinlabs/.android/build-cache/11131e34537dd609d9efcc438464b97a9b38f634/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/durbinlabs/.android/build-cache/11131e34537dd609d9efcc438464b97a9b38f634/output/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/durbinlabs/.android/build-cache/11131e34537dd609d9efcc438464b97a9b38f634/output/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/durbinlabs/.android/build-cache/11131e34537dd609d9efcc438464b97a9b38f634/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/durbinlabs/.android/build-cache/11131e34537dd609d9efcc438464b97a9b38f634/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/durbinlabs/.android/build-cache/11131e34537dd609d9efcc438464b97a9b38f634/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/durbinlabs/.android/build-cache/11131e34537dd609d9efcc438464b97a9b38f634/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/durbinlabs/.android/build-cache/11131e34537dd609d9efcc438464b97a9b38f634/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/durbinlabs/.android/build-cache/11131e34537dd609d9efcc438464b97a9b38f634/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/durbinlabs/.android/build-cache/a95176af3de06d0fbf56fde68baacdb37874e845/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/durbinlabs/.android/build-cache/11131e34537dd609d9efcc438464b97a9b38f634/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/durbinlabs/.android/build-cache/11131e34537dd609d9efcc438464b97a9b38f634/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/durbinlabs/.android/build-cache/11131e34537dd609d9efcc438464b97a9b38f634/output/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/durbinlabs/.android/build-cache/11131e34537dd609d9efcc438464b97a9b38f634/output/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/durbinlabs/.android/build-cache/11131e34537dd609d9efcc438464b97a9b38f634/output/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/durbinlabs/.android/build-cache/11131e34537dd609d9efcc438464b97a9b38f634/output/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/durbinlabs/.android/build-cache/11131e34537dd609d9efcc438464b97a9b38f634/output/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/durbinlabs/.android/build-cache/11131e34537dd609d9efcc438464b97a9b38f634/output/AndroidManifest.xml:33:16-90
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/durbinlabs/.android/build-cache/c8296b4234ded42f9cfeb6c14a0f953af23f6071/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/durbinlabs/.android/build-cache/c8296b4234ded42f9cfeb6c14a0f953af23f6071/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/durbinlabs/.android/build-cache/c8296b4234ded42f9cfeb6c14a0f953af23f6071/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/durbinlabs/.android/build-cache/c8296b4234ded42f9cfeb6c14a0f953af23f6071/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/durbinlabs/.android/build-cache/c8296b4234ded42f9cfeb6c14a0f953af23f6071/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/durbinlabs/.android/build-cache/c8296b4234ded42f9cfeb6c14a0f953af23f6071/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/durbinlabs/.android/build-cache/c8296b4234ded42f9cfeb6c14a0f953af23f6071/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/durbinlabs/.android/build-cache/c8296b4234ded42f9cfeb6c14a0f953af23f6071/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/durbinlabs/.android/build-cache/c8296b4234ded42f9cfeb6c14a0f953af23f6071/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/durbinlabs/.android/build-cache/c8296b4234ded42f9cfeb6c14a0f953af23f6071/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/durbinlabs/.android/build-cache/c8296b4234ded42f9cfeb6c14a0f953af23f6071/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/durbinlabs/.android/build-cache/c8296b4234ded42f9cfeb6c14a0f953af23f6071/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/durbinlabs/.android/build-cache/c8296b4234ded42f9cfeb6c14a0f953af23f6071/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/durbinlabs/.android/build-cache/c8296b4234ded42f9cfeb6c14a0f953af23f6071/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/durbinlabs/.android/build-cache/c8296b4234ded42f9cfeb6c14a0f953af23f6071/output/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/durbinlabs/.android/build-cache/c8296b4234ded42f9cfeb6c14a0f953af23f6071/output/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/durbinlabs/.android/build-cache/c8296b4234ded42f9cfeb6c14a0f953af23f6071/output/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/durbinlabs/.android/build-cache/c8296b4234ded42f9cfeb6c14a0f953af23f6071/output/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/durbinlabs/.android/build-cache/c8296b4234ded42f9cfeb6c14a0f953af23f6071/output/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] /home/durbinlabs/.android/build-cache/2ef8a905a4fcf0cbd54eb557dd30d1d2f2db97f0/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/durbinlabs/.android/build-cache/2ef8a905a4fcf0cbd54eb557dd30d1d2f2db97f0/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/durbinlabs/.android/build-cache/2ef8a905a4fcf0cbd54eb557dd30d1d2f2db97f0/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/durbinlabs/.android/build-cache/2ef8a905a4fcf0cbd54eb557dd30d1d2f2db97f0/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/durbinlabs/.android/build-cache/2ef8a905a4fcf0cbd54eb557dd30d1d2f2db97f0/output/AndroidManifest.xml:6:79-143
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] /home/durbinlabs/.android/build-cache/c13ee9fd351bf2bbe5ea20340acbd61f85473020/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /home/durbinlabs/.android/build-cache/c13ee9fd351bf2bbe5ea20340acbd61f85473020/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /home/durbinlabs/.android/build-cache/c13ee9fd351bf2bbe5ea20340acbd61f85473020/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/durbinlabs/.android/build-cache/2f175e15ac7342681a058f17fa6294f563c682f5/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/durbinlabs/.android/build-cache/2f175e15ac7342681a058f17fa6294f563c682f5/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/durbinlabs/.android/build-cache/2f175e15ac7342681a058f17fa6294f563c682f5/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/durbinlabs/.android/build-cache/2f175e15ac7342681a058f17fa6294f563c682f5/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/durbinlabs/.android/build-cache/59fc2349a6f10857da575e11ef86a8a54e31abf7/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/durbinlabs/.android/build-cache/59fc2349a6f10857da575e11ef86a8a54e31abf7/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/durbinlabs/.android/build-cache/59fc2349a6f10857da575e11ef86a8a54e31abf7/output/AndroidManifest.xml:20:20-65

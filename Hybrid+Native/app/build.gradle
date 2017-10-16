@@ -1,0 +1,36 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion "26.0.1"
+
+    defaultConfig {
+        applicationId "com.HybridScreensApp"
+        minSdkVersion 18
+        targetSdkVersion 26
+        multiDexEnabled true
+
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.google.android.gms:play-services:+'
+    compile 'com.google.guava:guava:18.0'
+    compile files('libs/android-async-http.jar')
+    compile files('libs/bcprov.jar')
+    compile files('libs/commons-codec.jar')
+    compile files('libs/cordova.jar')
+    compile files('libs/cordova_plugins.jar')
+/*  compile files('libs/jackson-core-asl.jar')
+    compile files('libs/jackson-mapper-asl.jar')*/
+    compile files('libs/worklight-android.jar')
+    compile 'com.android.support:multidex:1.0.1'
+
+}

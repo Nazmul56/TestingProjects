@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_standard_off_client.png",
+        "source": "/home/durbinlabs/.android/build-cache/54fb3fadf7c501040882062eb801bf8d60190383/output/res/drawable-tvdpi-v4/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_small_off_client.png",
+        "source": "/home/durbinlabs/.android/build-cache/54fb3fadf7c501040882062eb801bf8d60190383/output/res/drawable-tvdpi-v4/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_tall_off_client.png",
+        "source": "/home/durbinlabs/.android/build-cache/54fb3fadf7c501040882062eb801bf8d60190383/output/res/drawable-tvdpi-v4/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_medium_off_client.png",
+        "source": "/home/durbinlabs/.android/build-cache/54fb3fadf7c501040882062eb801bf8d60190383/output/res/drawable-tvdpi-v4/ic_plusone_medium_off_client.png"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/res/merged/debug/drawable-ldpi/icon.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/res/merged/debug/drawable-ldpi/settings.png",
+        "source": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/src/main/res/drawable-ldpi/settings.png"
+    }
+]

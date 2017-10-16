@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/home/durbinlabs/.android/build-cache/e4276df9d6eef23ad3cb46488097f824262d8875/output/res/interpolator/mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/home/durbinlabs/Desktop/Testing Project/Hybrid+Native/app/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/home/durbinlabs/.android/build-cache/e4276df9d6eef23ad3cb46488097f824262d8875/output/res/interpolator/mr_fast_out_slow_in.xml"
+    }
+]
