@@ -61,12 +61,9 @@ public class DrawerListAdapter extends BaseAdapter {
         Holder holder=new Holder();
         View view;
         view = inflater.inflate(R.layout.layout_drawer_item, null);
-
         holder.tv_title = (TextView) view.findViewById(R.id.tv_title);
         holder.im_icon = (ImageView) view.findViewById(R.id.im_icon);
-
         holder.tv_title.setText(titles.get(position));
-
         Picasso.with(activity.getApplicationContext()).load(imageId[position]).into(holder.im_icon);
 
         return view;

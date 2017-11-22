@@ -1,0 +1,28 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion '27.0.1'
+    defaultConfig {
+        //applicationId "me.kevingleason.pnwebrtc"
+        minSdkVersion 15
+        targetSdkVersion 26
+        versionName project.VERSION_NAME
+    }
+    /* buildTypes {
+         release {
+             runProguard false
+             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+         }
+     }*/
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'io.pristine:libjingle:11139@aar'
+    compile 'com.pubnub:pubnub-android:3.7.4'
+}
+
+//apply from: '../maven_push.gradle'

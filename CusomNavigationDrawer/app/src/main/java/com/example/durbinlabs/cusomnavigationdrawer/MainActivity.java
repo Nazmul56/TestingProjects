@@ -60,6 +60,7 @@ public class MainActivity extends AppCompatActivity {
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
                 this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
         drawer.setDrawerListener(toggle);
+
         toggle.syncState();
 
         drawerListAdapter = new DrawerListAdapter(MainActivity.this, navigation_items, drawer_icons);
@@ -73,6 +74,7 @@ public class MainActivity extends AppCompatActivity {
 
                     tv_selected_navigation.setText("Selected Call");
 
+
                 } else if (navigation_items.get(position).equalsIgnoreCase("Favorite")) {
 
                     tv_selected_navigation.setText("Selected Favorite");
@@ -84,6 +86,7 @@ public class MainActivity extends AppCompatActivity {
                 }
 
             }
+
         });
 
     }

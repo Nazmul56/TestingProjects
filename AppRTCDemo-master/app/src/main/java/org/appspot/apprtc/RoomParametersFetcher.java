@@ -160,6 +160,8 @@ public class RoomParametersFetcher {
 
   // Requests & returns a TURN ICE Server based on a request URL.  Must be run
   // off the main thread!
+
+
   private LinkedList<PeerConnection.IceServer> requestTurnServers(String url)
       throws IOException, JSONException {
     LinkedList<PeerConnection.IceServer> turnServers = new LinkedList<PeerConnection.IceServer>();
