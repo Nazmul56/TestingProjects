@@ -29,35 +29,11 @@ import android.view.View;
 import android.view.WindowManager;
 import android.view.WindowManager.LayoutParams;
 import android.widget.Button;
-import android.widget.LinearLayout;
 
 public class FloatingWindow extends Service {
 
     WindowManager wm;
-    LinearLayout ll;
     View view;
-
-    private static final String VIDEO_CODEC_VP9 = "VP9";
-    private static final String AUDIO_CODEC_OPUS = "opus";
-    // Local preview screen position before call is connected.
-    private static final int LOCAL_X_CONNECTING = 0;
-    private static final int LOCAL_Y_CONNECTING = 0;
-    private static final int LOCAL_WIDTH_CONNECTING = 100;
-    private static final int LOCAL_HEIGHT_CONNECTING = 100;
-    // Local preview screen position after call is connected.
-    private static final int LOCAL_X_CONNECTED = 72;
-    private static final int LOCAL_Y_CONNECTED = 62;
-    private static final int LOCAL_WIDTH_CONNECTED = 25;
-    private static final int LOCAL_HEIGHT_CONNECTED = 25;
-
-    // Remote video screen position
-    private static final int REMOTE_X = 0;
-    private static final int REMOTE_Y = 0;
-    private static final int REMOTE_WIDTH = 100;
-    private static final int REMOTE_HEIGHT = 100;
-
-    //private VideoRendererGui.ScalingType scalingType = VideoRendererGui.ScalingType.SCALE_ASPECT_FILL;
-    private String mSocketAddress;
 
     @Override
     public IBinder onBind(Intent intent) {
@@ -72,13 +48,6 @@ public class FloatingWindow extends Service {
 
         wm = (WindowManager) getSystemService(WINDOW_SERVICE);
 
-      /*  ll = new LinearLayout(this);
-        ll.setBackgroundColor(Color.RED);
-        LinearLayout.LayoutParams layoutParameteres = new LinearLayout.LayoutParams(
-                LinearLayout.LayoutParams.MATCH_PARENT, 400);
-        ll.setBackgroundColor(Color.argb(255,255,255,255));
-        ll.setLayoutParams(layoutParameteres);
-*/
         final LayoutParams parameters = new LayoutParams(
                 500, 500, LayoutParams.TYPE_PHONE,
                 LayoutParams.FLAG_NOT_FOCUSABLE,

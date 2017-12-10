@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Floating Window Fress.iml" filepath="$PROJECT_DIR$/Floating Window Fress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proximity_Sensor.iml" filepath="$PROJECT_DIR$/Proximity_Sensor.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
