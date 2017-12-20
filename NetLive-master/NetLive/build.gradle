@@ -1,0 +1,29 @@
+apply plugin: 'com.android.application'
+
+android {
+  compileSdkVersion 26
+  buildToolsVersion '26.0.2'
+
+  defaultConfig {
+    minSdkVersion 18
+    targetSdkVersion 26
+    versionCode 38
+    versionName "3.3.4"
+  }
+
+  buildTypes {
+    release {
+      zipAlignEnabled true
+      minifyEnabled false
+      proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+    }
+  }
+  lintOptions {
+    checkReleaseBuilds false
+  }
+}
+
+dependencies {
+  compile fileTree(dir: 'libs', include: ['*.jar'])
+  compile 'com.android.support:appcompat-v7:26.1.0'
+}
