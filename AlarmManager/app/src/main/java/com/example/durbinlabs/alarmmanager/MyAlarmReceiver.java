@@ -12,6 +12,7 @@ import android.graphics.BitmapFactory;
 import android.media.RingtoneManager;
 import android.net.Uri;
 import android.support.v4.app.NotificationCompat;
+import android.util.Log;
 
 import java.util.Calendar;
 
@@ -61,7 +62,16 @@ public class MyAlarmReceiver extends BroadcastReceiver {
             e.printStackTrace();
         }*/
         //triggerNotification(context, title + "\n" + description);
-        triggerNotification(context, "Demo" + "\n" + "Test");
+        //triggerNotification(context, "Demo" + "\n" + "Test");
+
+        triggerActivity(context);
+    }
+    private void triggerActivity(Context context) {
+        Log.d("TRIG", "Triggred");
+        Intent intentNotification = new Intent("android.intent.category.LAUNCHER");
+        intentNotification.setClassName("com.example.durbinlabs.alarmmanager", "com.example.durbinlabs.alarmmanager.AlarmActivity");
+        intentNotification.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_NEW_TASK);
+        context.startActivity(intentNotification);
     }
     private void triggerNotification(Context contexto, String t) {
         Intent notificationIntent = new Intent(contexto, AlarmActivity.class);

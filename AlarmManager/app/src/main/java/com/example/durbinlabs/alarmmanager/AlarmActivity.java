@@ -224,7 +224,6 @@ public class AlarmActivity extends AppCompatActivity {
         first_am.setInexactRepeating(AlarmManager.RTC_WAKEUP, calendar.getTimeInMillis(),// Here the Alarm is Set
                 AlarmManager.INTERVAL_DAY, pendingIntent);
 
-
         /*AlarmManager  first_am = (AlarmManager) AlarmActivity.this
                 .getSystemService(AlarmActivity.this.ALARM_SERVICE);
         first_am.setInexactRepeating(AlarmManager.RTC_WAKEUP, calendar.getTimeInMillis(),// Here the Alarm is Set

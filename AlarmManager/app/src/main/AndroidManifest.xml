@@ -23,9 +23,9 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".AlarmActivity"
+            android:name="com.example.durbinlabs.alarmmanager.AlarmActivity"
             android:label="@string/app_name"
-            android:theme="@style/AppTheme.NoActionBar" >
+            android:theme="@style/AppTheme.NoActionBar">
         </activity>
 
         <receiver
